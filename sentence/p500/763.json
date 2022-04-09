@@ -1,0 +1,3508 @@
+{
+    "currentPage": 763,
+    "pageSize": 500,
+    "items": [
+        {
+            "id": "aed7a8f2b2c34fbaa2cf69d756822fe3",
+            "sentence_en": "I didn't want to move to Boston.",
+            "sentence_vi": "Tôi không muốn chuyển đến Boston.",
+            "phonetic": "aɪ ˈdɪdənt wɔnt tɪ muv tɪ ˈbɔstən.",
+            "group": "group_8"
+        },
+        {
+            "id": "58cd2a0594a94746b7aa880048bcb124",
+            "sentence_en": "I know how to get to your place.",
+            "sentence_vi": "Tôi biết làm thế nào để đến được vị trí của bạn.",
+            "phonetic": "aɪ noʊ haʊ tɪ gɪt tɪ jʊr pleɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "6f3dd19fc4ad4740a22305d490889902",
+            "sentence_en": "I know I don't have much choice.",
+            "sentence_vi": "Tôi biết tôi không có nhiều lựa chọn.",
+            "phonetic": "aɪ noʊ aɪ doʊnt hæv məʧ ʧɔɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "6d40589e90b14a5bb6d14d0b6b99a427",
+            "sentence_en": "I knew I didn't have to do that.",
+            "sentence_vi": "Tôi biết tôi không cần phải làm điều đó.",
+            "phonetic": "aɪ nu aɪ ˈdɪdənt hæv tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "4cbbc30190f04691bd5195debd7ed851",
+            "sentence_en": "I intend to do that from now on.",
+            "sentence_vi": "Tôi dự định làm điều đó từ bây giờ.",
+            "phonetic": "aɪ ˌɪnˈtɛnd tɪ du ðət frəm naʊ ɔn.",
+            "group": "group_8"
+        },
+        {
+            "id": "08fe3a732e2243d9b46844a8d48057c8",
+            "sentence_en": "I haven't read the instructions.",
+            "sentence_vi": "Tôi chưa đọc hướng dẫn.",
+            "phonetic": "aɪ ˈhævənt rɛd ðə ˌɪnˈstrəkʃənz.",
+            "group": "group_8"
+        },
+        {
+            "id": "77b1a79b2df94e60805855f4f1dd0fb8",
+            "sentence_en": "I haven't played chess recently.",
+            "sentence_vi": "Tôi đã không chơi cờ gần đây.",
+            "phonetic": "aɪ ˈhævənt pleɪd ʧɛs ˈrisəntli.",
+            "group": "group_8"
+        },
+        {
+            "id": "4ef3ca868e8f4d96b7299f5489680657",
+            "sentence_en": "I didn't think you'd be jealous.",
+            "sentence_vi": "Tôi không nghĩ rằng bạn đang ghen tị.",
+            "phonetic": "aɪ ˈdɪdənt θɪŋk jʊd bi ˈʤɛləs.",
+            "group": "group_8"
+        },
+        {
+            "id": "ec7acc8385c84bbb9294ec3cfe5e60d6",
+            "sentence_en": "I didn't think I should do that.",
+            "sentence_vi": "Tôi không nghĩ rằng tôi nên làm điều đó.",
+            "phonetic": "aɪ ˈdɪdənt θɪŋk aɪ ʃʊd du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "99b574b27b294978bb808108f248d148",
+            "sentence_en": "I didn't think I had to do that.",
+            "sentence_vi": "Tôi không nghĩ rằng tôi phải làm điều đó.",
+            "phonetic": "aɪ ˈdɪdənt θɪŋk aɪ hæd tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "e04683230f1746758fd9f464d8bfbe2b",
+            "sentence_en": "I didn't really need to do that.",
+            "sentence_vi": "Tôi thực sự không cần phải làm điều đó.",
+            "phonetic": "aɪ ˈdɪdənt ˈrɪli nid tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "c2c7820a2b534dc8b0a87b13ce07d7f7",
+            "sentence_en": "I didn't really have to do that.",
+            "sentence_vi": "Tôi không thực sự phải làm điều đó.",
+            "phonetic": "aɪ ˈdɪdənt ˈrɪli hæv tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "59119f4088294f61bd41a1df4504e6e4",
+            "sentence_en": "I didn't realize I had to leave.",
+            "sentence_vi": "Tôi không nhận ra mình phải ra đi.",
+            "phonetic": "aɪ ˈdɪdənt ˈriəˌlaɪz aɪ hæd tɪ liv.",
+            "group": "group_8"
+        },
+        {
+            "id": "bcde9fb1e8804a2c8c32e150f801de76",
+            "sentence_en": "I didn't need to wait very long.",
+            "sentence_vi": "Tôi không cần phải đợi lâu.",
+            "phonetic": "aɪ ˈdɪdənt nid tɪ weɪt ˈvɛri lɔŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "4c1b4ff723384db2802734218f7b97c3",
+            "sentence_en": "I didn't have to wait very long.",
+            "sentence_vi": "Tôi đã không phải đợi rất lâu.",
+            "phonetic": "aɪ ˈdɪdənt hæv tɪ weɪt ˈvɛri lɔŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "bdab697559c94f0399060c7284cb44e0",
+            "sentence_en": "I didn't get on the right train.",
+            "sentence_vi": "Tôi đã không lên đúng chuyến tàu.",
+            "phonetic": "aɪ ˈdɪdənt gɪt ɔn ðə raɪt treɪn.",
+            "group": "group_8"
+        },
+        {
+            "id": "3ed5f73fec7b456b8142982fba5927f4",
+            "sentence_en": "I didn't get home till midnight.",
+            "sentence_vi": "Tôi đã không về nhà cho đến nửa đêm.",
+            "phonetic": "aɪ ˈdɪdənt gɪt hoʊm tɪl ˈmɪdˌnaɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "5d9cf461cb3546c38f601412f4a08976",
+            "sentence_en": "I didn't feel much like smiling.",
+            "sentence_vi": "Tôi không cảm thấy thích cười.",
+            "phonetic": "aɪ ˈdɪdənt fil məʧ laɪk sˈmaɪlɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "e6eebfe066bf420fadbaf001a161b005",
+            "sentence_en": "I didn't expect to win the race.",
+            "sentence_vi": "Tôi không mong đợi để giành chiến thắng trong cuộc đua.",
+            "phonetic": "aɪ ˈdɪdənt ɪkˈspɛkt tɪ wɪn ðə reɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "e36e367277b34f3982bdb0ad174873bd",
+            "sentence_en": "I didn't exactly tell the truth.",
+            "sentence_vi": "Tôi đã không nói sự thật một cách chính xác.",
+            "phonetic": "aɪ ˈdɪdənt ɪgˈzæktli tɛl ðə truθ.",
+            "group": "group_8"
+        },
+        {
+            "id": "f84db55eaf9840f399afc7749a747997",
+            "sentence_en": "I didn't do what I needed to do.",
+            "sentence_vi": "Tôi đã không làm những gì tôi cần làm.",
+            "phonetic": "aɪ ˈdɪdənt du wət aɪ ˈnidɪd tɪ du.",
+            "group": "group_8"
+        },
+        {
+            "id": "9ba48d7ea14543fbab84f204d0ab4c35",
+            "sentence_en": "I didn't do that quickly enough.",
+            "sentence_vi": "Tôi đã không làm điều đó đủ nhanh.",
+            "phonetic": "aɪ ˈdɪdənt du ðət kˈwɪkli ɪˈnəf.",
+            "group": "group_8"
+        },
+        {
+            "id": "55ae9ee063c2466c866d188a3e2321ef",
+            "sentence_en": "I didn't want to do it that way.",
+            "sentence_vi": "Tôi không muốn làm theo cách đó.",
+            "phonetic": "aɪ ˈdɪdənt wɔnt tɪ du ɪt ðət weɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "0eb596b4effa477cb2e303b1eb4f2d10",
+            "sentence_en": "I didn't want anything to drink.",
+            "sentence_vi": "Tôi không muốn uống gì cả.",
+            "phonetic": "aɪ ˈdɪdənt wɔnt ˈɛniˌθɪŋ tɪ drɪŋk.",
+            "group": "group_8"
+        },
+        {
+            "id": "5b56b0d4909944a9a0397e63c4fe6618",
+            "sentence_en": "I couldn't answer that question.",
+            "sentence_vi": "Tôi không thể trả lời câu hỏi đó.",
+            "phonetic": "aɪ ˈkʊdənt ˈænsər ðət kˈwɛʃən.",
+            "group": "group_8"
+        },
+        {
+            "id": "f0d1e7a6e791457781cd2f0025a6913a",
+            "sentence_en": "I'd prefer to do that on my own.",
+            "sentence_vi": "Tôi muốn làm điều đó một mình.",
+            "phonetic": "aɪd prɪˈfər tɪ du ðət ɔn maɪ oʊn.",
+            "group": "group_8"
+        },
+        {
+            "id": "25f05cc18eec49cdb8f48e3c2e841843",
+            "sentence_en": "I did that in spite of the rain.",
+            "sentence_vi": "Tôi đã làm điều đó bất chấp trời mưa.",
+            "phonetic": "aɪ dɪd ðət ɪn spaɪt əv ðə reɪn.",
+            "group": "group_8"
+        },
+        {
+            "id": "0fcc2c7f8b5e467596c2fa2bab2cfdd1",
+            "sentence_en": "I couldn't do that anytime soon.",
+            "sentence_vi": "Tôi không thể làm điều đó sớm.",
+            "phonetic": "aɪ ˈkʊdənt du ðət ˈɛniˌtaɪm sun.",
+            "group": "group_8"
+        },
+        {
+            "id": "d4d54ab45e1c4762ab4a8823afcae3b4",
+            "sentence_en": "I changed the locks on my doors.",
+            "sentence_vi": "Tôi đã thay đổi ổ khóa trên cửa của tôi.",
+            "phonetic": "aɪ ʧeɪnʤd ðə lɑks ɔn maɪ dɔrz.",
+            "group": "group_8"
+        },
+        {
+            "id": "b6cc586d8fb84f0ebfeb01e8ec0ccd8a",
+            "sentence_en": "I came here in order to do that.",
+            "sentence_vi": "Tôi đến đây để làm điều đó.",
+            "phonetic": "aɪ keɪm hir ɪn ˈɔrdər tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "446c8cd86cc94763ad3b35936076afb9",
+            "sentence_en": "I always knew you could do that.",
+            "sentence_vi": "Tôi luôn biết bạn có thể làm điều đó.",
+            "phonetic": "aɪ ˈɔlˌweɪz nu ju kʊd du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "1d4fe7d74d814f4da650a375e4e1b98d",
+            "sentence_en": "I obviously did something wrong.",
+            "sentence_vi": "Rõ ràng là tôi đã làm sai điều gì đó.",
+            "phonetic": "aɪ ˈɑbviəsli dɪd ˈsəmθɪŋ rɔŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "15e9cc5c8edc407595862ee30fbf55ad",
+            "sentence_en": "I don't want to even look at it.",
+            "sentence_vi": "Tôi thậm chí không muốn nhìn vào nó.",
+            "phonetic": "aɪ doʊnt wɔnt tɪ ˈivɪn lʊk æt ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "984c5c75529e4b8a8b8145392b660dd4",
+            "sentence_en": "Nobody wants to join Tom's team.",
+            "sentence_vi": "Không ai muốn tham gia đội của Tom.",
+            "phonetic": "ˈnoʊˌbɑˌdi wɔnts tɪ ʤɔɪn tɑmz tim.",
+            "group": "group_8"
+        },
+        {
+            "id": "2f0ca4302da844008bb45aa94391b51c",
+            "sentence_en": "Tom has a hangover this morning.",
+            "sentence_vi": "Tom có một cảm giác buồn nôn vào sáng nay.",
+            "phonetic": "tɑm həz ə ˈhæˌŋoʊvər ðɪs ˈmɔrnɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "2866866058b04b0e9202368ab039fdd0",
+            "sentence_en": "You need to do that immediately.",
+            "sentence_vi": "Bạn cần phải làm điều đó ngay lập tức.",
+            "phonetic": "ju nid tɪ du ðət ˌɪˈmiˌdiətli.",
+            "group": "group_8"
+        },
+        {
+            "id": "f2253ed262394338b637ec44d43884ef",
+            "sentence_en": "No one wants to join Tom's team.",
+            "sentence_vi": "Không ai muốn tham gia đội của Tom.",
+            "phonetic": "noʊ wən wɔnts tɪ ʤɔɪn tɑmz tim.",
+            "group": "group_8"
+        },
+        {
+            "id": "07abe91663e64828817935f269857fad",
+            "sentence_en": "I'll make a note in my notebook.",
+            "sentence_vi": "Tôi sẽ ghi chú vào sổ tay của mình.",
+            "phonetic": "aɪl meɪk ə noʊt ɪn maɪ ˈnoʊtˌbʊk.",
+            "group": "group_8"
+        },
+        {
+            "id": "f4a3293893d744fcac02a608b079f2fd",
+            "sentence_en": "Where do you most want to visit?",
+            "sentence_vi": "Bạn muốn đến thăm nơi nào nhất?",
+            "phonetic": "wɛr du ju moʊst wɔnt tɪ ˈvɪzɪt?",
+            "group": "group_8"
+        },
+        {
+            "id": "2cc39a7846fa4d3f965ded5664e25709",
+            "sentence_en": "It's always good to be with Tom.",
+            "sentence_vi": "Luôn luôn tốt khi ở bên Tom.",
+            "phonetic": "ɪts ˈɔlˌweɪz gʊd tɪ bi wɪθ tɑm.",
+            "group": "group_8"
+        },
+        {
+            "id": "146b50b889fd480aa09b5c553cbfc231",
+            "sentence_en": "Tom decided to tidy up his room.",
+            "sentence_vi": "Tom quyết định dọn dẹp phòng của mình.",
+            "phonetic": "tɑm ˌdɪˈsaɪdɪd tɪ ˈtaɪdi əp hɪz rum.",
+            "group": "group_8"
+        },
+        {
+            "id": "9ab8ff17dda94f279fa2c4b891b283ec",
+            "sentence_en": "Tom told me that he may do that.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy có thể làm điều đó.",
+            "phonetic": "tɑm toʊld mi ðət hi meɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "98f5e6312d9e41bead11f4d0cd6d361f",
+            "sentence_en": "Tom told me that he plans to go.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy dự định sẽ đi.",
+            "phonetic": "tɑm toʊld mi ðət hi plænz tɪ goʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "e081855ed0ff478482e965113919874c",
+            "sentence_en": "Tom should stop what he's doing.",
+            "sentence_vi": "Tom nên dừng việc anh ấy đang làm.",
+            "phonetic": "tɑm ʃʊd stɑp wət hiz duɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "e284171ada894ee7946511d45d3ebf61",
+            "sentence_en": "Tom taught himself to read lips.",
+            "sentence_vi": "Tom tự học cách đọc môi.",
+            "phonetic": "tɑm tɔt hɪmˈsɛlf tɪ rɛd lɪps.",
+            "group": "group_8"
+        },
+        {
+            "id": "f5c5e2ff1a784d9da2010db50e50275e",
+            "sentence_en": "Tom is somebody I really admire.",
+            "sentence_vi": "Tom là người mà tôi thực sự ngưỡng mộ.",
+            "phonetic": "tɑm ɪz ˈsəmˌbɑdi aɪ ˈrɪli ædˈmaɪr.",
+            "group": "group_8"
+        },
+        {
+            "id": "a2812444e78743bcb31d2b8ec50221c8",
+            "sentence_en": "The bus arrived at exactly 2:30.",
+            "sentence_vi": "Chuyến xe đến đúng 2h30.",
+            "phonetic": "ðə bəs əraɪvd æt ɪgˈzæktli 2:30*",
+            "group": "group_8"
+        },
+        {
+            "id": "37926212605142b590eb84f578ae85af",
+            "sentence_en": "Tom wasn't very happy in Boston.",
+            "sentence_vi": "Tom không hạnh phúc lắm ở Boston.",
+            "phonetic": "tɑm ˈwəzənt ˈvɛri ˈhæpi ɪn ˈbɔstən.",
+            "group": "group_8"
+        },
+        {
+            "id": "db88b6f3703c47559c50be3d6c1b3d7c",
+            "sentence_en": "Tom still uses dial-up Internet.",
+            "sentence_vi": "Tom vẫn sử dụng Internet quay số.",
+            "phonetic": "tɑm stɪl ˈjuzɪz dial-up* ˈɪntərˌnɛt.",
+            "group": "group_8"
+        },
+        {
+            "id": "d8f9059914b347d6b77d0666074608c7",
+            "sentence_en": "Tom's paper lacks any citations.",
+            "sentence_vi": "Bài báo của Tom thiếu bất kỳ trích dẫn nào.",
+            "phonetic": "tɑmz ˈpeɪpər læks ˈɛni saɪˈteɪʃənz.",
+            "group": "group_8"
+        },
+        {
+            "id": "582ac9c49ddd4930a1cab6d164c6e1eb",
+            "sentence_en": "Tom struggles with this concept.",
+            "sentence_vi": "Tom đấu tranh với khái niệm này.",
+            "phonetic": "tɑm ˈstrəgəlz wɪθ ðɪs ˈkɑnsɛpt.",
+            "group": "group_8"
+        },
+        {
+            "id": "80fe70eba65d483997100285941d0744",
+            "sentence_en": "Tom needs to work on his French.",
+            "sentence_vi": "Tom cần học tiếng Pháp của mình.",
+            "phonetic": "tɑm nidz tɪ wərk ɔn hɪz frɛnʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "c5fcfba5412c4e488e4a32b0838d0355",
+            "sentence_en": "Tom refuses to go to the doctor.",
+            "sentence_vi": "Tom từ chối đi khám.",
+            "phonetic": "tɑm rɪfˈjuzɪz tɪ goʊ tɪ ðə ˈdɔktər.",
+            "group": "group_8"
+        },
+        {
+            "id": "e87d3db6666a449797f870ad19f0bc57",
+            "sentence_en": "I hope that our team plays well.",
+            "sentence_vi": "Tôi hy vọng rằng đội của chúng tôi chơi tốt.",
+            "phonetic": "aɪ hoʊp ðət ɑr tim pleɪz wɛl.",
+            "group": "group_8"
+        },
+        {
+            "id": "eed3445da9fa41c29e29f65330c90f7b",
+            "sentence_en": "Tom's dog has been put to sleep.",
+            "sentence_vi": "Con chó của Tom đã được đưa vào giấc ngủ.",
+            "phonetic": "tɑmz dɔg həz bɪn pʊt tɪ slip.",
+            "group": "group_8"
+        },
+        {
+            "id": "c35163d8d42c472487dea8ba25f36e10",
+            "sentence_en": "Tom claimed he tried to do that.",
+            "sentence_vi": "Tom tuyên bố anh ấy đã cố gắng làm điều đó.",
+            "phonetic": "tɑm kleɪmd hi traɪd tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "5a50e529bc5e4ee0b1b92a5b79af9d47",
+            "sentence_en": "Tom became an ordained minister.",
+            "sentence_vi": "Tom đã trở thành một bộ trưởng được phong chức.",
+            "phonetic": "tɑm bɪˈkeɪm ən ɔrˈdeɪnd ˈmɪnɪstər.",
+            "group": "group_8"
+        },
+        {
+            "id": "6cd5f2fb95044522a91a098fa2b6c282",
+            "sentence_en": "Tom could've refused to do that.",
+            "sentence_vi": "Tom có thể đã từ chối làm điều đó.",
+            "phonetic": "tɑm ˈkʊdəv rɪfˈjuzd tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "366386275b68412f82289c29c15c4b7a",
+            "sentence_en": "How does Tom plan on doing that?",
+            "sentence_vi": "Tom dự định làm điều đó như thế nào?",
+            "phonetic": "haʊ dɪz tɑm plæn ɔn duɪŋ ðət?",
+            "group": "group_8"
+        },
+        {
+            "id": "1804feea0a1546cb8ca80e14afd12e3d",
+            "sentence_en": "Tom admitted that he didn't win.",
+            "sentence_vi": "Tom thừa nhận rằng anh ấy đã không thắng.",
+            "phonetic": "tɑm ədˈmɪtəd ðət hi ˈdɪdənt wɪn.",
+            "group": "group_8"
+        },
+        {
+            "id": "dac17bfd08044930a88d803d38d1f695",
+            "sentence_en": "Maybe somebody made Tom do that.",
+            "sentence_vi": "Có lẽ ai đó đã bắt Tom làm điều đó.",
+            "phonetic": "ˈmeɪbi ˈsəmˌbɑdi meɪd tɑm du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "0eabfb81c8184761acd743ce48350ecf",
+            "sentence_en": "It was difficult for Tom to win.",
+            "sentence_vi": "Rất khó để Tom giành chiến thắng.",
+            "phonetic": "ɪt wɑz ˈdɪfəkəlt fər tɑm tɪ wɪn.",
+            "group": "group_8"
+        },
+        {
+            "id": "4d0a28050f2145998bd0ad1789f64621",
+            "sentence_en": "I wonder whether Tom will be OK.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có ổn không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm wɪl bi ˈoʊˈkeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "fb7aec3bc64f47929a7b8bc4b31c8d63",
+            "sentence_en": "I wonder whether Tom wants that.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có muốn điều đó không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm wɔnts ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "f6393febf6754a31b2db3d14be0d3c62",
+            "sentence_en": "I wonder whether Tom likes beer.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có thích bia không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm laɪks bɪr.",
+            "group": "group_8"
+        },
+        {
+            "id": "3da006ad22ac47fbb6a0ebe43514e88a",
+            "sentence_en": "I wonder whether Tom is worried.",
+            "sentence_vi": "Không biết Tom có lo lắng không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz ˈwərid.",
+            "group": "group_8"
+        },
+        {
+            "id": "37c305b979494499802213991c93d073",
+            "sentence_en": "I wonder whether Tom is serious.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có nghiêm túc không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz ˈsɪriəs.",
+            "group": "group_8"
+        },
+        {
+            "id": "16625ee729f2420d85ffdfbf2617d01d",
+            "sentence_en": "I wonder if Tom is really drunk.",
+            "sentence_vi": "Không biết Tom có say thật không.",
+            "phonetic": "aɪ ˈwəndər ɪf tɑm ɪz ˈrɪli drəŋk.",
+            "group": "group_8"
+        },
+        {
+            "id": "e62b93e85c4a4a70b0f0bfa9f5aea083",
+            "sentence_en": "I wonder if Tom is really crazy.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có thực sự bị điên hay không.",
+            "phonetic": "aɪ ˈwəndər ɪf tɑm ɪz ˈrɪli ˈkreɪzi.",
+            "group": "group_8"
+        },
+        {
+            "id": "8fac5d7508874423808d1cbd535b7f27",
+            "sentence_en": "I wonder if Tom is really angry.",
+            "sentence_vi": "Không biết Tom có thực sự tức giận không.",
+            "phonetic": "aɪ ˈwəndər ɪf tɑm ɪz ˈrɪli ˈæŋgri.",
+            "group": "group_8"
+        },
+        {
+            "id": "8f866de193124dd4a1bd264a93f3995c",
+            "sentence_en": "I wonder whether Tom is puzzled.",
+            "sentence_vi": "Không biết Tom có đang phân vân không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz ˈpəzəld.",
+            "group": "group_8"
+        },
+        {
+            "id": "85856d1f24d0474fb8a58d0fba9150eb",
+            "sentence_en": "I wonder whether Tom is pleased.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có hài lòng không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz plizd.",
+            "group": "group_8"
+        },
+        {
+            "id": "d21438b052424329ab0caa6852e7d024",
+            "sentence_en": "I wonder whether Tom is bipolar.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có phải là người lưỡng cực.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz baɪˈpoʊlər.",
+            "group": "group_8"
+        },
+        {
+            "id": "d0ef68f41e8243f498a702e4bebffe6a",
+            "sentence_en": "I wonder whether Tom is annoyed.",
+            "sentence_vi": "Không biết Tom có bực mình không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz əˈnɔɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "6f689c4e744c4b54a0141c9b6a723bc9",
+            "sentence_en": "I wonder whether Tom is adopted.",
+            "sentence_vi": "Tôi tự hỏi liệu Tom có được nhận nuôi hay không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər tɑm ɪz əˈdɑptəd.",
+            "group": "group_8"
+        },
+        {
+            "id": "62f3effacacf425a8dad99bbae39e3a2",
+            "sentence_en": "What's Tom planning to do later?",
+            "sentence_vi": "Tom định làm gì sau này?",
+            "phonetic": "wəts tɑm ˈplænɪŋ tɪ du ˈleɪtər?",
+            "group": "group_8"
+        },
+        {
+            "id": "246eebac737b4368aedbca7db7d3d3ec",
+            "sentence_en": "Tom told me he likes to do that.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy thích làm điều đó.",
+            "phonetic": "tɑm toʊld mi hi laɪks tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "d14b8f7246604d8a8eab30ff8f866c48",
+            "sentence_en": "Tom says he's planning on going.",
+            "sentence_vi": "Tom nói rằng anh ấy đang lên kế hoạch.",
+            "phonetic": "tɑm sɪz hiz ˈplænɪŋ ɔn goʊɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "91b9a21f16fa4840bd52aeb308eb343d",
+            "sentence_en": "Tom might want to eat some cake.",
+            "sentence_vi": "Tom có thể muốn ăn bánh.",
+            "phonetic": "tɑm maɪt wɔnt tɪ it səm keɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "bcedc9c32b2145e598e6268e88273315",
+            "sentence_en": "It's time to take out the trash.",
+            "sentence_vi": "Đã đến lúc phải đổ rác.",
+            "phonetic": "ɪts taɪm tɪ teɪk aʊt ðə træʃ.",
+            "group": "group_8"
+        },
+        {
+            "id": "fc577c17621b41f4a32e48fc25bc4d83",
+            "sentence_en": "Does that mean we're wrong, too?",
+            "sentence_vi": "Điều đó có nghĩa là chúng ta cũng sai?",
+            "phonetic": "dɪz ðət min wɪr rɔŋ, tu?",
+            "group": "group_8"
+        },
+        {
+            "id": "ab4acfba13b6403bbb9204bff852a7dc",
+            "sentence_en": "What got stolen wasn't valuable.",
+            "sentence_vi": "Những gì bị đánh cắp không có giá trị.",
+            "phonetic": "wət gɑt ˈstoʊlən ˈwəzənt ˈvæljəbəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "a9f65073a1914bcd9db80cee4ce20aab",
+            "sentence_en": "The cause of death was stabbing.",
+            "sentence_vi": "Nguyên nhân cái chết là do bị đâm.",
+            "phonetic": "ðə kɔz əv dɛθ wɑz ˈstæbɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "856cfab8118e46d88e8f3ddb15f95cbb",
+            "sentence_en": "This can cause a lot of trouble.",
+            "sentence_vi": "Điều này có thể gây ra rất nhiều rắc rối.",
+            "phonetic": "ðɪs kən kɔz ə lɔt əv ˈtrəbəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "90ef4ea55146453db62773686684f57f",
+            "sentence_en": "This could become a big problem.",
+            "sentence_vi": "Điều này có thể trở thành một vấn đề lớn.",
+            "phonetic": "ðɪs kʊd bɪˈkəm ə bɪg ˈprɑbləm.",
+            "group": "group_8"
+        },
+        {
+            "id": "dd2fad90446d408db7464ab0f85920f6",
+            "sentence_en": "Appearances often are deceiving.",
+            "sentence_vi": "Vẻ ngoài thường lừa dối.",
+            "phonetic": "əˈpɪrənsəz ˈɔfən ər dɪˈsivɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "acdbb5588032465c8bc03251352ca474",
+            "sentence_en": "What are you up to this weekend?",
+            "sentence_vi": "Bạn có dự định gì vào cuối tuần này?",
+            "phonetic": "wət ər ju əp tɪ ðɪs ˈwiˌkɪnd?",
+            "group": "group_8"
+        },
+        {
+            "id": "9cdf6998cb144e3d8d7138d993df9120",
+            "sentence_en": "May I disturb you just a moment?",
+            "sentence_vi": "Tôi có thể làm phiền bạn một lát được không?",
+            "phonetic": "meɪ aɪ dɪˈstərb ju ʤɪst ə ˈmoʊmənt?",
+            "group": "group_8"
+        },
+        {
+            "id": "544d8a3324294e0d9168d1012bd90821",
+            "sentence_en": "The delegates voted immediately.",
+            "sentence_vi": "Các đại biểu biểu quyết ngay.",
+            "phonetic": "ðə ˈdɛləˌgeɪts ˈvoʊtɪd ˌɪˈmiˌdiətli.",
+            "group": "group_8"
+        },
+        {
+            "id": "d777023b13b741d69e95a3672a8aff19",
+            "sentence_en": "It was a warm, friendly meeting.",
+            "sentence_vi": "Đó là một cuộc gặp gỡ thân tình, ấm áp.",
+            "phonetic": "ɪt wɑz ə wɔrm, ˈfrɛndli ˈmitɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "b9b36608d8f74a4b9043a2485b7461a4",
+            "sentence_en": "The measurement has to be exact.",
+            "sentence_vi": "Phép đo phải chính xác.",
+            "phonetic": "ðə ˈmɛʒərmənt həz tɪ bi ɪgˈzækt.",
+            "group": "group_8"
+        },
+        {
+            "id": "f5e5f02da15642ecb274c57fb414293b",
+            "sentence_en": "The hotel was once a restaurant.",
+            "sentence_vi": "Khách sạn đã từng là một nhà hàng.",
+            "phonetic": "ðə hoʊˈtɛl wɑz wəns ə ˈrɛˌstrɑnt.",
+            "group": "group_8"
+        },
+        {
+            "id": "297217e985ad495f9bc98e6526daaaf8",
+            "sentence_en": "This man was charged with theft.",
+            "sentence_vi": "Người đàn ông này đã bị buộc tội trộm cắp.",
+            "phonetic": "ðɪs mæn wɑz ʧɑrʤd wɪθ θɛft.",
+            "group": "group_8"
+        },
+        {
+            "id": "204c0b6263d9419b8211ab22df8fe0bc",
+            "sentence_en": "Death is preferable to dishonor.",
+            "sentence_vi": "Chết thích hơn là nhục.",
+            "phonetic": "dɛθ ɪz ˈprɛfərəbəl tɪ dɪˈsɑnər.",
+            "group": "group_8"
+        },
+        {
+            "id": "1cbe88792a02416fb7767eb4dba2d3e8",
+            "sentence_en": "You may think whatever you want.",
+            "sentence_vi": "Bạn có thể nghĩ bất cứ điều gì bạn muốn.",
+            "phonetic": "ju meɪ θɪŋk ˌwəˈtɛvər ju wɔnt.",
+            "group": "group_8"
+        },
+        {
+            "id": "5a85c43f5c834be0a0d71662f0b867b2",
+            "sentence_en": "I can't talk with you right now.",
+            "sentence_vi": "Tôi không thể nói chuyện với bạn ngay bây giờ.",
+            "phonetic": "aɪ kænt tɔk wɪθ ju raɪt naʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "30a1337d835b48e88becee091891d78a",
+            "sentence_en": "Stop the car. I need to get out.",
+            "sentence_vi": "Dừng cái xe lại. Tôi cần ra khỏi đây.",
+            "phonetic": "stɑp ðə kɑr. aɪ nid tɪ gɪt aʊt.",
+            "group": "group_8"
+        },
+        {
+            "id": "7653e20873d749118a8c6bc4d4a8aec0",
+            "sentence_en": "Have you shown this to Tom, too?",
+            "sentence_vi": "Bạn cũng đã cho Tom xem cái này chưa?",
+            "phonetic": "hæv ju ʃoʊn ðɪs tɪ tɑm, tu?",
+            "group": "group_8"
+        },
+        {
+            "id": "f0e8c61674af4feaac4e2c0d6e1d1164",
+            "sentence_en": "It seemed like Tom was drowning.",
+            "sentence_vi": "Có vẻ như Tom đã chết đuối.",
+            "phonetic": "ɪt simd laɪk tɑm wɑz ˈdraʊnɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "d370dc23daf64c8488c9f18065671da3",
+            "sentence_en": "I got in trouble because of Tom.",
+            "sentence_vi": "Tôi gặp rắc rối vì Tom.",
+            "phonetic": "aɪ gɑt ɪn ˈtrəbəl bɪˈkəz əv tɑm.",
+            "group": "group_8"
+        },
+        {
+            "id": "c2f3563eec954a599f29b4809cdea534",
+            "sentence_en": "I think Tom will like this gift.",
+            "sentence_vi": "Tôi nghĩ Tom sẽ thích món quà này.",
+            "phonetic": "aɪ θɪŋk tɑm wɪl laɪk ðɪs gɪft.",
+            "group": "group_8"
+        },
+        {
+            "id": "6993dd9fba794d4b871d1d2f30516357",
+            "sentence_en": "We ought to tell Tom everything.",
+            "sentence_vi": "Chúng ta nên nói với Tom mọi thứ.",
+            "phonetic": "wi ɔt tɪ tɛl tɑm ˈɛvriˌθɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "7db8277cdb674b3a83ee95768d4364df",
+            "sentence_en": "The grip on Tom's neck loosened.",
+            "sentence_vi": "Tay ôm cổ Tom nới lỏng.",
+            "phonetic": "ðə grɪp ɔn tɑmz nɛk ˈlusənd.",
+            "group": "group_8"
+        },
+        {
+            "id": "4119c37f1648449391842ce5f04ce856",
+            "sentence_en": "Tom is trying to get some sleep.",
+            "sentence_vi": "Tom đang cố ngủ một giấc.",
+            "phonetic": "tɑm ɪz traɪɪŋ tɪ gɪt səm slip.",
+            "group": "group_8"
+        },
+        {
+            "id": "4ca3d6bacf724c6cb5233b0c703abf4a",
+            "sentence_en": "Let's go ask Tom what he thinks.",
+            "sentence_vi": "Hãy đi hỏi Tom xem anh ấy nghĩ gì.",
+            "phonetic": "lɛts goʊ æsk tɑm wət hi θɪŋks.",
+            "group": "group_8"
+        },
+        {
+            "id": "e68bcfaced67418595f0416bf7f66226",
+            "sentence_en": "How much did you make last year?",
+            "sentence_vi": "Bạn đã kiếm được bao nhiêu vào năm ngoái?",
+            "phonetic": "haʊ məʧ dɪd ju meɪk læst jɪr?",
+            "group": "group_8"
+        },
+        {
+            "id": "26902175251242c7b569234f3fb5c259",
+            "sentence_en": "We've been having awful weather.",
+            "sentence_vi": "Chúng tôi đã gặp thời tiết tồi tệ.",
+            "phonetic": "wiv bɪn ˈhævɪŋ ˈɔfəl ˈwɛðər.",
+            "group": "group_8"
+        },
+        {
+            "id": "5962e4e4c98e4fd7bd1b401194fbd996",
+            "sentence_en": "I thought that it'd be worth it.",
+            "sentence_vi": "Tôi nghĩ rằng nó sẽ đáng giá.",
+            "phonetic": "aɪ θɔt ðət ˈɪtəd bi wərθ ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "35d09aa0e0f94a5286b619a884031527",
+            "sentence_en": "I thought that it'd take months.",
+            "sentence_vi": "Tôi nghĩ rằng nó sẽ mất hàng tháng.",
+            "phonetic": "aɪ θɔt ðət ˈɪtəd teɪk mənθs.",
+            "group": "group_8"
+        },
+        {
+            "id": "e248baf2c7984209b3fcf3e072178377",
+            "sentence_en": "I thought that I could get more.",
+            "sentence_vi": "Tôi nghĩ rằng tôi có thể nhận được nhiều hơn.",
+            "phonetic": "aɪ θɔt ðət aɪ kʊd gɪt mɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "4f15c44607f54d7ebe5f16f4025725ea",
+            "sentence_en": "I thought that I could help you.",
+            "sentence_vi": "Tôi nghĩ rằng tôi có thể giúp bạn.",
+            "phonetic": "aɪ θɔt ðət aɪ kʊd hɛlp ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "2d7b28aab3b0491e92c0293a709ef27b",
+            "sentence_en": "I promise that I won't hurt you.",
+            "sentence_vi": "Tôi hứa rằng tôi sẽ không làm tổn thương bạn.",
+            "phonetic": "aɪ ˈprɑməs ðət aɪ woʊnt hərt ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "908306d6420749e4aadc61ff73a90f78",
+            "sentence_en": "I promise that I won't bite you.",
+            "sentence_vi": "Tôi hứa rằng tôi sẽ không cắn bạn.",
+            "phonetic": "aɪ ˈprɑməs ðət aɪ woʊnt baɪt ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "8b959a0ca314440c91bdebb840b9c6d2",
+            "sentence_en": "I thought that it was very good.",
+            "sentence_vi": "Tôi nghĩ rằng nó là rất tốt.",
+            "phonetic": "aɪ θɔt ðət ɪt wɑz ˈvɛri gʊd.",
+            "group": "group_8"
+        },
+        {
+            "id": "0d9bcf8be9f340efa92c8c5d9bf821c0",
+            "sentence_en": "I found a good job in Australia.",
+            "sentence_vi": "Tôi đã tìm được một công việc tốt ở Úc.",
+            "phonetic": "aɪ faʊnd ə gʊd ʤɑb ɪn ɔˈstreɪljə.",
+            "group": "group_8"
+        },
+        {
+            "id": "20366571d95b4beeb1074969b1467413",
+            "sentence_en": "I had a lot of fun in Australia.",
+            "sentence_vi": "Tôi đã có rất nhiều niềm vui ở Úc.",
+            "phonetic": "aɪ hæd ə lɔt əv fən ɪn ɔˈstreɪljə.",
+            "group": "group_8"
+        },
+        {
+            "id": "d16c2024324b4b8ab5897787ad1df671",
+            "sentence_en": "I didn't doubt you for a moment.",
+            "sentence_vi": "Tôi đã không nghi ngờ bạn trong một khoảnh khắc.",
+            "phonetic": "aɪ ˈdɪdənt daʊt ju fər ə ˈmoʊmənt.",
+            "group": "group_8"
+        },
+        {
+            "id": "cb4f35266d404b328ece3d8613685ade",
+            "sentence_en": "I doubt very much I'll be there.",
+            "sentence_vi": "Tôi rất nghi ngờ tôi sẽ ở đó.",
+            "phonetic": "aɪ daʊt ˈvɛri məʧ aɪl bi ðɛr.",
+            "group": "group_8"
+        },
+        {
+            "id": "b369420be69845da85c9882d47cfe12c",
+            "sentence_en": "I didn't really go to Australia.",
+            "sentence_vi": "Tôi đã không thực sự đến Úc.",
+            "phonetic": "aɪ ˈdɪdənt ˈrɪli goʊ tɪ ɔˈstreɪljə.",
+            "group": "group_8"
+        },
+        {
+            "id": "bb29770090f54828b5edff6532a1c33b",
+            "sentence_en": "I come to Australia quite a lot.",
+            "sentence_vi": "Tôi đến Úc khá nhiều.",
+            "phonetic": "aɪ kəm tɪ ɔˈstreɪljə kwaɪt ə lɔt.",
+            "group": "group_8"
+        },
+        {
+            "id": "79cd98c1756d4f63959ae947fb4c784c",
+            "sentence_en": "I could never live in Australia.",
+            "sentence_vi": "Tôi không bao giờ có thể sống ở Úc.",
+            "phonetic": "aɪ kʊd ˈnɛvər lɪv ɪn ɔˈstreɪljə.",
+            "group": "group_8"
+        },
+        {
+            "id": "f095656079184159877c20ff9f5b6be5",
+            "sentence_en": "I didn't go to Australia either.",
+            "sentence_vi": "Tôi cũng không đi Úc.",
+            "phonetic": "aɪ ˈdɪdənt goʊ tɪ ɔˈstreɪljə ˈiðər.",
+            "group": "group_8"
+        },
+        {
+            "id": "2c45881fc9004643a6724b6ca180e58e",
+            "sentence_en": "I'm sorry I didn't reply sooner.",
+            "sentence_vi": "Tôi xin lỗi vì tôi đã không trả lời sớm hơn.",
+            "phonetic": "əm ˈsɑri aɪ ˈdɪdənt rɪˈplaɪ ˈsunər.",
+            "group": "group_8"
+        },
+        {
+            "id": "a77d6da0b5854adca267c8a7f86ada54",
+            "sentence_en": "I arrived in Australia recently.",
+            "sentence_vi": "Tôi đã đến Úc gần đây.",
+            "phonetic": "aɪ əraɪvd ɪn ɔˈstreɪljə ˈrisəntli.",
+            "group": "group_8"
+        },
+        {
+            "id": "6f0b766620374a9583f666a5eaf08f2b",
+            "sentence_en": "I assume that that won't happen.",
+            "sentence_vi": "Tôi cho rằng điều đó sẽ không xảy ra.",
+            "phonetic": "aɪ əˈsum ðət ðət woʊnt ˈhæpən.",
+            "group": "group_8"
+        },
+        {
+            "id": "b2fb4ffe36204ea294f0ba7569d8a052",
+            "sentence_en": "I figured that I'd be safe here.",
+            "sentence_vi": "Tôi nghĩ rằng tôi sẽ an toàn ở đây.",
+            "phonetic": "aɪ ˈfɪgjərd ðət aɪd bi seɪf hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "da0f105f424c4417a3e82fbf3e5886fb",
+            "sentence_en": "I figured that it couldn't hurt.",
+            "sentence_vi": "Tôi nghĩ rằng nó không thể làm tổn thương.",
+            "phonetic": "aɪ ˈfɪgjərd ðət ɪt ˈkʊdənt hərt.",
+            "group": "group_8"
+        },
+        {
+            "id": "f4f20c6ed69948bb8637737a33163810",
+            "sentence_en": "I assume that you agree with me.",
+            "sentence_vi": "Tôi cho rằng bạn đồng ý với tôi.",
+            "phonetic": "aɪ əˈsum ðət ju əˈgri wɪθ mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "4063fe8df90448bca3baba257d6898dd",
+            "sentence_en": "I assume that you're in a hurry.",
+            "sentence_vi": "Tôi cho rằng bạn đang vội.",
+            "phonetic": "aɪ əˈsum ðət jʊr ɪn ə ˈhəri.",
+            "group": "group_8"
+        },
+        {
+            "id": "3a7fb9919c9e4dc990558c3ceac7f0ff",
+            "sentence_en": "I wonder whether that'll happen.",
+            "sentence_vi": "Tôi tự hỏi liệu điều đó có xảy ra không.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər ˈðætəl ˈhæpən.",
+            "group": "group_8"
+        },
+        {
+            "id": "c24d758640314f55b86903d1b55c22c7",
+            "sentence_en": "I promise I'll be there by 2:30.",
+            "sentence_vi": "Tôi hứa tôi sẽ đến đó trước 2:30.",
+            "phonetic": "aɪ ˈprɑməs aɪl bi ðɛr baɪ 2:30*",
+            "group": "group_8"
+        },
+        {
+            "id": "162b217b0c9749d99e28deb70368d842",
+            "sentence_en": "I promise I'll be here tomorrow.",
+            "sentence_vi": "Tôi hứa tôi sẽ ở đây vào ngày mai.",
+            "phonetic": "aɪ ˈprɑməs aɪl bi hir təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "406fe33612d34e0cb72113c43ecc5b0d",
+            "sentence_en": "I really hope that that happens.",
+            "sentence_vi": "Tôi thực sự hy vọng rằng điều đó xảy ra.",
+            "phonetic": "aɪ ˈrɪli hoʊp ðət ðət ˈhæpənz.",
+            "group": "group_8"
+        },
+        {
+            "id": "e617811b7d154f5f94c060091814de3c",
+            "sentence_en": "I hope that that'll happen soon.",
+            "sentence_vi": "Tôi hy vọng rằng điều đó sẽ sớm xảy ra.",
+            "phonetic": "aɪ hoʊp ðət ˈðætəl ˈhæpən sun.",
+            "group": "group_8"
+        },
+        {
+            "id": "3605ea2231ba41959874c6a237b6885d",
+            "sentence_en": "I suggest that we don't do that.",
+            "sentence_vi": "Tôi đề nghị rằng chúng ta không nên làm điều đó.",
+            "phonetic": "aɪ səˈʤɛst ðət wi doʊnt du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "934a2cf8adb84da29666c5fa49c81ede",
+            "sentence_en": "I don't think that you're lying.",
+            "sentence_vi": "Tôi không nghĩ rằng bạn đang nói dối.",
+            "phonetic": "aɪ doʊnt θɪŋk ðət jʊr laɪɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "46523f2f99a342a1a8415d9d84f0afe0",
+            "sentence_en": "I didn't hear anybody screaming.",
+            "sentence_vi": "Tôi không nghe thấy ai la hét.",
+            "phonetic": "aɪ ˈdɪdənt hir ˈɛnibədi ˈskrimɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "e0fb4d1f2f584afb953e2d10fd1c5501",
+            "sentence_en": "I don't think that's acceptable.",
+            "sentence_vi": "Tôi không nghĩ điều đó có thể chấp nhận được.",
+            "phonetic": "aɪ doʊnt θɪŋk ðæts əkˈsɛptəbəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "3e4b5df51b104dc7a496d4983e3018ca",
+            "sentence_en": "I know that that's not the case.",
+            "sentence_vi": "Tôi biết rằng đó không phải là trường hợp.",
+            "phonetic": "aɪ noʊ ðət ðæts nɑt ðə keɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "f772e92150b042ccad2ca87b50eb9fc9",
+            "sentence_en": "I know that that isn't the case.",
+            "sentence_vi": "Tôi biết đó không phải là trường hợp.",
+            "phonetic": "aɪ noʊ ðət ðət ˈɪzənt ðə keɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "cf9da4d2a3414e2f8b99634aedfb38fc",
+            "sentence_en": "I know that I should eat better.",
+            "sentence_vi": "Tôi biết rằng tôi nên ăn tốt hơn.",
+            "phonetic": "aɪ noʊ ðət aɪ ʃʊd it ˈbɛtər.",
+            "group": "group_8"
+        },
+        {
+            "id": "4a76aebaee004de5ae5602a25d1e451e",
+            "sentence_en": "I hope more people will be here.",
+            "sentence_vi": "Tôi hy vọng nhiều người sẽ ở đây.",
+            "phonetic": "aɪ hoʊp mɔr ˈpipəl wɪl bi hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "2291e392514742ecbe9cfd1f40d642ed",
+            "sentence_en": "I wish that I could stay longer.",
+            "sentence_vi": "Tôi ước rằng tôi có thể ở lại lâu hơn.",
+            "phonetic": "aɪ wɪʃ ðət aɪ kʊd steɪ ˈlɔŋgər.",
+            "group": "group_8"
+        },
+        {
+            "id": "f5f6578fd03e4391a6084d344fd6b601",
+            "sentence_en": "I wish that I'd never done that.",
+            "sentence_vi": "Tôi ước rằng tôi sẽ không bao giờ làm điều đó.",
+            "phonetic": "aɪ wɪʃ ðət aɪd ˈnɛvər dən ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "aa798b1904ff4c798d3e0c15954622aa",
+            "sentence_en": "I wish I'd never gone to Boston.",
+            "sentence_vi": "Tôi ước mình chưa bao giờ đến Boston.",
+            "phonetic": "aɪ wɪʃ aɪd ˈnɛvər gɔn tɪ ˈbɔstən.",
+            "group": "group_8"
+        },
+        {
+            "id": "7cb5e5f3133748269f035c140fd77512",
+            "sentence_en": "I would definitely recommend it.",
+            "sentence_vi": "Tôi chắc chắn sẽ giới thiệu nó.",
+            "phonetic": "aɪ wʊd ˈdɛfənətli ˌrɛkəˈmɛnd ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "87fd2af08eaa4134906587b1a8b2f181",
+            "sentence_en": "I was afraid I might get mugged.",
+            "sentence_vi": "Tôi sợ tôi có thể bị bóp nghẹt.",
+            "phonetic": "aɪ wɑz əˈfreɪd aɪ maɪt gɪt məgd.",
+            "group": "group_8"
+        },
+        {
+            "id": "34a8125a3b73453d9785cc09a3488efe",
+            "sentence_en": "I sure hope you can wait for me.",
+            "sentence_vi": "Tôi chắc chắn hy vọng bạn có thể chờ đợi cho tôi.",
+            "phonetic": "aɪ ʃʊr hoʊp ju kən weɪt fər mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "5b0348fa95f8431ab65d860160ae4c98",
+            "sentence_en": "I hope you enjoy this next song.",
+            "sentence_vi": "Tôi hy vọng bạn sẽ thích bài hát tiếp theo này.",
+            "phonetic": "aɪ hoʊp ju ˌɛnˈʤɔɪ ðɪs nɛkst sɔŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "60ee9fc7fc6b4f5fbb3c3cd4f5b4f20e",
+            "sentence_en": "I hope that I'm able to do that.",
+            "sentence_vi": "Tôi hy vọng rằng tôi có thể làm được điều đó.",
+            "phonetic": "aɪ hoʊp ðət əm ˈeɪbəl tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "bad33e374e294030ab6870e116eba133",
+            "sentence_en": "I hope that that's satisfactory.",
+            "sentence_vi": "Tôi hy vọng rằng đó là thỏa đáng.",
+            "phonetic": "aɪ hoʊp ðət ðæts ˌsætɪsˈfæktəri.",
+            "group": "group_8"
+        },
+        {
+            "id": "6b6725b8ad9c41b587bb54ea109a1ef1",
+            "sentence_en": "Tom never even tried to kiss me.",
+            "sentence_vi": "Tom thậm chí chưa bao giờ cố gắng hôn tôi.",
+            "phonetic": "tɑm ˈnɛvər ˈivɪn traɪd tɪ kɪs mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "75b69b725966484e944a0b8a635d5f92",
+            "sentence_en": "Tom is my husband's best friend.",
+            "sentence_vi": "Tom là bạn thân nhất của chồng tôi.",
+            "phonetic": "tɑm ɪz maɪ ˈhəzbəndz bɛst frɛnd.",
+            "group": "group_8"
+        },
+        {
+            "id": "fbe6ee651baa43d3afcdeeab5279546d",
+            "sentence_en": "I don't love my husband anymore.",
+            "sentence_vi": "Tôi không còn yêu chồng nữa.",
+            "phonetic": "aɪ doʊnt ləv maɪ ˈhəzbənd ˌɛniˈmɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "8b3e6d006c54461abbd66d089041015e",
+            "sentence_en": "I wanted to see what was inside.",
+            "sentence_vi": "Tôi muốn xem những gì bên trong.",
+            "phonetic": "aɪ ˈwɔntɪd tɪ si wət wɑz ˌɪnˈsaɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "a2773bbec2a6449ab1d86e6d31fa8171",
+            "sentence_en": "It's hard for me to lose weight.",
+            "sentence_vi": "Thật khó để tôi giảm cân.",
+            "phonetic": "ɪts hɑrd fər mi tɪ luz weɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "de08c1ade6cd4131b10b3e9adbd4cf90",
+            "sentence_en": "You're nothing like your sister.",
+            "sentence_vi": "Bạn không giống như em gái của bạn.",
+            "phonetic": "jʊr ˈnəθɪŋ laɪk jʊr ˈsɪstər.",
+            "group": "group_8"
+        },
+        {
+            "id": "18675e0ca3494096b8814d4e5515546b",
+            "sentence_en": "The fridge was completely empty.",
+            "sentence_vi": "Tủ lạnh hoàn toàn trống rỗng.",
+            "phonetic": "ðə frɪʤ wɑz kəmˈplitli ˈɛmti.",
+            "group": "group_8"
+        },
+        {
+            "id": "96c31bea3a734210aa63a57534ac723c",
+            "sentence_en": "My opinion is the same as yours.",
+            "sentence_vi": "Ý kiến của tôi cũng giống như ý kiến của bạn.",
+            "phonetic": "maɪ əˈpɪnjən ɪz ðə seɪm ɛz jʊrz.",
+            "group": "group_8"
+        },
+        {
+            "id": "f9c811b5cdfb4029aaef98f6354510bc",
+            "sentence_en": "Our supply of food is exhausted.",
+            "sentence_vi": "Nguồn cung cấp thực phẩm của chúng tôi đã cạn kiệt.",
+            "phonetic": "ɑr səˈplaɪ əv fud ɪz ɪgˈzɔstɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "bdfa7a271816450d8aabc669f37eda90",
+            "sentence_en": "Were you present at the meeting?",
+            "sentence_vi": "Bạn có mặt trong cuộc họp không?",
+            "phonetic": "wər ju ˈprɛzənt æt ðə ˈmitɪŋ?",
+            "group": "group_8"
+        },
+        {
+            "id": "08f8cfddc8934c6488fb5d81e320dc61",
+            "sentence_en": "The artist always painted alone.",
+            "sentence_vi": "Người nghệ sĩ luôn vẽ một mình.",
+            "phonetic": "ðə ˈɑrtɪst ˈɔlˌweɪz ˈpeɪnɪd əˈloʊn.",
+            "group": "group_8"
+        },
+        {
+            "id": "cb447ed8a8244e2db36f6383b113880b",
+            "sentence_en": "The machine takes a lot of room.",
+            "sentence_vi": "Máy chiếm nhiều chỗ.",
+            "phonetic": "ðə məˈʃin teɪks ə lɔt əv rum.",
+            "group": "group_8"
+        },
+        {
+            "id": "edd513bea1a0454182075540c6245430",
+            "sentence_en": "The school is located on a hill.",
+            "sentence_vi": "Trường nằm trên một ngọn đồi.",
+            "phonetic": "ðə skul ɪz ˈloʊˌkeɪtəd ɔn ə hɪl.",
+            "group": "group_8"
+        },
+        {
+            "id": "1ee36d4ffd7c4d708faaac6ec0aebff3",
+            "sentence_en": "The picture is hung upside down.",
+            "sentence_vi": "Bức tranh được treo ngược.",
+            "phonetic": "ðə ˈpɪkʧər ɪz həŋ ˈəpˈsaɪd daʊn.",
+            "group": "group_8"
+        },
+        {
+            "id": "11db5d9dc5534f94b24f5ac9bcc5f2c7",
+            "sentence_en": "The company suffered big losses.",
+            "sentence_vi": "Công ty bị thua lỗ lớn.",
+            "phonetic": "ðə ˈkəmpəˌni ˈsəfərd bɪg ˈlɔsɪz.",
+            "group": "group_8"
+        },
+        {
+            "id": "a6ab29b34a9c4c8e844d454f9828f35b",
+            "sentence_en": "The bridge is closed to traffic.",
+            "sentence_vi": "Cây cầu bị đóng cửa không cho xe cộ qua lại.",
+            "phonetic": "ðə brɪʤ ɪz kloʊzd tɪ ˈtræfɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "a29ff841a7fc402f892272326dcda83c",
+            "sentence_en": "I don't like either Tom or Mary.",
+            "sentence_vi": "Tôi không thích Tom và Mary.",
+            "phonetic": "aɪ doʊnt laɪk ˈiðər tɑm ər ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "35b23cecfa834595aa1eb64c73ff0c04",
+            "sentence_en": "I'm going to have to leave soon.",
+            "sentence_vi": "Tôi sẽ phải đi sớm.",
+            "phonetic": "əm goʊɪŋ tɪ hæv tɪ liv sun.",
+            "group": "group_8"
+        },
+        {
+            "id": "5aa20446720343c586296ad021ebdb7b",
+            "sentence_en": "Tom's clothes were badly burned.",
+            "sentence_vi": "Quần áo của Tom bị cháy nặng.",
+            "phonetic": "tɑmz kloʊðz wər ˈbædli bərnd.",
+            "group": "group_8"
+        },
+        {
+            "id": "0ac9b6f0755641dcad1f3c2b2b5649e8",
+            "sentence_en": "Tom told me not to believe Mary.",
+            "sentence_vi": "Tom bảo tôi đừng tin Mary.",
+            "phonetic": "tɑm toʊld mi nɑt tɪ bɪˈliv ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "5e08f7662ffc4483b99290936823963e",
+            "sentence_en": "Let's look at some of the facts.",
+            "sentence_vi": "Hãy xem xét một số sự kiện.",
+            "phonetic": "lɛts lʊk æt səm əv ðə fækts.",
+            "group": "group_8"
+        },
+        {
+            "id": "df2084ffcb6043bdb757bb224495907f",
+            "sentence_en": "We'll need your help doing that.",
+            "sentence_vi": "Chúng tôi sẽ cần sự giúp đỡ của bạn để làm điều đó.",
+            "phonetic": "wɪl nid jʊr hɛlp duɪŋ ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "ab9b7ddf52b14dc691b042493eb009f0",
+            "sentence_en": "This won't be my last time here.",
+            "sentence_vi": "Đây sẽ không phải là lần cuối cùng của tôi ở đây.",
+            "phonetic": "ðɪs woʊnt bi maɪ læst taɪm hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "896b76ab6c1d4616883d6225ac658ab4",
+            "sentence_en": "I asked Tom if he would help me.",
+            "sentence_vi": "Tôi hỏi Tom liệu anh ấy có giúp tôi không.",
+            "phonetic": "aɪ æst tɑm ɪf hi wʊd hɛlp mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "a2ba4d5dc1f2448da1920be006e11ac6",
+            "sentence_en": "Tom says it's too early to tell.",
+            "sentence_vi": "Tom nói rằng còn quá sớm để nói.",
+            "phonetic": "tɑm sɪz ɪts tu ˈərli tɪ tɛl.",
+            "group": "group_8"
+        },
+        {
+            "id": "25360a7463a74974a05394d70c9caacd",
+            "sentence_en": "I wonder what it looks like now.",
+            "sentence_vi": "Tôi tự hỏi nó trông như thế nào bây giờ.",
+            "phonetic": "aɪ ˈwəndər wət ɪt lʊks laɪk naʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "78e31a50692c493e97b04b39278cdfa5",
+            "sentence_en": "Tom won't watch TV after dinner.",
+            "sentence_vi": "Tom sẽ không xem TV sau bữa tối.",
+            "phonetic": "tɑm woʊnt wɔʧ ˌtɛləˈvɪʒən ˈæftər ˈdɪnər.",
+            "group": "group_8"
+        },
+        {
+            "id": "79246b66b9884030a68df939fa49304e",
+            "sentence_en": "Tom probably won't come by taxi.",
+            "sentence_vi": "Tom có lẽ sẽ không đến bằng taxi.",
+            "phonetic": "tɑm ˈprɑbəˌbli woʊnt kəm baɪ ˈtæksi.",
+            "group": "group_8"
+        },
+        {
+            "id": "fc5ec97bcc424fdeaf74b340fc938ac1",
+            "sentence_en": "We've got to give them a chance.",
+            "sentence_vi": "Chúng ta phải cho họ một cơ hội.",
+            "phonetic": "wiv gɑt tɪ gɪv ðɛm ə ʧæns.",
+            "group": "group_8"
+        },
+        {
+            "id": "ad0bce4ad8e045e59a0e3360f5594e15",
+            "sentence_en": "Tom won't be released on Monday.",
+            "sentence_vi": "Tom sẽ không được phát hành vào thứ Hai.",
+            "phonetic": "tɑm woʊnt bi riˈlist ɔn ˈmənˌdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "3b34cec2eab14ed899989eeda4abbba1",
+            "sentence_en": "Tom won't be at tonight's party.",
+            "sentence_vi": "Tom sẽ không tham gia bữa tiệc tối nay.",
+            "phonetic": "tɑm woʊnt bi æt təˈnaɪts ˈpɑrti.",
+            "group": "group_8"
+        },
+        {
+            "id": "a152992138d44d0f88071450da082d59",
+            "sentence_en": "Tom has the same accent as Mary.",
+            "sentence_vi": "Tom có giọng giống Mary.",
+            "phonetic": "tɑm həz ðə seɪm ˈækˌsɛnt ɛz ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "8eb1719bc3b54699a8782a2d88b627ef",
+            "sentence_en": "Tom asked Mary a trick question.",
+            "sentence_vi": "Tom hỏi Mary một câu hỏi mẹo.",
+            "phonetic": "tɑm æst ˈmɛri ə trɪk kˈwɛʃən.",
+            "group": "group_8"
+        },
+        {
+            "id": "bc0474f4a88c4d3d9cfcb4471b8cb433",
+            "sentence_en": "I'm sure that Tom has a pension.",
+            "sentence_vi": "Tôi chắc rằng Tom có lương hưu.",
+            "phonetic": "əm ʃʊr ðət tɑm həz ə ˈpɛnʃən.",
+            "group": "group_8"
+        },
+        {
+            "id": "b5012421b7fb469aa15a06592dc58b0b",
+            "sentence_en": "I don't care if my car is dirty.",
+            "sentence_vi": "Tôi không quan tâm nếu xe của tôi bị bẩn.",
+            "phonetic": "aɪ doʊnt kɛr ɪf maɪ kɑr ɪz ˈdərti.",
+            "group": "group_8"
+        },
+        {
+            "id": "b6905ef9da9740549a6e17c39a2890d8",
+            "sentence_en": "I wish that you'd never told me.",
+            "sentence_vi": "Tôi ước rằng bạn chưa bao giờ nói với tôi.",
+            "phonetic": "aɪ wɪʃ ðət jʊd ˈnɛvər toʊld mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "35b3fbec7e3a468697518bd9ada0207f",
+            "sentence_en": "Tom didn't open the door for me.",
+            "sentence_vi": "Tom không mở cửa cho tôi.",
+            "phonetic": "tɑm ˈdɪdənt ˈoʊpən ðə dɔr fər mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "528a9f16ddae40999fd46f24e4928ae8",
+            "sentence_en": "Tom didn't call Mary right away.",
+            "sentence_vi": "Tom không gọi cho Mary ngay.",
+            "phonetic": "tɑm ˈdɪdənt kɔl ˈmɛri raɪt əˈweɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "a448041be78f495a8b6180c26185e438",
+            "sentence_en": "Were you able to track Tom down?",
+            "sentence_vi": "Bạn có thể theo dõi Tom không?",
+            "phonetic": "wər ju ˈeɪbəl tɪ træk tɑm daʊn?",
+            "group": "group_8"
+        },
+        {
+            "id": "85071374724747d0bbffd61ad8e50dcc",
+            "sentence_en": "When Tom is around, I can relax.",
+            "sentence_vi": "Khi có Tom, tôi có thể thư giãn.",
+            "phonetic": "wɪn tɑm ɪz əraʊnd, aɪ kən rɪˈlæks.",
+            "group": "group_8"
+        },
+        {
+            "id": "07ea556d48894dd9a33add62e48ed1a3",
+            "sentence_en": "Take all the time that you need.",
+            "sentence_vi": "Dành tất cả thời gian mà bạn cần.",
+            "phonetic": "teɪk ɔl ðə taɪm ðət ju nid.",
+            "group": "group_8"
+        },
+        {
+            "id": "8a21cedd3aa943428881cbf61cb5cf6d",
+            "sentence_en": "Tom can't do even one a pull-up.",
+            "sentence_vi": "Tom không thể kéo dù chỉ một cái.",
+            "phonetic": "tɑm kænt du ˈivɪn wən ə pull-up*.",
+            "group": "group_8"
+        },
+        {
+            "id": "e8807b92c8894bccacf1de96dd5a6509",
+            "sentence_en": "You're exactly like your father.",
+            "sentence_vi": "Bạn giống hệt bố của bạn.",
+            "phonetic": "jʊr ɪgˈzæktli laɪk jʊr ˈfɑðər.",
+            "group": "group_8"
+        },
+        {
+            "id": "ba912c744a884d388f6e01ef3e5f7fa2",
+            "sentence_en": "Tom doesn't like long car rides.",
+            "sentence_vi": "Tom không thích đi xe hơi dài.",
+            "phonetic": "tɑm ˈdəzənt laɪk lɔŋ kɑr raɪdz.",
+            "group": "group_8"
+        },
+        {
+            "id": "0710ea24be5b431ca4dfe2afed8160b5",
+            "sentence_en": "Do Japanese eat sushi every day?",
+            "sentence_vi": "Người Nhật có ăn sushi hàng ngày không?",
+            "phonetic": "du ˌʤæpəˈniz it ˈsuʃi ˈɛvəri deɪ?",
+            "group": "group_8"
+        },
+        {
+            "id": "8e24fcf21cf74800b527764d134b7377",
+            "sentence_en": "When Tom saw me, he turned pale.",
+            "sentence_vi": "Khi Tom nhìn thấy tôi, anh ấy tái mặt.",
+            "phonetic": "wɪn tɑm sɔ mi, hi tərnd peɪl.",
+            "group": "group_8"
+        },
+        {
+            "id": "eb07d27d38854604bbe73d5e7eb18343",
+            "sentence_en": "Let's leave before it gets dark.",
+            "sentence_vi": "Hãy đi trước khi trời tối.",
+            "phonetic": "lɛts liv ˌbiˈfɔr ɪt gɪts dɑrk.",
+            "group": "group_8"
+        },
+        {
+            "id": "9b8da9f3352746d4acf656f65749ba6c",
+            "sentence_en": "I'd have wanted to do that, too.",
+            "sentence_vi": "Tôi cũng muốn làm điều đó.",
+            "phonetic": "aɪd hæv ˈwɔntɪd tɪ du ðət, tu.",
+            "group": "group_8"
+        },
+        {
+            "id": "e1dc77cdaf97485a80830a3179b452af",
+            "sentence_en": "I wonder whether we're finished.",
+            "sentence_vi": "Tôi tự hỏi liệu chúng ta đã hoàn thành chưa.",
+            "phonetic": "aɪ ˈwəndər ˈwɛðər wɪr ˈfɪnɪʃt.",
+            "group": "group_8"
+        },
+        {
+            "id": "52bb86eb57844d2f9652790e3adebd05",
+            "sentence_en": "I wonder if we really need that.",
+            "sentence_vi": "Tôi tự hỏi liệu chúng ta có thực sự cần điều đó không.",
+            "phonetic": "aɪ ˈwəndər ɪf wi ˈrɪli nid ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "20b541d59fe1491f94c6ba1e4e980835",
+            "sentence_en": "I wonder if it'll snow tomorrow.",
+            "sentence_vi": "Tôi tự hỏi liệu ngày mai trời có tuyết rơi không.",
+            "phonetic": "aɪ ˈwəndər ɪf ˈɪtəl snoʊ təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "27fc3db491064d1aa4845d990531ddf0",
+            "sentence_en": "I wonder if it'll rain tomorrow.",
+            "sentence_vi": "Tôi tự hỏi liệu ngày mai trời có mưa không.",
+            "phonetic": "aɪ ˈwəndər ɪf ˈɪtəl reɪn təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "17fb1f2a1c394691b7077dfca7a69b3c",
+            "sentence_en": "I wonder if I can still do that.",
+            "sentence_vi": "Tôi tự hỏi liệu mình có còn làm được như vậy không.",
+            "phonetic": "aɪ ˈwəndər ɪf aɪ kən stɪl du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "e610edac3a914f47a7c408505be13122",
+            "sentence_en": "I might not be able to go today.",
+            "sentence_vi": "Tôi có thể không đi được hôm nay.",
+            "phonetic": "aɪ maɪt nɑt bi ˈeɪbəl tɪ goʊ təˈdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "ada6ac411ab94458ac05f81a0d18cd1c",
+            "sentence_en": "I may stay for another few days.",
+            "sentence_vi": "Tôi có thể ở lại vài ngày nữa.",
+            "phonetic": "aɪ meɪ steɪ fər əˈnəðər fju deɪz.",
+            "group": "group_8"
+        },
+        {
+            "id": "bbae9ac55ddf44d19adf23a3f9df5ad1",
+            "sentence_en": "I didn't meet anybody new today.",
+            "sentence_vi": "Hôm nay tôi không gặp ai mới cả.",
+            "phonetic": "aɪ ˈdɪdənt mit ˈɛnibədi nu təˈdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "b4b0884de6ba4d0ea456a17a533b9297",
+            "sentence_en": "I wouldn't mind if I didn't win.",
+            "sentence_vi": "Tôi sẽ không phiền nếu tôi không thắng.",
+            "phonetic": "aɪ ˈwʊdənt maɪnd ɪf aɪ ˈdɪdənt wɪn.",
+            "group": "group_8"
+        },
+        {
+            "id": "fe2ea0d3f5e54f4cab6bf536417d38d4",
+            "sentence_en": "I wonder why you had to do that.",
+            "sentence_vi": "Tôi tự hỏi tại sao bạn phải làm như vậy.",
+            "phonetic": "aɪ ˈwəndər waɪ ju hæd tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "a3d824383a7a4a2c92f3d52b39cfacd9",
+            "sentence_en": "I wonder why we have to do that.",
+            "sentence_vi": "Tôi tự hỏi tại sao chúng ta phải làm như vậy.",
+            "phonetic": "aɪ ˈwəndər waɪ wi hæv tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "3a5cc68318794b19b45797dac0e08c93",
+            "sentence_en": "I wonder if you have to do that.",
+            "sentence_vi": "Tôi tự hỏi nếu bạn phải làm điều đó.",
+            "phonetic": "aɪ ˈwəndər ɪf ju hæv tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "51cdc80ceff240c381b3ec456873167a",
+            "sentence_en": "I won't be needing that anymore.",
+            "sentence_vi": "Tôi sẽ không cần điều đó nữa.",
+            "phonetic": "aɪ woʊnt bi ˈnidɪŋ ðət ˌɛniˈmɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "9f28382500ef41398904ce2cc8429b1d",
+            "sentence_en": "I wish I'd known how to do that.",
+            "sentence_vi": "Tôi ước tôi biết làm thế nào để làm điều đó.",
+            "phonetic": "aɪ wɪʃ aɪd noʊn haʊ tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "a6c78aae6fc743d2b73e977e03a76c3f",
+            "sentence_en": "I wasn't too sure what to think.",
+            "sentence_vi": "Tôi không chắc phải nghĩ gì.",
+            "phonetic": "aɪ ˈwəzənt tu ʃʊr wət tɪ θɪŋk.",
+            "group": "group_8"
+        },
+        {
+            "id": "aae1ab986f654cf9838101acb0f79659",
+            "sentence_en": "I wasn't the one who complained.",
+            "sentence_vi": "Tôi không phải là người phàn nàn.",
+            "phonetic": "aɪ ˈwəzənt ðə wən hu kəmˈpleɪnd.",
+            "group": "group_8"
+        },
+        {
+            "id": "78cfc32b5293484787bdf81ea4a32410",
+            "sentence_en": "I wasn't sure what I should buy.",
+            "sentence_vi": "Tôi không chắc mình nên mua gì.",
+            "phonetic": "aɪ ˈwəzənt ʃʊr wət aɪ ʃʊd baɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "8c3c89290c684b27b68f9418c746a407",
+            "sentence_en": "I thought I didn't do that well.",
+            "sentence_vi": "Tôi đã nghĩ rằng tôi đã làm điều đó không tốt.",
+            "phonetic": "aɪ θɔt aɪ ˈdɪdənt du ðət wɛl.",
+            "group": "group_8"
+        },
+        {
+            "id": "91b98bb0e3214001aad4e068bcb1b20f",
+            "sentence_en": "I think I'd like to go with you.",
+            "sentence_vi": "Tôi nghĩ tôi muốn đi với bạn.",
+            "phonetic": "aɪ θɪŋk aɪd laɪk tɪ goʊ wɪθ ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "0bee802bbc414854b9f7b2edbaa7226f",
+            "sentence_en": "I really should've left earlier.",
+            "sentence_vi": "Tôi thực sự nên đi sớm hơn.",
+            "phonetic": "aɪ ˈrɪli ˈʃʊdəv lɛft ˈərliər.",
+            "group": "group_8"
+        },
+        {
+            "id": "3963ef0c00c747e28766ec2d85cfc12c",
+            "sentence_en": "I might walk to school tomorrow.",
+            "sentence_vi": "Tôi có thể đi bộ đến trường vào ngày mai.",
+            "phonetic": "aɪ maɪt wɔk tɪ skul təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "a0f688737699432d8723cd951672120e",
+            "sentence_en": "I might be permitted to do that.",
+            "sentence_vi": "Tôi có thể được phép làm điều đó.",
+            "phonetic": "aɪ maɪt bi pərˈmɪtɪd tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "47ba512a7df7470390b4dfeec40f2442",
+            "sentence_en": "I may need to wait a bit longer.",
+            "sentence_vi": "Tôi có thể cần phải đợi lâu hơn một chút.",
+            "phonetic": "aɪ meɪ nid tɪ weɪt ə bɪt ˈlɔŋgər.",
+            "group": "group_8"
+        },
+        {
+            "id": "ae39b611f1b24d01a054be5fa7115552",
+            "sentence_en": "I hardly ever do that by myself.",
+            "sentence_vi": "Tôi hầu như không bao giờ làm điều đó một mình.",
+            "phonetic": "aɪ ˈhɑrdli ˈɛvər du ðət baɪ ˌmaɪˈsɛlf.",
+            "group": "group_8"
+        },
+        {
+            "id": "d957ac50d34f472bbfe8081d4f36e628",
+            "sentence_en": "I may have one of those at home.",
+            "sentence_vi": "Tôi có thể có một trong những thứ đó ở nhà.",
+            "phonetic": "aɪ meɪ hæv wən əv ðoʊz æt hoʊm.",
+            "group": "group_8"
+        },
+        {
+            "id": "5dabce3caa154402a0ea691566c4f0c0",
+            "sentence_en": "I make it a rule not to do that.",
+            "sentence_vi": "Tôi làm cho nó một quy tắc để không làm điều đó.",
+            "phonetic": "aɪ meɪk ɪt ə rul nɑt tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "8f5938a15564418eab08eb7e7f4a3b16",
+            "sentence_en": "I know you'll never leave early.",
+            "sentence_vi": "Tôi biết bạn sẽ không bao giờ về sớm.",
+            "phonetic": "aɪ noʊ jul ˈnɛvər liv ˈərli.",
+            "group": "group_8"
+        },
+        {
+            "id": "d8e25757ee5648b0ba5cc02e5d4b39a8",
+            "sentence_en": "I know where you went to school.",
+            "sentence_vi": "Tôi biết bạn đã đi học ở đâu.",
+            "phonetic": "aɪ noʊ wɛr ju wɛnt tɪ skul.",
+            "group": "group_8"
+        },
+        {
+            "id": "140084ddfab2443b940d33ded2aa9cbe",
+            "sentence_en": "I knew you wouldn't leave early.",
+            "sentence_vi": "Tôi biết bạn sẽ không về sớm.",
+            "phonetic": "aɪ nu ju ˈwʊdənt liv ˈərli.",
+            "group": "group_8"
+        },
+        {
+            "id": "fe058f875f5246e799900ad81b73c3fd",
+            "sentence_en": "I intend to come again tomorrow.",
+            "sentence_vi": "Tôi dự định sẽ đến một lần nữa vào ngày mai.",
+            "phonetic": "aɪ ˌɪnˈtɛnd tɪ kəm əˈgɛn təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "accac883c95545a8bbe4c829ee38390e",
+            "sentence_en": "I was hoping that you'd help me.",
+            "sentence_vi": "Tôi đã hy vọng rằng bạn sẽ giúp tôi.",
+            "phonetic": "aɪ wɑz ˈhoʊpɪŋ ðət jʊd hɛlp mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "dda82a37facf49ad89c9aea786b8632f",
+            "sentence_en": "I've seen you riding a unicycle.",
+            "sentence_vi": "Tôi đã thấy bạn đi xe đạp một bánh.",
+            "phonetic": "aɪv sin ju ˈraɪdɪŋ ə ˈjunəˌsaɪkəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "512f58e1a7f640a692ceef135d882f84",
+            "sentence_en": "I've already managed to do that.",
+            "sentence_vi": "Tôi đã quản lý để làm điều đó.",
+            "phonetic": "aɪv ɔˈrɛdi ˈmænɪʤd tɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "6742e37ba42e4570aabe99c8213d2698",
+            "sentence_en": "Has it been three years already?",
+            "sentence_vi": "Đã ba năm rồi phải không?",
+            "phonetic": "həz ɪt bɪn θri jɪrz ɔˈrɛdi?",
+            "group": "group_8"
+        },
+        {
+            "id": "f82a4b65f79740a9a0956feb7099bb2b",
+            "sentence_en": "Did they ever play in Australia?",
+            "sentence_vi": "Họ đã từng chơi ở Úc chưa?",
+            "phonetic": "dɪd ðeɪ ˈɛvər pleɪ ɪn ɔˈstreɪljə?",
+            "group": "group_8"
+        },
+        {
+            "id": "1ae3e1826ac84f8aa04c2a9eca18aa9b",
+            "sentence_en": "I really like working in groups.",
+            "sentence_vi": "Tôi thực sự thích làm việc theo nhóm.",
+            "phonetic": "aɪ ˈrɪli laɪk ˈwərkɪŋ ɪn grups.",
+            "group": "group_8"
+        },
+        {
+            "id": "77e7b2a4041f40e3809beaef7775bc48",
+            "sentence_en": "I really like reading your blog.",
+            "sentence_vi": "Tôi thực sự thích đọc blog của bạn.",
+            "phonetic": "aɪ ˈrɪli laɪk ˈrɛdɪŋ jʊr blɔg.",
+            "group": "group_8"
+        },
+        {
+            "id": "e0ea7eff7cf0423c9a8f49ae8af2dd2a",
+            "sentence_en": "I admire your sense of fairness.",
+            "sentence_vi": "Tôi ngưỡng mộ cảm giác công bằng của bạn.",
+            "phonetic": "aɪ ædˈmaɪr jʊr sɛns əv ˈfɛrnəs.",
+            "group": "group_8"
+        },
+        {
+            "id": "be5f467ae7824e84ab3dbfc877612223",
+            "sentence_en": "I was working yesterday morning.",
+            "sentence_vi": "Tôi đã làm việc vào sáng hôm qua.",
+            "phonetic": "aɪ wɑz ˈwərkɪŋ ˈjɛstərˌdeɪ ˈmɔrnɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "d67aa0cf00184ef498e6f721a229e248",
+            "sentence_en": "I'd still like to work with you.",
+            "sentence_vi": "Tôi vẫn muốn làm việc với bạn.",
+            "phonetic": "aɪd stɪl laɪk tɪ wərk wɪθ ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "16f7b669354f4a5aa6c95eb44b676a49",
+            "sentence_en": "I'm not as thin as I used to be.",
+            "sentence_vi": "Tôi không còn gầy như ngày xưa nữa.",
+            "phonetic": "əm nɑt ɛz θɪn ɛz aɪ juzd tɪ bi.",
+            "group": "group_8"
+        },
+        {
+            "id": "f52b379901314cb9aa06906dac00b121",
+            "sentence_en": "I'm not much older than you are.",
+            "sentence_vi": "Tôi không già hơn bạn nhiều.",
+            "phonetic": "əm nɑt məʧ ˈoʊldər ðən ju ər.",
+            "group": "group_8"
+        },
+        {
+            "id": "37355cbd18234f74a9e1326cb9d1afae",
+            "sentence_en": "I'm not sure what else I can do.",
+            "sentence_vi": "Tôi không chắc mình có thể làm gì khác.",
+            "phonetic": "əm nɑt ʃʊr wət ɛls aɪ kən du.",
+            "group": "group_8"
+        },
+        {
+            "id": "bc97e81a241845829e96285d203bd556",
+            "sentence_en": "Come and visit whenever you can.",
+            "sentence_vi": "Hãy đến và ghé thăm bất cứ khi nào bạn có thể.",
+            "phonetic": "kəm ənd ˈvɪzɪt wɛˈnɛvər ju kən.",
+            "group": "group_8"
+        },
+        {
+            "id": "f84558ca1ec5410c9e5f92b8f5aec5c8",
+            "sentence_en": "Tom wasn't there when Mary died.",
+            "sentence_vi": "Tom đã không ở đó khi Mary chết.",
+            "phonetic": "tɑm ˈwəzənt ðɛr wɪn ˈmɛri daɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "5fb1c486d3e247f384a62c25f90c90a2",
+            "sentence_en": "Tom wasn't on the bus with Mary.",
+            "sentence_vi": "Tom không ở trên xe buýt với Mary.",
+            "phonetic": "tɑm ˈwəzənt ɔn ðə bəs wɪθ ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "ba8bd61cc42a43fda1b4ef08b7ecc7f8",
+            "sentence_en": "Tom knew what he should do next.",
+            "sentence_vi": "Tom biết mình nên làm gì tiếp theo.",
+            "phonetic": "tɑm nu wət hi ʃʊd du nɛkst.",
+            "group": "group_8"
+        },
+        {
+            "id": "1a7f803f6f2c48a9857cb4b9fa9e88be",
+            "sentence_en": "Tom seemed glad to see us again.",
+            "sentence_vi": "Tom có vẻ rất vui khi gặp lại chúng tôi.",
+            "phonetic": "tɑm simd glæd tɪ si ˈjuˈɛs əˈgɛn.",
+            "group": "group_8"
+        },
+        {
+            "id": "8cf99858fe3f4dcd95ce21e5468605c7",
+            "sentence_en": "Friends should help one another.",
+            "sentence_vi": "Bạn bè nên giúp đỡ lẫn nhau.",
+            "phonetic": "frɛndz ʃʊd hɛlp wən əˈnəðər.",
+            "group": "group_8"
+        },
+        {
+            "id": "67d17d5fc96542c982f78570a8e19587",
+            "sentence_en": "Tom won't stay at home tomorrow.",
+            "sentence_vi": "Ngày mai Tom sẽ không ở nhà.",
+            "phonetic": "tɑm woʊnt steɪ æt hoʊm təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "75d4c5efa10049f69edcb57f934ceb98",
+            "sentence_en": "I just need somebody to talk to.",
+            "sentence_vi": "Tôi chỉ cần ai đó nói chuyện cùng.",
+            "phonetic": "aɪ ʤɪst nid ˈsəmˌbɑdi tɪ tɔk tɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "736a35f39a4547f5917eb83726dd9c4f",
+            "sentence_en": "I'm sorry, but I don't remember.",
+            "sentence_vi": "Tôi xin lỗi, nhưng tôi không nhớ.",
+            "phonetic": "əm ˈsɑri, bət aɪ doʊnt rɪˈmɛmbər.",
+            "group": "group_8"
+        },
+        {
+            "id": "4a931dac312047d6b6d1f11446324614",
+            "sentence_en": "Tom loves talking about himself.",
+            "sentence_vi": "Tom thích nói về bản thân.",
+            "phonetic": "tɑm ləvz ˈtɔkɪŋ əˈbaʊt hɪmˈsɛlf.",
+            "group": "group_8"
+        },
+        {
+            "id": "f9e8a5ecfd57407984760eacb3308d65",
+            "sentence_en": "Tom went to a concert with Mary.",
+            "sentence_vi": "Tom đã đến một buổi hòa nhạc với Mary.",
+            "phonetic": "tɑm wɛnt tɪ ə ˈkɑnsərt wɪθ ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "7fcebc4d04444aa7aa52d5b821290aa5",
+            "sentence_en": "Tom must've gone to the concert.",
+            "sentence_vi": "Tom chắc hẳn đã đi xem buổi hòa nhạc.",
+            "phonetic": "tɑm ˈməstɪv gɔn tɪ ðə ˈkɑnsərt.",
+            "group": "group_8"
+        },
+        {
+            "id": "503a73c381104acebbadd23213196790",
+            "sentence_en": "Tom lost the argument with Mary.",
+            "sentence_vi": "Tom đã thua trong cuộc tranh cãi với Mary.",
+            "phonetic": "tɑm lɔst ðə ˈɑrgjəmənt wɪθ ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "0fd6cf506b404d58ae37533deeb2ebd8",
+            "sentence_en": "Tom is going to be at the party.",
+            "sentence_vi": "Tom sẽ tham dự bữa tiệc.",
+            "phonetic": "tɑm ɪz goʊɪŋ tɪ bi æt ðə ˈpɑrti.",
+            "group": "group_8"
+        },
+        {
+            "id": "2829aa5323ca478ab2175fd95d6c54f2",
+            "sentence_en": "There is some water in the well.",
+            "sentence_vi": "Có một số nước trong giếng.",
+            "phonetic": "ðɛr ɪz səm ˈwɔtər ɪn ðə wɛl.",
+            "group": "group_8"
+        },
+        {
+            "id": "0e3e7db7855b47dd912ead39770fe5e6",
+            "sentence_en": "Tom stood in the rain for hours.",
+            "sentence_vi": "Tom đã đứng dưới mưa hàng giờ liền.",
+            "phonetic": "tɑm stʊd ɪn ðə reɪn fər aʊərz.",
+            "group": "group_8"
+        },
+        {
+            "id": "854d5fed3c2a412fbda1d80d754be2fd",
+            "sentence_en": "Tom should try to eat healthier.",
+            "sentence_vi": "Tom nên cố gắng ăn uống lành mạnh hơn.",
+            "phonetic": "tɑm ʃʊd traɪ tɪ it ˈhɛlθiər.",
+            "group": "group_8"
+        },
+        {
+            "id": "28bd3a539f6647ddb776f786f5efc196",
+            "sentence_en": "I know that can\\'t really happen.",
+            "sentence_vi": "Tôi biết điều đó không thể thực sự xảy ra.",
+            "phonetic": "aɪ noʊ ðət can\\'t* ˈrɪli ˈhæpən.",
+            "group": "group_8"
+        },
+        {
+            "id": "0558cca97f7c4a969b24ef236cc216d0",
+            "sentence_en": "I know that\\'s not what you want.",
+            "sentence_vi": "Tôi biết đó không phải là điều bạn muốn.",
+            "phonetic": "aɪ noʊ that\\'s* nɑt wət ju wɔnt.",
+            "group": "group_8"
+        },
+        {
+            "id": "2a398083e4484cf4bee0c4649df8ba15",
+            "sentence_en": "I know they\\'re as happy as I am.",
+            "sentence_vi": "Tôi biết họ đang hạnh phúc như tôi.",
+            "phonetic": "aɪ noʊ they\\'re* ɛz ˈhæpi ɛz aɪ æm.",
+            "group": "group_8"
+        },
+        {
+            "id": "6b99dfd6e6644e39896fe2fbc4b63770",
+            "sentence_en": "Tom doesn\\'t want anyone to know.",
+            "sentence_vi": "Tom không muốn ai biết.",
+            "phonetic": "tɑm doesn\\'t* wɔnt ˈɛniˌwən tɪ noʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "db558e3372024c0eb07f91c0a7d19f1b",
+            "sentence_en": "Tom doesn\\'t want to change that.",
+            "sentence_vi": "Tom không muốn thay đổi điều đó.",
+            "phonetic": "tɑm doesn\\'t* wɔnt tɪ ʧeɪnʤ ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "b1ddf4dd035c4c108277c689c9279864",
+            "sentence_en": "Tom doesn\\'t want to get married.",
+            "sentence_vi": "Tom không muốn kết hôn.",
+            "phonetic": "tɑm doesn\\'t* wɔnt tɪ gɪt ˈmɛrid.",
+            "group": "group_8"
+        },
+        {
+            "id": "6a7bbee027a944ef8db0d476a3d38d70",
+            "sentence_en": "Did you see yesterday\\'s eclipse?",
+            "sentence_vi": "Bạn có nhìn thấy nhật thực ngày hôm qua không?",
+            "phonetic": "dɪd ju si yesterday\\'s* ɪˈklɪps?",
+            "group": "group_8"
+        },
+        {
+            "id": "efb79aa699f14878a88d259379ce786f",
+            "sentence_en": "Did you see yesterday\\'s episode?",
+            "sentence_vi": "Bạn có xem tập của ngày hôm qua không?",
+            "phonetic": "dɪd ju si yesterday\\'s* ˈɛpɪˌsoʊd?",
+            "group": "group_8"
+        },
+        {
+            "id": "f82202b4add24e44b1462aa61e7660ca",
+            "sentence_en": "Tom held the gun to Mary\\'s head.",
+            "sentence_vi": "Tom dí súng vào đầu Mary.",
+            "phonetic": "tɑm hɛld ðə gən tɪ mary\\'s* hɛd.",
+            "group": "group_8"
+        },
+        {
+            "id": "7fe2ea275f754430b9164e24cb3fba36",
+            "sentence_en": "I thought Tom and Mary were busy.",
+            "sentence_vi": "Tôi nghĩ Tom và Mary đang bận.",
+            "phonetic": "aɪ θɔt tɑm ənd ˈmɛri wər ˈbɪzi.",
+            "group": "group_8"
+        },
+        {
+            "id": "3101055feaf44a65adbccef67a9e25c7",
+            "sentence_en": "I thought Tom and Mary were kind.",
+            "sentence_vi": "Tôi nghĩ Tom và Mary rất tốt.",
+            "phonetic": "aɪ θɔt tɑm ənd ˈmɛri wər kaɪnd.",
+            "group": "group_8"
+        },
+        {
+            "id": "0439c4df3d9441d1b00a05646c9b5b1c",
+            "sentence_en": "I thought Tom and Mary were nuts.",
+            "sentence_vi": "Tôi nghĩ Tom và Mary là những kẻ điên rồ.",
+            "phonetic": "aɪ θɔt tɑm ənd ˈmɛri wər nəts.",
+            "group": "group_8"
+        },
+        {
+            "id": "51a9c7fcf56b443c8836aa45a2e52070",
+            "sentence_en": "I thought Tom could speak French.",
+            "sentence_vi": "Tôi nghĩ Tom có thể nói tiếng Pháp.",
+            "phonetic": "aɪ θɔt tɑm kʊd spik frɛnʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "a0f8ac3e3e7140719c738504d2a1253a",
+            "sentence_en": "I thought Tom did that yesterday.",
+            "sentence_vi": "Tôi nghĩ Tom đã làm điều đó ngày hôm qua.",
+            "phonetic": "aɪ θɔt tɑm dɪd ðət ˈjɛstərˌdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "e41f268a79da4664ad08bbe8d595558a",
+            "sentence_en": "I thought Tom enjoyed doing that.",
+            "sentence_vi": "Tôi nghĩ Tom rất thích làm điều đó.",
+            "phonetic": "aɪ θɔt tɑm ˌɛnˈʤɔɪd duɪŋ ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "d1fcea9dc712402699df3dfb8b45547f",
+            "sentence_en": "I was absent from work yesterday.",
+            "sentence_vi": "Tôi đã vắng mặt trong công việc ngày hôm qua.",
+            "phonetic": "aɪ wɑz ˈæbsənt frəm wərk ˈjɛstərˌdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "c32d5dd0bdea4d01abfc87621fffbf63",
+            "sentence_en": "I will go there even if it rains.",
+            "sentence_vi": "Tôi sẽ đến đó ngay cả khi trời mưa.",
+            "phonetic": "aɪ wɪl goʊ ðɛr ˈivɪn ɪf ɪt reɪnz.",
+            "group": "group_8"
+        },
+        {
+            "id": "91f590bce478466182d0acbaf7bc3e69",
+            "sentence_en": "I wish you had told me the truth.",
+            "sentence_vi": "Tôi ước gì bạn đã nói cho tôi sự thật.",
+            "phonetic": "aɪ wɪʃ ju hæd toʊld mi ðə truθ.",
+            "group": "group_8"
+        },
+        {
+            "id": "c2df6a84d7034d4eb34c410c1ab2c361",
+            "sentence_en": "I would like to order a sandwich.",
+            "sentence_vi": "Tôi muốn gọi một chiếc bánh sandwich.",
+            "phonetic": "aɪ wʊd laɪk tɪ ˈɔrdər ə ˈsænwɪʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "877bb2dcd86c4d469ad497e27af4b9a8",
+            "sentence_en": "I wrote three letters last night.",
+            "sentence_vi": "Tôi đã viết ba bức thư đêm qua.",
+            "phonetic": "aɪ roʊt θri ˈlɛtərz læst naɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "37f0a2af7d814100ae518e34700822f7",
+            "sentence_en": "Tom fell asleep waiting for Mary.",
+            "sentence_vi": "Tom đã ngủ quên chờ Mary.",
+            "phonetic": "tɑm fɛl əsˈlip ˈweɪtɪŋ fər ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "6134066bb1f94be38473581f2ebc7a8e",
+            "sentence_en": "Tom felt a chill go up his spine.",
+            "sentence_vi": "Tom cảm thấy ớn lạnh sống lưng.",
+            "phonetic": "tɑm fɛlt ə ʧɪl goʊ əp hɪz spaɪn.",
+            "group": "group_8"
+        },
+        {
+            "id": "920e54ca44c8440fa6da44bf75fa8335",
+            "sentence_en": "Tom felt the train begin to move.",
+            "sentence_vi": "Tom cảm thấy đoàn tàu bắt đầu chuyển bánh.",
+            "phonetic": "tɑm fɛlt ðə treɪn bɪˈgɪn tɪ muv.",
+            "group": "group_8"
+        },
+        {
+            "id": "bd661b222d8e4c8ba9b336e8234f3c01",
+            "sentence_en": "Tom filled the bottle with water.",
+            "sentence_vi": "Tom đổ đầy nước vào chai.",
+            "phonetic": "tɑm fɪld ðə ˈbɑtəl wɪθ ˈwɔtər.",
+            "group": "group_8"
+        },
+        {
+            "id": "ebadf1d7ce6448bba151c6d7f631e0af",
+            "sentence_en": "Tom filled the bucket to the top.",
+            "sentence_vi": "Tom đổ đầy xô lên trên cùng.",
+            "phonetic": "tɑm fɪld ðə ˈbəkɪt tɪ ðə tɔp.",
+            "group": "group_8"
+        },
+        {
+            "id": "db5b0fb734344dd5ab708bd2cee82987",
+            "sentence_en": "Tom filled the bucket with water.",
+            "sentence_vi": "Tom đổ đầy nước vào xô.",
+            "phonetic": "tɑm fɪld ðə ˈbəkɪt wɪθ ˈwɔtər.",
+            "group": "group_8"
+        },
+        {
+            "id": "2db5f2b1a2384791a59c0856cd04d262",
+            "sentence_en": "You should\\'ve gotten up earlier.",
+            "sentence_vi": "Bạn nên dậy sớm hơn.",
+            "phonetic": "ju should\\'ve* ˈgɔtən əp ˈərliər.",
+            "group": "group_8"
+        },
+        {
+            "id": "157dc4dd833f4add8294e8903d743527",
+            "sentence_en": "You should\\'ve seen what Tom did.",
+            "sentence_vi": "Bạn sẽ thấy những gì Tom đã làm.",
+            "phonetic": "ju should\\'ve* sin wət tɑm dɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "ff63970642344c7c8f74c294943dc27b",
+            "sentence_en": "You should\\'ve told me the truth.",
+            "sentence_vi": "Bạn nên nói với tôi sự thật.",
+            "phonetic": "ju should\\'ve* toʊld mi ðə truθ.",
+            "group": "group_8"
+        },
+        {
+            "id": "dcc8af4a60c043849bc6243a648e69c8",
+            "sentence_en": "You should\\'ve told me yesterday.",
+            "sentence_vi": "Bạn nên nói với tôi ngày hôm qua.",
+            "phonetic": "ju should\\'ve* toʊld mi ˈjɛstərˌdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "e96da78cf28b4a3ab3bf330290e785bf",
+            "sentence_en": "You should\\'ve told us the truth.",
+            "sentence_vi": "Bạn nên nói với chúng tôi sự thật.",
+            "phonetic": "ju should\\'ve* toʊld ˈjuˈɛs ðə truθ.",
+            "group": "group_8"
+        },
+        {
+            "id": "8707082b4a0b4b0cab9f50afe915f881",
+            "sentence_en": "You shouldn\\'t be doing that now.",
+            "sentence_vi": "Bạn không nên làm điều đó ngay bây giờ.",
+            "phonetic": "ju shouldn\\'t* bi duɪŋ ðət naʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "5170505467cb417ba8ba77a28e708d20",
+            "sentence_en": "Where do I have to change trains?",
+            "sentence_vi": "Tôi phải đổi tàu ở đâu?",
+            "phonetic": "wɛr du aɪ hæv tɪ ʧeɪnʤ treɪnz?",
+            "group": "group_8"
+        },
+        {
+            "id": "8c68d55c10f24d3daf35e03b21fd7f6a",
+            "sentence_en": "Will you show me what you bought?",
+            "sentence_vi": "Bạn sẽ chỉ cho tôi những gì bạn đã mua?",
+            "phonetic": "wɪl ju ʃoʊ mi wət ju bɔt?",
+            "group": "group_8"
+        },
+        {
+            "id": "9cf2819fc85d4e9a8292e244c3ea912a",
+            "sentence_en": "Would you like to drink anything?",
+            "sentence_vi": "Bạn có muốn uống gì không?",
+            "phonetic": "wʊd ju laɪk tɪ drɪŋk ˈɛniˌθɪŋ?",
+            "group": "group_8"
+        },
+        {
+            "id": "565897e413cc4293af09869549e4e47e",
+            "sentence_en": "Would you mind shutting the door?",
+            "sentence_vi": "Bạn có phiền đóng cửa không?",
+            "phonetic": "wʊd ju maɪnd ˈʃətɪŋ ðə dɔr?",
+            "group": "group_8"
+        },
+        {
+            "id": "7cdb6015df74414e917de6e98647e0be",
+            "sentence_en": "You can stay as long as you like.",
+            "sentence_vi": "Bạn có thể ở lại bao lâu tùy thích.",
+            "phonetic": "ju kən steɪ ɛz lɔŋ ɛz ju laɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "f208c2a1f2564d2a985bbedfa9c48cfb",
+            "sentence_en": "Tom\\'s locker is next to Mary\\'s.",
+            "sentence_vi": "Tủ đựng đồ của Tom nằm cạnh Mary \\ 's.",
+            "phonetic": "tom\\'s* ˈlɑkər ɪz nɛkst tɪ mary\\'s*.",
+            "group": "group_8"
+        },
+        {
+            "id": "063b7b787369432e8494f7e66ba395b0",
+            "sentence_en": "Tom\\'s plan didn\\'t sound stupid.",
+            "sentence_vi": "Kế hoạch của Tom nghe có vẻ không ngu ngốc.",
+            "phonetic": "tom\\'s* plæn didn\\'t* saʊnd ˈstupɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "e2cb82331750471487dfca06675aadfa",
+            "sentence_en": "Tom said he left before Mary did.",
+            "sentence_vi": "Tom nói rằng anh ấy đã rời đi trước khi Mary làm.",
+            "phonetic": "tɑm sɛd hi lɛft ˌbiˈfɔr ˈmɛri dɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "9deca98b5f2d43ddadeae18385fc2ddd",
+            "sentence_en": "Tom said he liked the new carpet.",
+            "sentence_vi": "Tom nói rằng anh ấy thích tấm thảm mới.",
+            "phonetic": "tɑm sɛd hi laɪkt ðə nu ˈkɑrpət.",
+            "group": "group_8"
+        },
+        {
+            "id": "9f37c2d455e642eca592a46b3843fb23",
+            "sentence_en": "Tom said he may possibly do that.",
+            "sentence_vi": "Tom nói rằng anh ấy có thể làm điều đó.",
+            "phonetic": "tɑm sɛd hi meɪ ˈpɑsəbli du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "a0bf5891ad5247cabbd038e601ff1d60",
+            "sentence_en": "Tom said he needed to take a nap.",
+            "sentence_vi": "Tom nói rằng anh ấy cần phải chợp mắt.",
+            "phonetic": "tɑm sɛd hi ˈnidɪd tɪ teɪk ə næp.",
+            "group": "group_8"
+        },
+        {
+            "id": "17ac5a843dac4996a646983b0a26882d",
+            "sentence_en": "Tom said he needs to go shopping.",
+            "sentence_vi": "Tom nói anh ấy cần đi mua sắm.",
+            "phonetic": "tɑm sɛd hi nidz tɪ goʊ ˈʃɑpɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "166934e161734d18b2081432da32b0ad",
+            "sentence_en": "Tom said he noticed a difference.",
+            "sentence_vi": "Tom nói rằng anh ấy nhận thấy một sự khác biệt.",
+            "phonetic": "tɑm sɛd hi ˈnoʊtɪst ə ˈdɪfərəns.",
+            "group": "group_8"
+        },
+        {
+            "id": "48b1d3f824bd4714b58070a3b88db143",
+            "sentence_en": "My aunt brought up five children.",
+            "sentence_vi": "Dì tôi đã nuôi năm người con.",
+            "phonetic": "maɪ ɔnt brɔt əp faɪv ˈʧɪldrən.",
+            "group": "group_8"
+        },
+        {
+            "id": "1f5ce8af62b543f797f74338c313cd10",
+            "sentence_en": "My best friend comes from Canada.",
+            "sentence_vi": "Bạn thân nhất của tôi đến từ Canada.",
+            "phonetic": "maɪ bɛst frɛnd kəmz frəm ˈkænədə.",
+            "group": "group_8"
+        },
+        {
+            "id": "e34b4aff79854b648c9d9523731859d4",
+            "sentence_en": "My boss let me leave early today.",
+            "sentence_vi": "Hôm nay sếp cho tôi về sớm.",
+            "phonetic": "maɪ bɔs lɛt mi liv ˈərli təˈdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "96155e3658b749e2b48c8a4332762247",
+            "sentence_en": "My boss made me work last Sunday.",
+            "sentence_vi": "Ông chủ của tôi đã bắt tôi làm việc vào Chủ nhật tuần trước.",
+            "phonetic": "maɪ bɔs meɪd mi wərk læst ˈsənˌdi.",
+            "group": "group_8"
+        },
+        {
+            "id": "4a0f7af6467d4ccb8bb98e67ffd1aecb",
+            "sentence_en": "Tom said he doesn\\'t care at all.",
+            "sentence_vi": "Tom nói rằng anh ấy không quan tâm chút nào.",
+            "phonetic": "tɑm sɛd hi doesn\\'t* kɛr æt ɔl.",
+            "group": "group_8"
+        },
+        {
+            "id": "8717603addd146f8bf7d6aab2e1d4070",
+            "sentence_en": "It took little more than an hour.",
+            "sentence_vi": "Nó chỉ mất hơn một giờ.",
+            "phonetic": "ɪt tʊk ˈlɪtəl mɔr ðən ən aʊər.",
+            "group": "group_8"
+        },
+        {
+            "id": "f1ce91824a09424689d16f042fcb97e0",
+            "sentence_en": "It was dark and cold in the room.",
+            "sentence_vi": "Trong phòng tối và lạnh.",
+            "phonetic": "ɪt wɑz dɑrk ənd koʊld ɪn ðə rum.",
+            "group": "group_8"
+        },
+        {
+            "id": "97862a820dd14a72849219f86c15255e",
+            "sentence_en": "It was my turn to clean the room.",
+            "sentence_vi": "Đến lượt tôi dọn phòng.",
+            "phonetic": "ɪt wɑz maɪ tərn tɪ klin ðə rum.",
+            "group": "group_8"
+        },
+        {
+            "id": "1432104d0589487c9a744cdc3001e58a",
+            "sentence_en": "If anyone can do that, it\\'s Tom.",
+            "sentence_vi": "Nếu ai đó có thể làm được điều đó, đó là Tom.",
+            "phonetic": "ɪf ˈɛniˌwən kən du ðət, it\\'s* tɑm.",
+            "group": "group_8"
+        },
+        {
+            "id": "3a141f7539394a3f8a38bb9088d4c4d9",
+            "sentence_en": "If the weather is good, I\\'ll go.",
+            "sentence_vi": "Nếu thời tiết tốt, tôi sẽ đi.",
+            "phonetic": "ɪf ðə ˈwɛðər ɪz gʊd, i\\'ll* goʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "96eaae87fece4270962304101ba87b12",
+            "sentence_en": "Tom thinks it will rain tomorrow.",
+            "sentence_vi": "Tom nghĩ ngày mai trời sẽ mưa.",
+            "phonetic": "tɑm θɪŋks ɪt wɪl reɪn təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "dcedc8c623094495be0edf968072b29f",
+            "sentence_en": "Tom thinks that Mary may do that.",
+            "sentence_vi": "Tom nghĩ rằng Mary có thể làm điều đó.",
+            "phonetic": "tɑm θɪŋks ðət ˈmɛri meɪ du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "93adb57df87a4706b6c8333b087beb56",
+            "sentence_en": "Tom thinks the plan may backfire.",
+            "sentence_vi": "Tom cho rằng kế hoạch có thể phản tác dụng.",
+            "phonetic": "tɑm θɪŋks ðə plæn meɪ ˈbækˌfaɪr.",
+            "group": "group_8"
+        },
+        {
+            "id": "aaad29661c8d469488e9bdc46f7a6fb3",
+            "sentence_en": "Tom thinks this place is haunted.",
+            "sentence_vi": "Tom cho rằng nơi này bị ma ám.",
+            "phonetic": "tɑm θɪŋks ðɪs pleɪs ɪz ˈhɔntɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "5596d0a5fd1b45939774205a2c0dd97e",
+            "sentence_en": "Tom thought Mary could beat John.",
+            "sentence_vi": "Tom nghĩ Mary có thể đánh bại John.",
+            "phonetic": "tɑm θɔt ˈmɛri kʊd bit ʤɑn.",
+            "group": "group_8"
+        },
+        {
+            "id": "9d91a6f9a3e24ddd94ba7c5413c741d0",
+            "sentence_en": "Tom thought Mary could get a job.",
+            "sentence_vi": "Tom nghĩ Mary có thể kiếm được việc làm.",
+            "phonetic": "tɑm θɔt ˈmɛri kʊd gɪt ə ʤɑb.",
+            "group": "group_8"
+        },
+        {
+            "id": "bea5c4a84e594500a3b7a3a413115b9b",
+            "sentence_en": "Tom was shocked by what Mary did.",
+            "sentence_vi": "Tom đã bị sốc bởi những gì Mary đã làm.",
+            "phonetic": "tɑm wɑz ʃɑkt baɪ wət ˈmɛri dɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "75bede619fc34afa8333b283ee4cb124",
+            "sentence_en": "Tom was silent for quite a while.",
+            "sentence_vi": "Tom im lặng một lúc lâu.",
+            "phonetic": "tɑm wɑz ˈsaɪlənt fər kwaɪt ə waɪl.",
+            "group": "group_8"
+        },
+        {
+            "id": "3a04c24db9ff444094b8450c45b75a4d",
+            "sentence_en": "Tom was sitting alone at the bar.",
+            "sentence_vi": "Tom đang ngồi một mình ở quán bar.",
+            "phonetic": "tɑm wɑz ˈsɪtɪŋ əˈloʊn æt ðə bɑr.",
+            "group": "group_8"
+        },
+        {
+            "id": "223a2c93d8bb44d7b0f5c9d46ebced5c",
+            "sentence_en": "Tom was sitting alone on a bench.",
+            "sentence_vi": "Tom đang ngồi một mình trên băng ghế.",
+            "phonetic": "tɑm wɑz ˈsɪtɪŋ əˈloʊn ɔn ə bɛnʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "c6ccf433670d414eb86b436862e88be4",
+            "sentence_en": "Tom was sitting in the front row.",
+            "sentence_vi": "Tom đang ngồi ở hàng ghế đầu.",
+            "phonetic": "tɑm wɑz ˈsɪtɪŋ ɪn ðə frənt roʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "a41617a279d845689e0ea42c7f7a9ad2",
+            "sentence_en": "Tom banged his fist on the table.",
+            "sentence_vi": "Tom đập tay xuống bàn.",
+            "phonetic": "tɑm bæŋd hɪz fɪst ɔn ðə ˈteɪbəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "14f502d882094f5891d0f17e2b09cecf",
+            "sentence_en": "Tom believes in the supernatural.",
+            "sentence_vi": "Tom tin vào siêu nhiên.",
+            "phonetic": "tɑm bɪˈlivz ɪn ðə ˌsupərˈnæʧərəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "3d4054efc29744d28b68da296bd6c186",
+            "sentence_en": "Tom borrowed a car from a friend.",
+            "sentence_vi": "Tom đã mượn một chiếc xe hơi từ một người bạn.",
+            "phonetic": "tɑm ˈbɑˌroʊd ə kɑr frəm ə frɛnd.",
+            "group": "group_8"
+        },
+        {
+            "id": "84c47f37004c422e8d2bf366aaa394eb",
+            "sentence_en": "Tom bought a microscope for Mary.",
+            "sentence_vi": "Tom đã mua một chiếc kính hiển vi cho Mary.",
+            "phonetic": "tɑm bɔt ə ˈmaɪkrəˌskoʊp fər ˈmɛri.",
+            "group": "group_8"
+        },
+        {
+            "id": "182f2ae0cb4b4cd099f831ed56674915",
+            "sentence_en": "Tom bought a present for his son.",
+            "sentence_vi": "Tom đã mua một món quà cho con trai mình.",
+            "phonetic": "tɑm bɔt ə ˈprɛzənt fər hɪz sən.",
+            "group": "group_8"
+        },
+        {
+            "id": "8a3c9bb889434631a2812668c7b303cb",
+            "sentence_en": "The door of the office is yellow.",
+            "sentence_vi": "Cửa văn phòng màu vàng.",
+            "phonetic": "ðə dɔr əv ðə ˈɔfəs ɪz ˈjɛloʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "a7c7394e44be4d38a16841ae140512a1",
+            "sentence_en": "The floor was covered with blood.",
+            "sentence_vi": "Sàn nhà bê bết máu.",
+            "phonetic": "ðə flɔr wɑz ˈkəvərd wɪθ bləd.",
+            "group": "group_8"
+        },
+        {
+            "id": "6afaa280037346729601b3000c3e712f",
+            "sentence_en": "The message is written in French.",
+            "sentence_vi": "Tin nhắn được viết bằng tiếng Pháp.",
+            "phonetic": "ðə ˈmɛsɪʤ ɪz ˈrɪtən ɪn frɛnʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "d41d8a05004f4aaba1a8ec0f4f87853b",
+            "sentence_en": "The phone was out of order again.",
+            "sentence_vi": "Điện thoại lại bị lỗi.",
+            "phonetic": "ðə foʊn wɑz aʊt əv ˈɔrdər əˈgɛn.",
+            "group": "group_8"
+        },
+        {
+            "id": "9d3f2645d3674451931ad66384379560",
+            "sentence_en": "The police lowered their weapons.",
+            "sentence_vi": "Cảnh sát hạ vũ khí.",
+            "phonetic": "ðə pəˈlis loʊərd ðɛr ˈwɛpənz.",
+            "group": "group_8"
+        },
+        {
+            "id": "c5db4b019dcf4df3ad54b0a96aaae894",
+            "sentence_en": "I thought that that was the case.",
+            "sentence_vi": "Tôi đã nghĩ rằng đó là trường hợp.",
+            "phonetic": "aɪ θɔt ðət ðət wɑz ðə keɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "a6ddebeb95b34d7f9b2e2bdb7d1473a4",
+            "sentence_en": "I thought you did that last week.",
+            "sentence_vi": "Tôi nghĩ bạn đã làm điều đó vào tuần trước.",
+            "phonetic": "aɪ θɔt ju dɪd ðət læst wik.",
+            "group": "group_8"
+        },
+        {
+            "id": "7356d54991df434eb7456b61c520bdbf",
+            "sentence_en": "I told the policeman what I knew.",
+            "sentence_vi": "Tôi đã nói với cảnh sát những gì tôi biết.",
+            "phonetic": "aɪ toʊld ðə pəˈlismən wət aɪ nu.",
+            "group": "group_8"
+        },
+        {
+            "id": "8dbc57d2250e4156a2844de994d0841c",
+            "sentence_en": "I understood the reason for this.",
+            "sentence_vi": "Tôi đã hiểu lý do cho điều này.",
+            "phonetic": "aɪ ˌəndərˈstʊd ðə ˈrizən fər ðɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "2bae112ddd524a11a0943d92c5d548ad",
+            "sentence_en": "I\\'m sure Tom will feel the same.",
+            "sentence_vi": "Tôi chắc rằng Tom cũng sẽ cảm thấy như vậy.",
+            "phonetic": "i\\'m* ʃʊr tɑm wɪl fil ðə seɪm.",
+            "group": "group_8"
+        },
+        {
+            "id": "7ad352f6434948efb92dcfa71ef7ae7d",
+            "sentence_en": "I\\'m sure Tom will figure it out.",
+            "sentence_vi": "Tôi chắc chắn Tom sẽ hiểu ra.",
+            "phonetic": "i\\'m* ʃʊr tɑm wɪl ˈfɪgjər ɪt aʊt.",
+            "group": "group_8"
+        },
+        {
+            "id": "9a24894b823c4cb698503bbcbab8d0dc",
+            "sentence_en": "I\\'m sure Tom will listen to you.",
+            "sentence_vi": "Tôi chắc chắn Tom sẽ lắng nghe bạn.",
+            "phonetic": "i\\'m* ʃʊr tɑm wɪl ˈlɪsən tɪ ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "d748fb32e1ed4981a0c2c5d25bea75a3",
+            "sentence_en": "I\\'m sure something will turn up.",
+            "sentence_vi": "Tôi chắc chắn một cái gì đó sẽ xuất hiện.",
+            "phonetic": "i\\'m* ʃʊr ˈsəmθɪŋ wɪl tərn əp.",
+            "group": "group_8"
+        },
+        {
+            "id": "0404343a558248b1a583db455c7bca18",
+            "sentence_en": "I\\'m sure that Tom can handle it.",
+            "sentence_vi": "Tôi chắc chắn rằng Tom có thể xử lý nó.",
+            "phonetic": "i\\'m* ʃʊr ðət tɑm kən ˈhændəl ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "5914f0e227fe4cde93ae8c28173cb5ae",
+            "sentence_en": "I\\'m talking to Tom on the phone.",
+            "sentence_vi": "Tôi đang nói chuyện điện thoại với Tom.",
+            "phonetic": "i\\'m* ˈtɔkɪŋ tɪ tɑm ɔn ðə foʊn.",
+            "group": "group_8"
+        },
+        {
+            "id": "0987471cf7374ba58053e4a78cf8f66d",
+            "sentence_en": "Tom didn\\'t even know I was here.",
+            "sentence_vi": "Tom thậm chí không biết tôi đã ở đây.",
+            "phonetic": "tɑm didn\\'t* ˈivɪn noʊ aɪ wɑz hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "a8d421451c4a43ed903b5223d0107cf1",
+            "sentence_en": "Tom didn\\'t have to talk so loud.",
+            "sentence_vi": "Tom không cần phải nói to như vậy.",
+            "phonetic": "tɑm didn\\'t* hæv tɪ tɔk soʊ laʊd.",
+            "group": "group_8"
+        },
+        {
+            "id": "864c531275bd4bc8b57486597cbc8b8d",
+            "sentence_en": "Tom didn\\'t keep his appointment.",
+            "sentence_vi": "Tom đã không giữ cuộc hẹn của mình.",
+            "phonetic": "tɑm didn\\'t* kip hɪz əˈpɔɪntmənt.",
+            "group": "group_8"
+        },
+        {
+            "id": "895d390a9d4246d7b9591b5f11b586ac",
+            "sentence_en": "Tom didn\\'t know what else to do.",
+            "sentence_vi": "Tom không biết phải làm gì khác.",
+            "phonetic": "tɑm didn\\'t* noʊ wət ɛls tɪ du.",
+            "group": "group_8"
+        },
+        {
+            "id": "40f95a933b54411fb170498d49ac4d14",
+            "sentence_en": "Tom didn\\'t know what it was for.",
+            "sentence_vi": "Tom không biết nó dùng để làm gì.",
+            "phonetic": "tɑm didn\\'t* noʊ wət ɪt wɑz fər.",
+            "group": "group_8"
+        },
+        {
+            "id": "1a02b8d8df67415c9fa010b0e7bf366e",
+            "sentence_en": "Tom didn\\'t say anything, did he?",
+            "sentence_vi": "Tom đã không nói bất cứ điều gì, phải không?",
+            "phonetic": "tɑm didn\\'t* seɪ ˈɛniˌθɪŋ, dɪd hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "9d12960043614220ba1bf68bf4f5fed3",
+            "sentence_en": "Tom is in the hospital right now.",
+            "sentence_vi": "Tom đang ở bệnh viện.",
+            "phonetic": "tɑm ɪz ɪn ðə ˈhɑˌspɪtəl raɪt naʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "b556ca33796a4f30af019477bd21fa2d",
+            "sentence_en": "Tom is in the kitchen making tea.",
+            "sentence_vi": "Tom đang trong bếp pha trà.",
+            "phonetic": "tɑm ɪz ɪn ðə ˈkɪʧən ˈmeɪkɪŋ ti.",
+            "group": "group_8"
+        },
+        {
+            "id": "f6946e45c19a4ea7973543747ffa15fb",
+            "sentence_en": "Tom is interested in many things.",
+            "sentence_vi": "Tom quan tâm đến nhiều thứ.",
+            "phonetic": "tɑm ɪz ˈɪntəˌrɛstɪd ɪn ˈmɛni θɪŋz.",
+            "group": "group_8"
+        },
+        {
+            "id": "5cdd93a3b53149b5a151aec5f917a6b6",
+            "sentence_en": "All the children had happy faces.",
+            "sentence_vi": "Tất cả các trẻ em đều có khuôn mặt hạnh phúc.",
+            "phonetic": "ɔl ðə ˈʧɪldrən hæd ˈhæpi ˈfeɪsɪz.",
+            "group": "group_8"
+        },
+        {
+            "id": "2f4a9424c7024334b918d1e00b1b6df4",
+            "sentence_en": "All the crew left except for Tom.",
+            "sentence_vi": "Tất cả phi hành đoàn còn lại ngoại trừ Tom.",
+            "phonetic": "ɔl ðə kru lɛft ɪkˈsɛpt fər tɑm.",
+            "group": "group_8"
+        },
+        {
+            "id": "5908ff3c524d4cb285d22b3d176ec161",
+            "sentence_en": "All the parking spots were taken.",
+            "sentence_vi": "Tất cả các điểm đậu xe đã được thực hiện.",
+            "phonetic": "ɔl ðə ˈpɑrkɪŋ spɑts wər ˈteɪkən.",
+            "group": "group_8"
+        },
+        {
+            "id": "acedc435bb5a46afbfc403176fd3450c",
+            "sentence_en": "All the patients eventually died.",
+            "sentence_vi": "Tất cả các bệnh nhân cuối cùng đã chết.",
+            "phonetic": "ɔl ðə ˈpeɪʃənz ɪˈvɛnʧəwəli daɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "2d6dc15e2f334f79b02f79d19641e9d7",
+            "sentence_en": "All the players were in position.",
+            "sentence_vi": "Tất cả các cầu thủ đã vào vị trí.",
+            "phonetic": "ɔl ðə pleɪərz wər ɪn pəˈzɪʃən.",
+            "group": "group_8"
+        },
+        {
+            "id": "6638032b67c341928774e6ed88991cbf",
+            "sentence_en": "All the students passed the test.",
+            "sentence_vi": "Tất cả các học sinh đều vượt qua bài kiểm tra.",
+            "phonetic": "ɔl ðə ˈstudənts pæst ðə tɛst.",
+            "group": "group_8"
+        },
+        {
+            "id": "9c316c6be85240aba6e672b4175b1566",
+            "sentence_en": "One should always do one\\'s best.",
+            "sentence_vi": "Người ta luôn nên làm một điều tốt nhất.",
+            "phonetic": "wən ʃʊd ˈɔlˌweɪz du one\\'s* bɛst.",
+            "group": "group_8"
+        },
+        {
+            "id": "2089b31679f849049d8f2f712c74c4cb",
+            "sentence_en": "I have butterflies in my stomach.",
+            "sentence_vi": "Tôi có bướm trong bụng của tôi.",
+            "phonetic": "aɪ hæv ˈbətərˌflaɪz ɪn maɪ ˈstəmək.",
+            "group": "group_8"
+        },
+        {
+            "id": "d91cfa57ecd54a419d8fa74adee76c3c",
+            "sentence_en": "I have something to do right now.",
+            "sentence_vi": "Tôi có việc phải làm ngay bây giờ.",
+            "phonetic": "aɪ hæv ˈsəmθɪŋ tɪ du raɪt naʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "83f34749c4d249fd8a9f2e28a9f9bc8c",
+            "sentence_en": "I have thirteen names on my list.",
+            "sentence_vi": "Tôi có mười ba cái tên trong danh sách của mình.",
+            "phonetic": "aɪ hæv ˈθərˈtin neɪmz ɔn maɪ lɪst.",
+            "group": "group_8"
+        },
+        {
+            "id": "7cf4a054deb449eea55a182ec4c53d67",
+            "sentence_en": "I have to go and buy a newspaper.",
+            "sentence_vi": "Tôi phải đi mua một tờ báo.",
+            "phonetic": "aɪ hæv tɪ goʊ ənd baɪ ə ˈnuzˌpeɪpər.",
+            "group": "group_8"
+        },
+        {
+            "id": "aa0cdee2446c4be0b2011df020bf3f4b",
+            "sentence_en": "Don\\'t you remember the question?",
+            "sentence_vi": "Bạn không nhớ câu hỏi?",
+            "phonetic": "don\\'t* ju rɪˈmɛmbər ðə kˈwɛʃən?",
+            "group": "group_8"
+        },
+        {
+            "id": "6d82fd5ff6fb433fb81e3f6ecceb8c74",
+            "sentence_en": "Don\\'t you want something to eat?",
+            "sentence_vi": "Bạn có muốn ăn gì không?",
+            "phonetic": "don\\'t* ju wɔnt ˈsəmθɪŋ tɪ it?",
+            "group": "group_8"
+        },
+        {
+            "id": "d8d56fc6724c4a48a527781011313009",
+            "sentence_en": "Don\\'t you want to give me a hug?",
+            "sentence_vi": "Bạn không muốn ôm tôi sao?",
+            "phonetic": "don\\'t* ju wɔnt tɪ gɪv mi ə həg?",
+            "group": "group_8"
+        },
+        {
+            "id": "4eb8802bc65845aa931fd2ba37a7093d",
+            "sentence_en": "Don\\'t you want to know for sure?",
+            "sentence_vi": "Bạn không muốn biết chắc chắn?",
+            "phonetic": "don\\'t* ju wɔnt tɪ noʊ fər ʃʊr?",
+            "group": "group_8"
+        },
+        {
+            "id": "787367cb325c4c0ba2c62cdb0e3e5af6",
+            "sentence_en": "Your friend\\'s in the other room.",
+            "sentence_vi": "Bạn của bạn đang ở trong phòng khác.",
+            "phonetic": "jʊr friend\\'s* ɪn ðə ˈəðər rum.",
+            "group": "group_8"
+        },
+        {
+            "id": "f31289921e754bc6a5f6549dd7fcad53",
+            "sentence_en": "Don\\'t you work in the cafeteria?",
+            "sentence_vi": "Bạn không làm việc trong quán cà phê?",
+            "phonetic": "don\\'t* ju wərk ɪn ðə ˌkæfəˈtɪriə?",
+            "group": "group_8"
+        },
+        {
+            "id": "aa43b7ecd00d4e288616d1294b98e8f4",
+            "sentence_en": "Even Tom didn\\'t know what to do.",
+            "sentence_vi": "Ngay cả Tom cũng không biết phải làm gì.",
+            "phonetic": "ˈivɪn tɑm didn\\'t* noʊ wət tɪ du.",
+            "group": "group_8"
+        },
+        {
+            "id": "a22c0e94078249a18bb71a2b642ca2f1",
+            "sentence_en": "Everybody\\'s concerned about you.",
+            "sentence_vi": "Mọi người đều quan tâm đến bạn.",
+            "phonetic": "everybody\\'s* kənˈsərnd əˈbaʊt ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "b6a49bf4e36f4ab48215f8967df9ca83",
+            "sentence_en": "Did you know Tom was Mary\\'s son?",
+            "sentence_vi": "Bạn có biết Tom là con trai của Mary không?",
+            "phonetic": "dɪd ju noʊ tɑm wɑz mary\\'s* sən?",
+            "group": "group_8"
+        },
+        {
+            "id": "f8f46814e9c6485f918af9c269a787bd",
+            "sentence_en": "Did you know Tom wouldn\\'t drive?",
+            "sentence_vi": "Bạn có biết Tom sẽ không lái xe không?",
+            "phonetic": "dɪd ju noʊ tɑm wouldn\\'t* draɪv?",
+            "group": "group_8"
+        },
+        {
+            "id": "c9e1e11302624ec0b30d7ea42cba9f5c",
+            "sentence_en": "You\\'re very strong, aren\\'t you?",
+            "sentence_vi": "Bạn rất khỏe, phải không?",
+            "phonetic": "you\\'re* ˈvɛri strɔŋ, aren\\'t* ju?",
+            "group": "group_8"
+        },
+        {
+            "id": "f9e155b2800b494fb9f7ad4e11901ed4",
+            "sentence_en": "You\\'re not telling me the truth.",
+            "sentence_vi": "Bạn không nói cho tôi sự thật.",
+            "phonetic": "you\\'re* nɑt ˈtɛlɪŋ mi ðə truθ.",
+            "group": "group_8"
+        },
+        {
+            "id": "d742656e96af42aeafaf91396891c971",
+            "sentence_en": "You\\'re the only Canadian I know.",
+            "sentence_vi": "Bạn là người Canada duy nhất mà tôi biết.",
+            "phonetic": "you\\'re* ðə ˈoʊnli kəˈneɪdiən aɪ noʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "4c563e4b87614bb498f778c64542a01d",
+            "sentence_en": "You\\'ve missed an important clue.",
+            "sentence_vi": "Bạn đã bỏ lỡ một manh mối quan trọng.",
+            "phonetic": "you\\'ve* mɪst ən ˌɪmˈpɔrtənt klu.",
+            "group": "group_8"
+        },
+        {
+            "id": "bc4e9c54111647af9bbb493974316a68",
+            "sentence_en": "Are fireworks legal in Australia?",
+            "sentence_vi": "Pháo hoa có hợp pháp ở Úc không?",
+            "phonetic": "ər ˈfaɪrˌwərks ˈligəl ɪn ɔˈstreɪljə?",
+            "group": "group_8"
+        },
+        {
+            "id": "cba38e8f9fe74753861e3d7929b69d9e",
+            "sentence_en": "At least I tried to do something.",
+            "sentence_vi": "Ít nhất thì tôi đã cố gắng làm điều gì đó.",
+            "phonetic": "æt list aɪ traɪd tɪ du ˈsəmθɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "d6f74956336747d280c9dc0f3ac332c9",
+            "sentence_en": "You\\'ve got to be making this up.",
+            "sentence_vi": "Bạn phải tạo ra điều này.",
+            "phonetic": "you\\'ve* gɑt tɪ bi ˈmeɪkɪŋ ðɪs əp.",
+            "group": "group_8"
+        },
+        {
+            "id": "e969ab868e36494f81bcabe9a4d16543",
+            "sentence_en": "You\\'ve got to get out of Boston.",
+            "sentence_vi": "Bạn phải ra khỏi Boston.",
+            "phonetic": "you\\'ve* gɑt tɪ gɪt aʊt əv ˈbɔstən.",
+            "group": "group_8"
+        },
+        {
+            "id": "7d4c0344594c48c38f25d12215795759",
+            "sentence_en": "You\\'ve still got thirty minutes.",
+            "sentence_vi": "Bạn vẫn còn ba mươi phút.",
+            "phonetic": "you\\'ve* stɪl gɑt ˈθərˌdi ˈmɪnəts.",
+            "group": "group_8"
+        },
+        {
+            "id": "14259a587ab649498fb3fccbae63f920",
+            "sentence_en": "You\\'ve wasted enough of my time.",
+            "sentence_vi": "Bạn đã lãng phí đủ thời gian của tôi.",
+            "phonetic": "you\\'ve* ˈweɪstɪd ɪˈnəf əv maɪ taɪm.",
+            "group": "group_8"
+        },
+        {
+            "id": "82973881171c4fd9b5a5294b5851ef70",
+            "sentence_en": "Please move your car out of here.",
+            "sentence_vi": "Vui lòng chuyển xe của bạn ra khỏi đây.",
+            "phonetic": "pliz muv jʊr kɑr aʊt əv hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "9be11cc22c034083a0664a20f3cb1900",
+            "sentence_en": "Please pardon me for coming late.",
+            "sentence_vi": "Xin thứ lỗi vì tôi đến muộn.",
+            "phonetic": "pliz ˈpɑrdən mi fər ˈkəmɪŋ leɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "e5f9b23c9a164d4d88461fe717088ba9",
+            "sentence_en": "Please put the book on the shelf.",
+            "sentence_vi": "Hãy đặt cuốn sách lên kệ.",
+            "phonetic": "pliz pʊt ðə bʊk ɔn ðə ʃɛlf.",
+            "group": "group_8"
+        },
+        {
+            "id": "ed29048f66124f1a95434a4dfaa767aa",
+            "sentence_en": "Please refrain from smoking here.",
+            "sentence_vi": "Vui lòng hạn chế hút thuốc ở đây.",
+            "phonetic": "pliz rɪˈfreɪn frəm sˈmoʊkɪŋ hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "6098480c7a7543aea182c9338cc1154a",
+            "sentence_en": "Please repeat what you just said.",
+            "sentence_vi": "Hãy lặp lại những gì bạn vừa nói.",
+            "phonetic": "pliz rɪˈpit wət ju ʤɪst sɛd.",
+            "group": "group_8"
+        },
+        {
+            "id": "b006d322f4b645d2bae058ac3610a059",
+            "sentence_en": "Please say hello to your parents.",
+            "sentence_vi": "Xin gửi lời chào đến cha mẹ của bạn.",
+            "phonetic": "pliz seɪ hɛˈloʊ tɪ jʊr ˈpɛrənts.",
+            "group": "group_8"
+        },
+        {
+            "id": "028731843732460289e2f139c15fc88e",
+            "sentence_en": "We\\'ve made arrangements for you.",
+            "sentence_vi": "Chúng tôi đã sắp xếp cho bạn.",
+            "phonetic": "we\\'ve* meɪd ərˈeɪnʤmənts fər ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "9a35f08fca4d457fafda1923392ef76e",
+            "sentence_en": "They figured it out on their own.",
+            "sentence_vi": "Họ đã tự mình tìm ra nó.",
+            "phonetic": "ðeɪ ˈfɪgjərd ɪt aʊt ɔn ðɛr oʊn.",
+            "group": "group_8"
+        },
+        {
+            "id": "7e8eb04a5580490b8468b00b4ed95c6b",
+            "sentence_en": "I figured that you\\'d understand.",
+            "sentence_vi": "Tôi hiểu rằng bạn sẽ hiểu.",
+            "phonetic": "aɪ ˈfɪgjərd ðət you\\'d* ˌəndərˈstænd.",
+            "group": "group_8"
+        },
+        {
+            "id": "a443e8856d7849c7a58747cafabbfe83",
+            "sentence_en": "Tom and Mary aren\\'t engaged yet.",
+            "sentence_vi": "Tom và Mary vẫn chưa đính hôn.",
+            "phonetic": "tɑm ənd ˈmɛri aren\\'t* ɪnˈgeɪʤd jɛt.",
+            "group": "group_8"
+        },
+        {
+            "id": "9dd66e8f5fb84d9ba1cde7e3e277be2c",
+            "sentence_en": "Tom and Mary both don\\'t like me.",
+            "sentence_vi": "Tom và Mary đều không thích tôi.",
+            "phonetic": "tɑm ənd ˈmɛri boʊθ don\\'t* laɪk mi.",
+            "group": "group_8"
+        },
+        {
+            "id": "6f62fef4f9134486ac126d5701aec090",
+            "sentence_en": "Thanks for taking care of my dog.",
+            "sentence_vi": "Cảm ơn vì đã chăm sóc con chó của tôi.",
+            "phonetic": "θæŋks fər ˈteɪkɪŋ kɛr əv maɪ dɔg.",
+            "group": "group_8"
+        },
+        {
+            "id": "ef652e4665fd4cc486fcb2cf43b8d3b4",
+            "sentence_en": "Thanks for your help on this one.",
+            "sentence_vi": "Cảm ơn sự giúp đỡ của bạn về vấn đề này.",
+            "phonetic": "θæŋks fər jʊr hɛlp ɔn ðɪs wən.",
+            "group": "group_8"
+        },
+        {
+            "id": "15bd9a89ee2341318a1d22a7dce41c08",
+            "sentence_en": "That bridge is anything but safe.",
+            "sentence_vi": "Cây cầu đó là bất cứ điều gì nhưng an toàn.",
+            "phonetic": "ðət brɪʤ ɪz ˈɛniˌθɪŋ bət seɪf.",
+            "group": "group_8"
+        },
+        {
+            "id": "895cc9a98e1c4a93b80467bf7e7c0eee",
+            "sentence_en": "That should be no problem at all.",
+            "sentence_vi": "Điều đó sẽ không có vấn đề gì cả.",
+            "phonetic": "ðət ʃʊd bi noʊ ˈprɑbləm æt ɔl.",
+            "group": "group_8"
+        },
+        {
+            "id": "84f9396432424b65a4206910b03504c6",
+            "sentence_en": "Tom gave Mary an engagement ring.",
+            "sentence_vi": "Tom đã tặng Mary một chiếc nhẫn đính hôn.",
+            "phonetic": "tɑm geɪv ˈmɛri ən ɛnˈgeɪʤmənt rɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "a59f7a9d51b84d80a79b41a093439fe0",
+            "sentence_en": "Tom gave an apple to the teacher.",
+            "sentence_vi": "Tom đã tặng một quả táo cho giáo viên.",
+            "phonetic": "tɑm geɪv ən ˈæpəl tɪ ðə ˈtiʧər.",
+            "group": "group_8"
+        },
+        {
+            "id": "cd374e482986482cb64e1d945582a1cc",
+            "sentence_en": "Tom gave me a book for Christmas.",
+            "sentence_vi": "Tom đã tặng tôi một cuốn sách vào dịp Giáng sinh.",
+            "phonetic": "tɑm geɪv mi ə bʊk fər ˈkrɪsməs.",
+            "group": "group_8"
+        },
+        {
+            "id": "c6965e73a76945c598c9219ac71c580e",
+            "sentence_en": "Tom gave me a box full of apples.",
+            "sentence_vi": "Tom đưa cho tôi một hộp đầy táo.",
+            "phonetic": "tɑm geɪv mi ə bɑks fʊl əv ˈæpəlz.",
+            "group": "group_8"
+        },
+        {
+            "id": "17e9d98cea1c4523896e81ee9ce23b74",
+            "sentence_en": "Tom gave us everything we needed.",
+            "sentence_vi": "Tom đã cho chúng tôi mọi thứ chúng tôi cần.",
+            "phonetic": "tɑm geɪv ˈjuˈɛs ˈɛvriˌθɪŋ wi ˈnidɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "8a839841946d44e88a94e7a5c8468351",
+            "sentence_en": "Tom gets paid to play basketball.",
+            "sentence_vi": "Tom được trả tiền để chơi bóng rổ.",
+            "phonetic": "tɑm gɪts peɪd tɪ pleɪ ˈbæskətˌbɔl.",
+            "group": "group_8"
+        },
+        {
+            "id": "061f767320fc44d4af61a853b2987d2f",
+            "sentence_en": "Tom tried to hide his excitement.",
+            "sentence_vi": "Tom cố gắng che giấu sự phấn khích của mình.",
+            "phonetic": "tɑm traɪd tɪ haɪd hɪz ɪkˈsaɪtmənt.",
+            "group": "group_8"
+        },
+        {
+            "id": "b4b3c12b6b3b4d6da0d79b1c55f6b783",
+            "sentence_en": "Tom was reluctant, but he agreed.",
+            "sentence_vi": "Tom rất miễn cưỡng, nhưng anh ấy đã đồng ý.",
+            "phonetic": "tɑm wɑz rɪˈləktənt, bət hi əˈgrid.",
+            "group": "group_8"
+        },
+        {
+            "id": "fbc5b4fea09b4d29af925d595f13608c",
+            "sentence_en": "Tom was the only one who laughed.",
+            "sentence_vi": "Tom là người duy nhất cười.",
+            "phonetic": "tɑm wɑz ðə ˈoʊnli wən hu læft.",
+            "group": "group_8"
+        },
+        {
+            "id": "1885d502327244f09e83f2aa4b221aeb",
+            "sentence_en": "Tom would probably do that again.",
+            "sentence_vi": "Tom có thể sẽ làm điều đó một lần nữa.",
+            "phonetic": "tɑm wʊd ˈprɑbəˌbli du ðət əˈgɛn.",
+            "group": "group_8"
+        },
+        {
+            "id": "1b4c38e41dc847a8a5d620d3ffe0d601",
+            "sentence_en": "Tom ignored everyone\\'s warnings.",
+            "sentence_vi": "Tom phớt lờ những lời cảnh báo của mọi người.",
+            "phonetic": "tɑm ˌɪgˈnɔrd everyone\\'s* ˈwɔrnɪŋz.",
+            "group": "group_8"
+        },
+        {
+            "id": "c0257b8c242a456ab4e772e042329b9f",
+            "sentence_en": "Tom is doing that now, isn\\'t he?",
+            "sentence_vi": "Tom đang làm điều đó bây giờ, phải không?",
+            "phonetic": "tɑm ɪz duɪŋ ðət naʊ, isn\\'t* hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "076de6c166fb435892ecdd27c7d0837a",
+            "sentence_en": "Tom is done for today, isn\\'t he?",
+            "sentence_vi": "Hôm nay Tom đã làm xong, phải không?",
+            "phonetic": "tɑm ɪz dən fər təˈdeɪ, isn\\'t* hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "3d6d14738ac54d4884ee7a15ebf31e76",
+            "sentence_en": "Tom is expecting Mary, isn\\'t he?",
+            "sentence_vi": "Tom đang mong đợi Mary, phải không?",
+            "phonetic": "tɑm ɪz ɪkˈspɛktɪŋ ˈmɛri, isn\\'t* hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "a2c04e758cf84f95b50ce5c91718c667",
+            "sentence_en": "Tom is extremely busy, isn\\'t he?",
+            "sentence_vi": "Tom rất bận, phải không?",
+            "phonetic": "tɑm ɪz ɪkˈstrimli ˈbɪzi, isn\\'t* hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "a5758685700941be8a664df3667c2a25",
+            "sentence_en": "Tom is fairly popular, isn\\'t he?",
+            "sentence_vi": "Tom khá nổi tiếng, phải không?",
+            "phonetic": "tɑm ɪz ˈfɛrli ˈpɑpjələr, isn\\'t* hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "225e247458554a0d97eb74c5041afde2",
+            "sentence_en": "I didn\\'t think Tom liked to ski.",
+            "sentence_vi": "Tôi không nghĩ Tom thích trượt tuyết.",
+            "phonetic": "aɪ didn\\'t* θɪŋk tɑm laɪkt tɪ ski.",
+            "group": "group_8"
+        },
+        {
+            "id": "08146d0561e049df8dcb21697d423941",
+            "sentence_en": "I didn\\'t think Tom was sleeping.",
+            "sentence_vi": "Tôi không nghĩ rằng Tom đang ngủ.",
+            "phonetic": "aɪ didn\\'t* θɪŋk tɑm wɑz sˈlipɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "6f89c49acbf5437cb012655584cc30a3",
+            "sentence_en": "I didn\\'t think Tom was that fat.",
+            "sentence_vi": "Tôi không nghĩ Tom lại béo như vậy.",
+            "phonetic": "aɪ didn\\'t* θɪŋk tɑm wɑz ðət fæt.",
+            "group": "group_8"
+        },
+        {
+            "id": "5ecafb1886814b6d86deefd2469e6e7e",
+            "sentence_en": "I didn\\'t think Tom would see us.",
+            "sentence_vi": "Tôi không nghĩ Tom sẽ gặp chúng tôi.",
+            "phonetic": "aɪ didn\\'t* θɪŋk tɑm wʊd si ˈjuˈɛs.",
+            "group": "group_8"
+        },
+        {
+            "id": "e136c4b45c0945119d38d8aa641cf7ff",
+            "sentence_en": "I didn\\'t think it was a problem.",
+            "sentence_vi": "Tôi không nghĩ rằng đó là một vấn đề.",
+            "phonetic": "aɪ didn\\'t* θɪŋk ɪt wɑz ə ˈprɑbləm.",
+            "group": "group_8"
+        },
+        {
+            "id": "f37ad494a44746afbb5e5691f5faaf7e",
+            "sentence_en": "I didn\\'t think it was important.",
+            "sentence_vi": "Tôi không nghĩ nó quan trọng.",
+            "phonetic": "aɪ didn\\'t* θɪŋk ɪt wɑz ˌɪmˈpɔrtənt.",
+            "group": "group_8"
+        },
+        {
+            "id": "75396bde971b49abb8fb4e25988817f6",
+            "sentence_en": "Tom isn\\'t still sleeping, is he?",
+            "sentence_vi": "Tom vẫn chưa ngủ phải không?",
+            "phonetic": "tɑm isn\\'t* stɪl sˈlipɪŋ, ɪz hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "ea1b413bff7e4a3cbc39a6d92c193fa2",
+            "sentence_en": "Tom isn\\'t stubborn like you are.",
+            "sentence_vi": "Tom không cứng đầu như bạn.",
+            "phonetic": "tɑm isn\\'t* ˈstəbərn laɪk ju ər.",
+            "group": "group_8"
+        },
+        {
+            "id": "f976805e1e4542608d00708ca4c2d6c7",
+            "sentence_en": "Tom isn\\'t supposed to come here.",
+            "sentence_vi": "Tom không nên đến đây.",
+            "phonetic": "tɑm isn\\'t* səˈpoʊzd tɪ kəm hir.",
+            "group": "group_8"
+        },
+        {
+            "id": "1c4401b1b97b46d9b20507869207b8fa",
+            "sentence_en": "Tom isn\\'t supposed to have that.",
+            "sentence_vi": "Tom không cần phải có điều đó.",
+            "phonetic": "tɑm isn\\'t* səˈpoʊzd tɪ hæv ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "9bc743d633b54fc1bfad4a7ac5f0ac7c",
+            "sentence_en": "Tom isn\\'t supposed to leave yet.",
+            "sentence_vi": "Tom vẫn chưa phải đi.",
+            "phonetic": "tɑm isn\\'t* səˈpoʊzd tɪ liv jɛt.",
+            "group": "group_8"
+        },
+        {
+            "id": "92dcdb8d00944217a20478504f081e2a",
+            "sentence_en": "Tom isn\\'t sure Mary can do that.",
+            "sentence_vi": "Tom không chắc Mary có thể làm được điều đó.",
+            "phonetic": "tɑm isn\\'t* ʃʊr ˈmɛri kən du ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "8144447f0e124754827758394aef3f60",
+            "sentence_en": "Tom said that he wasn\\'t so sure.",
+            "sentence_vi": "Tom nói rằng anh ấy không chắc lắm.",
+            "phonetic": "tɑm sɛd ðət hi wasn\\'t* soʊ ʃʊr.",
+            "group": "group_8"
+        },
+        {
+            "id": "37007a22dac34deb85373efc62f82caa",
+            "sentence_en": "Tom said that he wouldn\\'t do it.",
+            "sentence_vi": "Tom nói rằng anh ấy sẽ không làm điều đó.",
+            "phonetic": "tɑm sɛd ðət hi wouldn\\'t* du ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "c59cf8e37a6a4e958f80b2ff047d8cc6",
+            "sentence_en": "Tom said that he\\'d do that soon.",
+            "sentence_vi": "Tom nói rằng anh ấy sẽ sớm làm điều đó.",
+            "phonetic": "tɑm sɛd ðət he\\'d* du ðət sun.",
+            "group": "group_8"
+        },
+        {
+            "id": "dc468df7a57349c682b04a06949cd853",
+            "sentence_en": "Tom won\\'t tell us what he knows.",
+            "sentence_vi": "Tom sẽ không cho chúng tôi biết những gì anh ấy biết.",
+            "phonetic": "tɑm won\\'t* tɛl ˈjuˈɛs wət hi noʊz.",
+            "group": "group_8"
+        },
+        {
+            "id": "b36f258945f546df8d962e573f41ae9e",
+            "sentence_en": "Tom wouldn\\'t eat that, would he?",
+            "sentence_vi": "Tom sẽ không ăn cái đó, phải không?",
+            "phonetic": "tɑm wouldn\\'t* it ðət, wʊd hi?",
+            "group": "group_8"
+        },
+        {
+            "id": "4a8dd0d53a994e37bc0e6c9e9f742b64",
+            "sentence_en": "Tom\\'s behavior was unacceptable.",
+            "sentence_vi": "Hành vi của Tom là không thể chấp nhận được.",
+            "phonetic": "tom\\'s* bɪˈheɪvjər wɑz ˌənækˈsɛptəbəl.",
+            "group": "group_8"
+        },
+        {
+            "id": "3c0b06e890144cf0a58beb0f1cc0034b",
+            "sentence_en": "He never speaks unless spoken to.",
+            "sentence_vi": "Anh ấy không bao giờ nói trừ khi được nói chuyện với.",
+            "phonetic": "hi ˈnɛvər spiks ənˈlɛs ˈspoʊkən tɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "1b070f549d2d4161b3c6e0a46a481d59",
+            "sentence_en": "He often goes abroad on business.",
+            "sentence_vi": "Anh ấy thường xuyên đi công tác nước ngoài.",
+            "phonetic": "hi ˈɔfən goʊz əˈbrɔd ɔn ˈbɪznɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "d1ef515ecc9e42b999591cc6c784ee50",
+            "sentence_en": "He often laughs at his own jokes.",
+            "sentence_vi": "Anh ấy thường cười trước những câu chuyện cười của chính mình.",
+            "phonetic": "hi ˈɔfən læfs æt hɪz oʊn ʤoʊks.",
+            "group": "group_8"
+        },
+        {
+            "id": "5f50baeb9113455cbbf74f0b762b3271",
+            "sentence_en": "He often quotes from Shakespeare.",
+            "sentence_vi": "Anh ấy thường trích dẫn từ Shakespeare.",
+            "phonetic": "hi ˈɔfən kwoʊts frəm ˈʃeɪkˌspir.",
+            "group": "group_8"
+        },
+        {
+            "id": "2c71ac9ec7274621bf0d605eaf339eb1",
+            "sentence_en": "He often swears when he is angry.",
+            "sentence_vi": "Anh ấy thường chửi thề khi tức giận.",
+            "phonetic": "hi ˈɔfən swɛrz wɪn hi ɪz ˈæŋgri.",
+            "group": "group_8"
+        },
+        {
+            "id": "2b8347b905634351a1a85688bd312fc2",
+            "sentence_en": "Tom is lucky he didn\\'t get shot.",
+            "sentence_vi": "Tom may mắn là anh ấy không bị bắn.",
+            "phonetic": "tɑm ɪz ˈləki hi didn\\'t* gɪt ʃɑt.",
+            "group": "group_8"
+        },
+        {
+            "id": "b2c0f31180c04083b714f6bc0704c85a",
+            "sentence_en": "Tom won\\'t take no for an answer.",
+            "sentence_vi": "Tom sẽ không chấp nhận câu trả lời.",
+            "phonetic": "tɑm won\\'t* teɪk noʊ fər ən ˈænsər.",
+            "group": "group_8"
+        },
+        {
+            "id": "9570f41f40f741fc8c879b2d26a6eee9",
+            "sentence_en": "Tom won\\'t tell me what happened.",
+            "sentence_vi": "Tom sẽ không nói cho tôi biết chuyện gì đã xảy ra.",
+            "phonetic": "tɑm won\\'t* tɛl mi wət ˈhæpənd.",
+            "group": "group_8"
+        },
+        {
+            "id": "d1ee5e3a5ee346f4b7e653daa8f89287",
+            "sentence_en": "Does Tom know what you\\'re doing?",
+            "sentence_vi": "Tom có biết bạn đang làm gì không?",
+            "phonetic": "dɪz tɑm noʊ wət you\\'re* duɪŋ?",
+            "group": "group_8"
+        },
+        {
+            "id": "774546ecc91e46968bde431d2d1bb3c0",
+            "sentence_en": "You must make your own decisions.",
+            "sentence_vi": "Bạn phải đưa ra quyết định của riêng bạn.",
+            "phonetic": "ju məst meɪk jʊr oʊn dɪˈsɪʒənz.",
+            "group": "group_8"
+        },
+        {
+            "id": "e93834fb0bb5488092fae69d06cce00b",
+            "sentence_en": "You should prepare for the worst.",
+            "sentence_vi": "Bạn nên chuẩn bị cho điều tồi tệ nhất.",
+            "phonetic": "ju ʃʊd priˈpɛr fər ðə wərst.",
+            "group": "group_8"
+        },
+        {
+            "id": "2245ad1f38fa405ba53f8ae8303f2255",
+            "sentence_en": "I hope Tom didn\\'t do that again.",
+            "sentence_vi": "Tôi hy vọng Tom đã không làm điều đó một lần nữa.",
+            "phonetic": "aɪ hoʊp tɑm didn\\'t* du ðət əˈgɛn.",
+            "group": "group_8"
+        },
+        {
+            "id": "3291173b7d0a4b50bc14d70d52afdd07",
+            "sentence_en": "I hope Tom didn\\'t get too upset.",
+            "sentence_vi": "Tôi hy vọng Tom không quá khó chịu.",
+            "phonetic": "aɪ hoʊp tɑm didn\\'t* gɪt tu ˈəpˌsɛt.",
+            "group": "group_8"
+        },
+        {
+            "id": "defd3fb9a8d940769127a71394de8716",
+            "sentence_en": "I hope Tom didn\\'t wait too long.",
+            "sentence_vi": "Tôi hy vọng Tom không đợi quá lâu.",
+            "phonetic": "aɪ hoʊp tɑm didn\\'t* weɪt tu lɔŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "0b2ae769aab545d09bd9d84335981490",
+            "sentence_en": "I hope Tom doesn\\'t get arrested.",
+            "sentence_vi": "Tôi hy vọng Tom không bị bắt.",
+            "phonetic": "aɪ hoʊp tɑm doesn\\'t* gɪt ərˈɛstɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "205f0c3a040b458083ca6862e0cad4c4",
+            "sentence_en": "Tom told Mary what he can\\'t eat.",
+            "sentence_vi": "Tom nói với Mary những gì anh ấy không thể ăn.",
+            "phonetic": "tɑm toʊld ˈmɛri wət hi can\\'t* it.",
+            "group": "group_8"
+        },
+        {
+            "id": "dc76fd8d8789489f8317ca231e2e0222",
+            "sentence_en": "I\\'m pretty sure we can help you.",
+            "sentence_vi": "Tôi khá chắc chắn rằng chúng tôi có thể giúp bạn.",
+            "phonetic": "i\\'m* ˈprɪti ʃʊr wi kən hɛlp ju.",
+            "group": "group_8"
+        },
+        {
+            "id": "3b779fd796334e33a61fcbeaf0c8af94",
+            "sentence_en": "I\\'m probably going to try again.",
+            "sentence_vi": "Tôi có thể sẽ thử lại.",
+            "phonetic": "i\\'m* ˈprɑbəˌbli goʊɪŋ tɪ traɪ əˈgɛn.",
+            "group": "group_8"
+        },
+        {
+            "id": "54dde9dbd2d648a1becade7953712dfb",
+            "sentence_en": "I\\'m quite happy to be in Boston.",
+            "sentence_vi": "Tôi rất vui khi ở Boston.",
+            "phonetic": "i\\'m* kwaɪt ˈhæpi tɪ bi ɪn ˈbɔstən.",
+            "group": "group_8"
+        },
+        {
+            "id": "11602bf372184acdac66fbd8a7f276bc",
+            "sentence_en": "I\\'m rather surprised to hear it.",
+            "sentence_vi": "Tôi khá ngạc nhiên khi nghe nó.",
+            "phonetic": "i\\'m* ˈrəðər səˈpraɪzd tɪ hir ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "229f94fdf1cd40af8b905dc9dbbd0b62",
+            "sentence_en": "I can\\'t let Tom help us anymore.",
+            "sentence_vi": "Tôi không thể để Tom giúp chúng tôi nữa.",
+            "phonetic": "aɪ can\\'t* lɛt tɑm hɛlp ˈjuˈɛs ˌɛniˈmɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "b328f99d38db46d3bb8033589002dfac",
+            "sentence_en": "I can\\'t let Tom keep doing that.",
+            "sentence_vi": "Tôi không thể để Tom tiếp tục làm điều đó.",
+            "phonetic": "aɪ can\\'t* lɛt tɑm kip duɪŋ ðət.",
+            "group": "group_8"
+        },
+        {
+            "id": "7e2781e0dbac40a9a9256b2b2a058737",
+            "sentence_en": "I can\\'t permit this to continue.",
+            "sentence_vi": "Tôi không thể cho phép việc này tiếp tục.",
+            "phonetic": "aɪ can\\'t* ˈpərˌmɪt ðɪs tɪ kənˈtɪnju.",
+            "group": "group_8"
+        },
+        {
+            "id": "2f7db7b6659040af85fc1c3a62de94b8",
+            "sentence_en": "I can\\'t stand this cold anymore.",
+            "sentence_vi": "Tôi không thể chịu được cái lạnh này nữa.",
+            "phonetic": "aɪ can\\'t* stænd ðɪs koʊld ˌɛniˈmɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "0f53f46afc33410687505a4b41e8b052",
+            "sentence_en": "I can\\'t stay long. I have plans.",
+            "sentence_vi": "Tôi không thể ở lại lâu. Tôi có kế hoạch.",
+            "phonetic": "aɪ can\\'t* steɪ lɔŋ. aɪ hæv plænz.",
+            "group": "group_8"
+        },
+        {
+            "id": "80192c55577141d3979d5ded1076c98d",
+            "sentence_en": "Did you understand what Tom said?",
+            "sentence_vi": "Bạn có hiểu Tom nói gì không?",
+            "phonetic": "dɪd ju ˌəndərˈstænd wət tɑm sɛd?",
+            "group": "group_8"
+        },
+        {
+            "id": "d54da695d2e64769948f89a50529c04c",
+            "sentence_en": "Divide the pie into three pieces.",
+            "sentence_vi": "Chia chiếc bánh thành ba miếng.",
+            "phonetic": "dɪˈvaɪd ðə paɪ ˈɪntu θri ˈpisɪz.",
+            "group": "group_8"
+        },
+        {
+            "id": "0a93913d5f2f4c1ebd785ef5bd707f6e",
+            "sentence_en": "Do Tom and John both have beards?",
+            "sentence_vi": "Tom và John đều có râu?",
+            "phonetic": "du tɑm ənd ʤɑn boʊθ hæv bɪrdz?",
+            "group": "group_8"
+        },
+        {
+            "id": "456a3a3aede743329e3cda70467cbfc4",
+            "sentence_en": "Look, I\\'m really not interested.",
+            "sentence_vi": "Nghe này, tôi thực sự không quan tâm.",
+            "phonetic": "lʊk, i\\'m* ˈrɪli nɑt ˈɪntəˌrɛstɪd.",
+            "group": "group_8"
+        },
+        {
+            "id": "d2eecd8bad184439ad8993e4c52f70d4",
+            "sentence_en": "Tom speaks two foreign languages.",
+            "sentence_vi": "Tom nói hai ngoại ngữ.",
+            "phonetic": "tɑm spiks tu ˈfɔrən ˈlæŋgwɪʤɪz.",
+            "group": "group_8"
+        },
+        {
+            "id": "8148da34ccc1466a80568e8616d26c3f",
+            "sentence_en": "Tom stamped his foot three times.",
+            "sentence_vi": "Tom giậm chân ba lần.",
+            "phonetic": "tɑm stæmpt hɪz fʊt θri taɪmz.",
+            "group": "group_8"
+        },
+        {
+            "id": "9b5754a2a4494d0c9cfcdbe608b90595",
+            "sentence_en": "Tom started packing his suitcase.",
+            "sentence_vi": "Tom bắt đầu thu dọn vali của mình.",
+            "phonetic": "tɑm ˈstɑrtɪd ˈpækɪŋ hɪz ˈsutˌkeɪs.",
+            "group": "group_8"
+        },
+        {
+            "id": "cd6eaefeceda4cbb9939889d50b0ab47",
+            "sentence_en": "Tom still owes me a lot of money.",
+            "sentence_vi": "Tom vẫn nợ tôi rất nhiều tiền.",
+            "phonetic": "tɑm stɪl oʊz mi ə lɔt əv ˈməni.",
+            "group": "group_8"
+        },
+        {
+            "id": "2d749fbdb72b4807aa9aecdf643397c9",
+            "sentence_en": "Tom is too proud to ask for help.",
+            "sentence_vi": "Tom quá tự hào để yêu cầu sự giúp đỡ.",
+            "phonetic": "tɑm ɪz tu praʊd tɪ æsk fər hɛlp.",
+            "group": "group_8"
+        },
+        {
+            "id": "8aa3879343774f0694b3989790d3fb66",
+            "sentence_en": "I don\\'t know how you guys do it.",
+            "sentence_vi": "Tôi không biết các bạn làm như thế nào.",
+            "phonetic": "aɪ don\\'t* noʊ haʊ ju gaɪz du ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "1ce90e23c9df44b29ed5edca5f1a5b3e",
+            "sentence_en": "I don\\'t know if I have the time.",
+            "sentence_vi": "Tôi không biết nếu tôi có thời gian.",
+            "phonetic": "aɪ don\\'t* noʊ ɪf aɪ hæv ðə taɪm.",
+            "group": "group_8"
+        },
+        {
+            "id": "5b3f8f4ebf0a4221bec42111b531ad9a",
+            "sentence_en": "I don\\'t know if I still have it.",
+            "sentence_vi": "Tôi không biết nếu tôi vẫn còn nó.",
+            "phonetic": "aɪ don\\'t* noʊ ɪf aɪ stɪl hæv ɪt.",
+            "group": "group_8"
+        },
+        {
+            "id": "38f5e16b50ae41558f375ccf471a1523",
+            "sentence_en": "I don\\'t know what Tom was doing.",
+            "sentence_vi": "Tôi không biết Tom đang làm gì.",
+            "phonetic": "aɪ don\\'t* noʊ wət tɑm wɑz duɪŋ.",
+            "group": "group_8"
+        },
+        {
+            "id": "1f7787cc997548da9f3dd0972c7d3118",
+            "sentence_en": "I don\\'t know what else I can do.",
+            "sentence_vi": "Tôi không biết mình có thể làm gì khác.",
+            "phonetic": "aɪ don\\'t* noʊ wət ɛls aɪ kən du.",
+            "group": "group_8"
+        },
+        {
+            "id": "dcc514ecc2934935a040b97c90e75694",
+            "sentence_en": "I don\\'t know what this is about.",
+            "sentence_vi": "Tôi không biết điều này là về cái gì.",
+            "phonetic": "aɪ don\\'t* noʊ wət ðɪs ɪz əˈbaʊt.",
+            "group": "group_8"
+        },
+        {
+            "id": "67547328cdec4a3991972de4439b115d",
+            "sentence_en": "You can call me anytime you like.",
+            "sentence_vi": "Bạn có thể gọi cho tôi bất cứ lúc nào bạn muốn.",
+            "phonetic": "ju kən kɔl mi ˈɛniˌtaɪm ju laɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "de4ba4980c124e32955fa0c006d89566",
+            "sentence_en": "You can call me anytime you want.",
+            "sentence_vi": "Bạn có thể gọi cho tôi bất cứ lúc nào bạn muốn.",
+            "phonetic": "ju kən kɔl mi ˈɛniˌtaɪm ju wɔnt.",
+            "group": "group_8"
+        },
+        {
+            "id": "ba668f718bcd4a02a5499da39763f41f",
+            "sentence_en": "You can go to the station by bus.",
+            "sentence_vi": "Bạn có thể đến ga bằng xe buýt.",
+            "phonetic": "ju kən goʊ tɪ ðə ˈsteɪʃən baɪ bəs.",
+            "group": "group_8"
+        },
+        {
+            "id": "1dbe4020e2e447be9fe3c1e68c61cde6",
+            "sentence_en": "You can have half of my sandwich.",
+            "sentence_vi": "Bạn có thể có một nửa chiếc bánh sandwich của tôi.",
+            "phonetic": "ju kən hæv hæf əv maɪ ˈsænwɪʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "db0c767ef05747be846203085bff6a87",
+            "sentence_en": "You can say that to Tom yourself.",
+            "sentence_vi": "Bạn có thể nói điều đó với chính Tom.",
+            "phonetic": "ju kən seɪ ðət tɪ tɑm ˈjɔrsɛlf.",
+            "group": "group_8"
+        },
+        {
+            "id": "fdfbd5c02e494598b9253d58d3f9c142",
+            "sentence_en": "It seems obvious that he is sick.",
+            "sentence_vi": "Rõ ràng là anh ta bị ốm.",
+            "phonetic": "ɪt simz ˈɑbviəs ðət hi ɪz sɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "bce76f5b26714792bbef0e5b9b1a3454",
+            "sentence_en": "It seems we are in the same boat.",
+            "sentence_vi": "Có vẻ như chúng ta đang ở trên cùng một con thuyền.",
+            "phonetic": "ɪt simz wi ər ɪn ðə seɪm boʊt.",
+            "group": "group_8"
+        },
+        {
+            "id": "5a04e300dfc5472bacd3aed46e61d755",
+            "sentence_en": "It would be nice to have a party.",
+            "sentence_vi": "Sẽ rất vui nếu có một bữa tiệc.",
+            "phonetic": "ɪt wʊd bi nis tɪ hæv ə ˈpɑrti.",
+            "group": "group_8"
+        },
+        {
+            "id": "e2d0de3be01e468898cc0f9488b45605",
+            "sentence_en": "Tom\\'s parents were also singers.",
+            "sentence_vi": "Cha mẹ của Tom cũng là ca sĩ.",
+            "phonetic": "tom\\'s* ˈpɛrənts wər ˈɔlsoʊ ˈsɪŋərz.",
+            "group": "group_8"
+        },
+        {
+            "id": "d5894707c6494f34a9f422495bb5d4a0",
+            "sentence_en": "We can\\'t give you your job back.",
+            "sentence_vi": "Chúng tôi không thể trả lại công việc cho bạn.",
+            "phonetic": "wi can\\'t* gɪv ju jʊr ʤɑb bæk.",
+            "group": "group_8"
+        },
+        {
+            "id": "1414751e70a84c96901ee36873bb12b2",
+            "sentence_en": "We can\\'t go to Boston this week.",
+            "sentence_vi": "Chúng tôi không thể đến Boston trong tuần này.",
+            "phonetic": "wi can\\'t* goʊ tɪ ˈbɔstən ðɪs wik.",
+            "group": "group_8"
+        },
+        {
+            "id": "b23b5a719f9c4b1490dc02a06afe621d",
+            "sentence_en": "I have to go to the doctor today.",
+            "sentence_vi": "Tôi phải đi khám hôm nay.",
+            "phonetic": "aɪ hæv tɪ goʊ tɪ ðə ˈdɔktər təˈdeɪ.",
+            "group": "group_8"
+        },
+        {
+            "id": "3f64a37982ad484eb6204b473034a339",
+            "sentence_en": "I have to pick up my son at 2:30.",
+            "sentence_vi": "Tôi phải đón con trai lúc 2h30.",
+            "phonetic": "aɪ hæv tɪ pɪk əp maɪ sən æt 2:30*",
+            "group": "group_8"
+        },
+        {
+            "id": "68496701980c4cd2bddee62f96a70cfe",
+            "sentence_en": "I have to wake up early tomorrow.",
+            "sentence_vi": "Tôi phải dậy sớm vào ngày mai.",
+            "phonetic": "aɪ hæv tɪ weɪk əp ˈərli təˈmɑˌroʊ.",
+            "group": "group_8"
+        },
+        {
+            "id": "f2a7f69e7a0046649fbce6899ddb5724",
+            "sentence_en": "I have very few books in English.",
+            "sentence_vi": "Tôi có rất ít sách bằng tiếng Anh.",
+            "phonetic": "aɪ hæv ˈvɛri fju bʊks ɪn ˈɪŋlɪʃ.",
+            "group": "group_8"
+        },
+        {
+            "id": "95ea3490689e403781056b6e8d97ea3e",
+            "sentence_en": "Tom told me that Mary was lonely.",
+            "sentence_vi": "Tom nói với tôi rằng Mary cô đơn.",
+            "phonetic": "tɑm toʊld mi ðət ˈmɛri wɑz ˈloʊnli.",
+            "group": "group_8"
+        },
+        {
+            "id": "437cf94d464a4ba98bfa001c1f3b5a9e",
+            "sentence_en": "Tom told me that Mary was sleepy.",
+            "sentence_vi": "Tom nói với tôi rằng Mary buồn ngủ.",
+            "phonetic": "tɑm toʊld mi ðət ˈmɛri wɑz sˈlipi.",
+            "group": "group_8"
+        },
+        {
+            "id": "37962455a30946aaac6742b80903ffe2",
+            "sentence_en": "Tom told me that he spoke French.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy nói tiếng Pháp.",
+            "phonetic": "tɑm toʊld mi ðət hi spoʊk frɛnʧ.",
+            "group": "group_8"
+        },
+        {
+            "id": "5f1a4c0bb41649e1b0c63dfdf33fab7f",
+            "sentence_en": "Tom told me that he wanted a dog.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy muốn có một con chó.",
+            "phonetic": "tɑm toʊld mi ðət hi ˈwɔntɪd ə dɔg.",
+            "group": "group_8"
+        },
+        {
+            "id": "f303ef79ef654f4c9d86111bbc3aad77",
+            "sentence_en": "Tom told me that he was agnostic.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy theo thuyết bất khả tri.",
+            "phonetic": "tɑm toʊld mi ðət hi wɑz ægˈnɑstɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "6db0d1357fb6419b936a8374caf3f944",
+            "sentence_en": "Tom told me that he was diabetic.",
+            "sentence_vi": "Tom nói với tôi rằng anh ấy bị tiểu đường.",
+            "phonetic": "tɑm toʊld mi ðət hi wɑz ˌdaɪəˈbɛtɪk.",
+            "group": "group_8"
+        },
+        {
+            "id": "ee33f464a66f4915b8cc61959f5f1ff2",
+            "sentence_en": "I don\\'t want to be here anymore.",
+            "sentence_vi": "Tôi không muốn ở đây nữa.",
+            "phonetic": "aɪ don\\'t* wɔnt tɪ bi hir ˌɛniˈmɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "202e7c0045624d5ca996faecf65f45f1",
+            "sentence_en": "I don\\'t want to become a doctor.",
+            "sentence_vi": "Tôi không muốn trở thành bác sĩ.",
+            "phonetic": "aɪ don\\'t* wɔnt tɪ bɪˈkəm ə ˈdɔktər.",
+            "group": "group_8"
+        },
+        {
+            "id": "884fec95434745f181e2e4fdbbc70b29",
+            "sentence_en": "I don\\'t want to do this anymore.",
+            "sentence_vi": "Tôi không muốn làm điều này nữa.",
+            "phonetic": "aɪ don\\'t* wɔnt tɪ du ðɪs ˌɛniˈmɔr.",
+            "group": "group_8"
+        },
+        {
+            "id": "2352c9acc53d42878b25b5cc998c6e1f",
+            "sentence_en": "I don\\'t want to eat that banana.",
+            "sentence_vi": "Tôi không muốn ăn chuối đó.",
+            "phonetic": "aɪ don\\'t* wɔnt tɪ it ðət bəˈnænə.",
+            "group": "group_8"
+        },
+        {
+            "id": "25375a8dadd54f99bf6a241934a05d00",
+            "sentence_en": "I don\\'t want to eat there again.",
+            "sentence_vi": "Tôi không muốn ăn ở đó một lần nữa.",
+            "phonetic": "aɪ don\\'t* wɔnt tɪ it ðɛr əˈgɛn.",
+            "group": "group_8"
+        }
+    ],
+    "nbPages": 1431,
+    "nbResults": 715026
+}

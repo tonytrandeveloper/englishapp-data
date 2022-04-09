@@ -1,0 +1,40 @@
+{
+    "id": "2ece9328a96048d4960e638c09ab9822",
+    "word": "fermata",
+    "phonetic": {
+        "uk": "/fɜːˈmɑːtə/",
+        "us": "/fɜːrˈmɑːtə/"
+    },
+    "blocks": [
+        {
+            "pos": "noun",
+            "means": [
+                {
+                    "define": {
+                        "en": "a sign (𝄐) over a note or a rest to show that it should be longer than usual",
+                        "vi": "một dấu (𝄐) trên một ghi chú hoặc một phần còn lại để cho thấy rằng nó sẽ dài hơn bình thường"
+                    },
+                    "examples": []
+                }
+            ]
+        }
+    ],
+    "nearby": [
+        {
+            "word": "feringhee",
+            "pos": "noun"
+        },
+        {
+            "word": "Fermanagh",
+            "pos": ""
+        },
+        {
+            "word": "fermata",
+            "pos": "noun"
+        },
+        {
+            "word": "ferment",
+            "pos": "verb"
+        }
+    ]
+}
