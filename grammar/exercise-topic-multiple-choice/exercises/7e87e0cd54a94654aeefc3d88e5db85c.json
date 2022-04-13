@@ -1,0 +1,115 @@
+{
+    "id": "7e87e0cd54a94654aeefc3d88e5db85c",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I don’t care ……………….. your opinion.",
+            "description": "",
+            "answers": [
+                "about",
+                "for",
+                "with",
+                "of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I’m sorry, I broke the vase – I ………………… help it.",
+            "description": "",
+            "answers": [
+                "could",
+                "couldn't",
+                "couldn't have",
+                "can't"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Who takes ……………….. the sick?",
+            "description": "",
+            "answers": [
+                "care of",
+                "care after",
+                "care about"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She is a selfish woman, but you still …………………..  her.",
+            "description": "",
+            "answers": [
+                "can't help liking",
+                "can help liking",
+                "can't help but liking",
+                "help can't liking"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am the happiest man ...................... the world.",
+            "description": "",
+            "answers": [
+                "in",
+                "of",
+                "on",
+                "at"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The apartment ………………… I live is very small.",
+            "description": "",
+            "answers": [
+                "where",
+                "that",
+                "which",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I haven’t bought the ticket. I haven’t ………………….",
+            "description": "",
+            "answers": [
+                "either",
+                "also",
+                "neither",
+                "too"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The books ………………… all over the floor.",
+            "description": "",
+            "answers": [
+                "were laying",
+                "were lying",
+                "laid",
+                "were laid"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I always have trouble …………………  faces.",
+            "description": "",
+            "answers": [
+                "to remember",
+                "remembering",
+                "remember",
+                "to remembering"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "It …………………. since yesterday morning.",
+            "description": "",
+            "answers": [
+                "is snowing",
+                "was snowing",
+                "has been snowing",
+                "had been snowing"
+            ],
+            "correct": 2
+        }
+    ]
+}

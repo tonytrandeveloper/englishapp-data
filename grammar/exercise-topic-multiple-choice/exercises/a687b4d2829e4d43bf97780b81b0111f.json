@@ -1,0 +1,125 @@
+{
+    "id": "a687b4d2829e4d43bf97780b81b0111f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The council ……………………………. of ten members.",
+            "description": "Council is a singular subject, so write consists. ",
+            "answers": [
+                "consists",
+                "consisting",
+                "consist"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Later on he ………………………….. his mistake.",
+            "description": "",
+            "answers": [
+                "realized",
+                "has realized",
+                "was realized"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He asked ………………………… my name was.",
+            "description": "",
+            "answers": [
+                "that",
+                "what",
+                "which"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ……………………….. them for help.",
+            "description": "",
+            "answers": [
+                "asked",
+                "asked to"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "This is the key I was ………………………….",
+            "description": "To look for something is to search for it. ",
+            "answers": [
+                "looking",
+                "searching",
+                "seeing",
+                "looking for"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "I …………………………. him to go.",
+            "description": "We use tell before a personal object. ",
+            "answers": [
+                "said",
+                "told",
+                "spoke"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is used to ………………………….",
+            "description": "Use an ing form after used to.",
+            "answers": [
+                "smoke",
+                "smoking"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He ………………………. the red shirt.",
+            "description": "",
+            "answers": [
+                "choose",
+                "chose",
+                "chosen"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I would prefer to starve ………………………….. to beg.",
+            "description": "",
+            "answers": [
+                "than",
+                "rather",
+                "rather than"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He ……………………………. sitting there.",
+            "description": "",
+            "answers": [
+                "objected to my",
+                "objected me",
+                "objected with my"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I want to …………………………. for a while.",
+            "description": "To lie down is to recline.",
+            "answers": [
+                "lie down",
+                "lay down",
+                "lain down"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "If they informed me earlier, I ………………………… the function.",
+            "description": "In the second conditional, use a simple past tense in the if-clause and would/could/might + first form of the verb in the main clause. ",
+            "answers": [
+                "could attend",
+                "can attend",
+                "could have attended"
+            ],
+            "correct": 0
+        }
+    ]
+}

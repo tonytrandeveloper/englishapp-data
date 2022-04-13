@@ -1,0 +1,118 @@
+{
+    "id": "64add418a2f044c49c577c41b12d6beb",
+    "title": "Adjective vs. Adverb",
+    "questions": [
+        {
+            "question": "He played …………………………… yesterday.",
+            "description": "Well is an adverb and good is an adjective. We need an adverb to modify the verb played. ",
+            "answers": [
+                "good",
+                "well"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He drives ……………………………",
+            "description": "Carefully is an adverb and careful is an adjective. We need an adverb to modify the verb drives. ",
+            "answers": [
+                "careful",
+                "carefully"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He looks …………………………..",
+            "description": "Look is a copular verb we use adjectives to modify copular verbs. ",
+            "answers": [
+                "intelligent",
+                "intelligently"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She has a ………………………………. smile.",
+            "description": "Lovely is an adjective modifying the noun smile. ",
+            "answers": [
+                "love",
+                "lovely",
+                "lovingly"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cyanide is …………………………….. poison.",
+            "description": "Deadly is an adjective meaning fatal. ",
+            "answers": [
+                "dead",
+                "deadly",
+                "fatally"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He drove as ………………………….. as he could.",
+            "description": "Fast can be an adjective or adverb.",
+            "answers": [
+                "fast",
+                "fastly",
+                "faster"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He works ……………………………. because he has a family to support.",
+            "description": "Hard can be adjective or adverb. Hardly means scarcely. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There was …………………………….. any water in the pond.",
+            "description": "Hardly means scarcely. ",
+            "answers": [
+                "hardly",
+                "hard",
+                "rarely"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "They were …………………………… informed.",
+            "description": "Promptly is an adverb used to modify the verb were informed. ",
+            "answers": [
+                "prompt",
+                "promptly"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Thank you for your …………………………….. reply.",
+            "description": "Prompt is an adjective modifying the noun reply. ",
+            "answers": [
+                "prompt",
+                "promptly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am ………………………….. waiting for my results.",
+            "description": "Eagerly is the adverb modifying the verb am waiting. ",
+            "answers": [
+                "eager",
+                "eagerly"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The soup tasted .......................................",
+            "description": "Taste is a copular verb we use adjectives to modify copular verbs. ",
+            "answers": [
+                "awfully",
+                "awful"
+            ],
+            "correct": 1
+        }
+    ]
+}

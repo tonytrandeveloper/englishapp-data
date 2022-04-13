@@ -1,0 +1,126 @@
+{
+    "id": "13c20128bbab4d3eac2daba011b7438e",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "........................... is the longest river in the world.",
+            "description": "We use the article 'the' before the names of rivers, mountains etc. ",
+            "answers": [
+                "Nile",
+                "The Nile",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "............................ is one of the largest lakes in Africa.",
+            "description": "We do not normally use articles with lakes. ",
+            "answers": [
+                "Lake Victoria",
+                "The Lake Victoria",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "......................... is the highest peak in the world.",
+            "description": "Articles are not normally used with the names single mountains. ",
+            "answers": [
+                "The Mount Everest",
+                "Mount Everest",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": ".......................... are an example of a folded mountain range.",
+            "description": "The article 'the' is used with the names of mountain groups. ",
+            "answers": [
+                "Himalayas",
+                "The Himalayas",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": ".......................... is the largest desert in the world.",
+            "description": "The article 'the' is used with the names of deserts. ",
+            "answers": [
+                "Sahara",
+                "The Sahara",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was my classmate at .......................................",
+            "description": "'The' is not normally used in the titles of major universities and principal public buildings. ",
+            "answers": [
+                "the Oxford University",
+                "Oxford University",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We are going to ........................ for summer.",
+            "description": "We do not use articles with the names of countries. ",
+            "answers": [
+                "Switzerland",
+                "The Switzerland",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Mandarin is the official language of .............................................",
+            "description": "Countries whose names contain common nouns like state, union or republic usually take the article 'the'. ",
+            "answers": [
+                "People's Republic of China",
+                "the People's Republic of China",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "London is on ............................",
+            "description": "We use 'the' with the names of rivers. ",
+            "answers": [
+                "Thames",
+                "The Thames",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": ".......................... attracts thousands of visitors each day.",
+            "description": "We use 'the' with the names of most museums and art galleries. ",
+            "answers": [
+                "British Museum",
+                "The British Museum",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "His brother lives in ..........................",
+            "description": "We do not use articles with the names of continents, countries, states, counties etc.",
+            "answers": [
+                "Texas",
+                "the Texas",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "......................... is the largest continent in the world.",
+            "description": "We do not use articles with the names of continents. ",
+            "answers": [
+                "Asia",
+                "The Asia",
+                "Either could be used here"
+            ],
+            "correct": 0
+        }
+    ]
+}

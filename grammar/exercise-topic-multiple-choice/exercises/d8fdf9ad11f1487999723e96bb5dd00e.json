@@ -1,0 +1,68 @@
+{
+    "id": "d8fdf9ad11f1487999723e96bb5dd00e",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "This is one of the best movies that …………….. this year.",
+            "description": "",
+            "answers": [
+                "has been released",
+                "have been released",
+                "have released"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Bribery is one of the charges that ………………… against the minister.",
+            "description": "",
+            "answers": [
+                "has been leveled",
+                "have been leveled",
+                "is leveled",
+                "is being leveled"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "By December 2015 I ……………… him a monthly stipend for fifteen years.",
+            "description": "",
+            "answers": [
+                "shall have been giving",
+                "shall be giving",
+                "should be giving"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Edison ………………… newspapers before he became a famous inventor.",
+            "description": "",
+            "answers": [
+                "should sell",
+                "used to have sold",
+                "used to sell"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Anil ……………… two wickets before rain interrupted the match",
+            "description": "",
+            "answers": [
+                "has taken",
+                "had taken",
+                "have taken"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "By the end of this year we …………….. in this house for twenty years.",
+            "description": "",
+            "answers": [
+                "shall be living",
+                "shall have been living",
+                "shall live",
+                "should live"
+            ],
+            "correct": 1
+        }
+    ]
+}

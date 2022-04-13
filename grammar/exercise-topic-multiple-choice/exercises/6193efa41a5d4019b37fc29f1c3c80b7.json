@@ -1,0 +1,120 @@
+{
+    "id": "6193efa41a5d4019b37fc29f1c3c80b7",
+    "title": "Simple Present Or Present Continuous",
+    "questions": [
+        {
+            "question": "Father …………………….. the newspaper every day after breakfast.",
+            "description": "The simple present is used to talk about habitual actions.",
+            "answers": [
+                "reads",
+                "read",
+                "is reading"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "We ……………………….. to church twice a week.",
+            "description": "The simple present is used to talk about habitual actions and routines.",
+            "answers": [
+                "go",
+                "are going",
+                "goes"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The child …………………………… with her dog.",
+            "description": "The present continuous is used to talk about an action or situation going on at the moment of speaking.",
+            "answers": [
+                "plays",
+                "is playing",
+                "play"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She ………………………….. spending time with her dogs.",
+            "description": "The simple present is used to talk about likes, dislikes, habits, routines etc.",
+            "answers": [
+                "enjoy",
+                "is enjoying",
+                "enjoys"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "My sister ………………………….. research in molecular biology.",
+            "description": "",
+            "answers": [
+                "does",
+                "is doing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What …………………………. tomorrow?",
+            "description": "The present continuous is often used to talk about pre-planned future events.",
+            "answers": [
+                "do you do",
+                "are you doing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Light ………………………… faster than sound.",
+            "description": "The simple present is used to talk about facts.",
+            "answers": [
+                "travel",
+                "travels",
+                "is traveling"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "If she ……………………….. out, we will be in trouble.",
+            "description": "In the first conditional, we use a simple present tense in the if-clause and will + infinitive in the main clause.",
+            "answers": [
+                "find",
+                "finds",
+                "is finding"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "My uncle …………………………… tomorrow.",
+            "description": "The present continuous is often used to talk about future events, if the plan already exists. ",
+            "answers": [
+                "arrives",
+                "is arriving"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She …………………………. at a bank.",
+            "description": "The simple present is used for more permanent situations. ",
+            "answers": [
+                "works",
+                "is working"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She …………………………. a short term course in computer science at the moment.",
+            "description": "The present continuous is used for temporary situations. ",
+            "answers": [
+                "does",
+                "is doing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He ……………………….  a lot.",
+            "description": "",
+            "answers": [
+                "is reading",
+                "reads"
+            ],
+            "correct": 1
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "id": "6907956da63d4827819adb383338c92e",
+    "title": "Gap Filling Grammar Exercise",
+    "questions": [
+        {
+            "question": "I prefer riding my bicycle ………………………. driving the car.",
+            "description": "",
+            "answers": [
+                "over",
+                "to",
+                "than"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She enjoys ……………………………. time in her garden.",
+            "description": "Enjoy should be followed by an ing form, not an infinitive.",
+            "answers": [
+                "spending",
+                "to spend",
+                "to spending"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am not used to …………………………… alone.",
+            "description": "The to in used to is a preposition. Use an ing form after a preposition. ",
+            "answers": [
+                "live",
+                "living",
+                "lived"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Would you mind ……………………………. for a minute?",
+            "description": "Use an ing form after mind. ",
+            "answers": [
+                "to wait",
+                "waiting",
+                "wait"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "That resort ………………………………… be a palace.",
+            "description": "Used to can indicate past states. Would cannot be used to express this idea. ",
+            "answers": [
+                "used to",
+                "would"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I still remember ………………….. her for the first time.",
+            "description": "When the reference is to past time, use an ing form after remember. ",
+            "answers": [
+                "meeting",
+                "to meet",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I would rather you ………………………….. me alone.",
+            "description": "Use a past verb after would rather to refer to the present. ",
+            "answers": [
+                "leave",
+                "left",
+                "have left"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "It is high time you ……………………………. a job.",
+            "description": "Use a past tense after high time to refer to the present.",
+            "answers": [
+                "find",
+                "found",
+                "have found"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I forgot …………………… him on his birthday.",
+            "description": "",
+            "answers": [
+                "wishing",
+                "to wish",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I asked her ………………………………. she was interested.",
+            "description": "Either if or whether can be used to introduce an Yes/No question. ",
+            "answers": [
+                "if",
+                "whether",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Let him ................................ if he wants to.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "go",
+                "to go",
+                "going"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am ……………………………….. a call from my brother.",
+            "description": "It should be I am expecting a call from my brother or I am waiting for a call from my brother. ",
+            "answers": [
+                "expecting",
+                "expecting for",
+                "waiting"
+            ],
+            "correct": 0
+        }
+    ]
+}

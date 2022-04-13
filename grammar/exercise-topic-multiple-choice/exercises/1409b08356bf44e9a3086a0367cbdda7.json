@@ -1,0 +1,127 @@
+{
+    "id": "1409b08356bf44e9a3086a0367cbdda7",
+    "title": "Kinds of Sentences",
+    "questions": [
+        {
+            "question": "Please leave your footwear outside.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Will you wait here?",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Where have you been all this while?",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "We will not tolerate this.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am your friend.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Exclamatory",
+                "Interrogative"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "My sister lives in Mexico.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Interrogative",
+                "Imperative",
+                "Exclamatory"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What did you do then?",
+            "description": "",
+            "answers": [
+                "Interrogative",
+                "Declarative",
+                "Imperative",
+                "Exclamatory"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Do be a bit more careful.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Never speak to me like that again.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Always remember what I told you.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Exclamatory",
+                "Interrogative"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The ball rolled slowly into the goal.",
+            "description": "",
+            "answers": [
+                "Declarative",
+                "Interrogative",
+                "Exclamatory",
+                "Imperative"
+            ],
+            "correct": 0
+        }
+    ]
+}

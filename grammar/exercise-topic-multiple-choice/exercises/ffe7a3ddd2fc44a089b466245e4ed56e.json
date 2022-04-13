@@ -1,0 +1,121 @@
+{
+    "id": "ffe7a3ddd2fc44a089b466245e4ed56e",
+    "title": "Gerund vs. Infinitive",
+    "questions": [
+        {
+            "question": "I am thinking ……………………………. a business.",
+            "description": "The verb is followed by of + ing form.",
+            "answers": [
+                "to start",
+                "of starting"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I stopped her …………………………….. my room.",
+            "description": "Stop is followed by object + from + ing form.",
+            "answers": [
+                "to enter",
+                "from entering"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They encouraged me …………………………… again.",
+            "description": "Encourage is followed by object + to infinitive.",
+            "answers": [
+                "to try",
+                "trying",
+                "from trying"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am tired …………………………… to advice.",
+            "description": "Tired is followed by of + ing form.",
+            "answers": [
+                "to listen",
+                "of listening"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I saw them …………………………….. in the garden.",
+            "description": "The see can be followed by an ing form or an infinitive without to.",
+            "answers": [
+                "play",
+                "playing",
+                "to play"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She was told …………………………",
+            "description": "",
+            "answers": [
+                "to quit",
+                "quitting",
+                "of quitting"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I was made …………………………….. the whole story.",
+            "description": "When make is used in the passive form, it is followed by a to-infinitive. ",
+            "answers": [
+                "repeat",
+                "to repeat",
+                "of repeating"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Harsh punishments may deter potential offenders ………………………….. a crime.",
+            "description": "",
+            "answers": [
+                "to commit",
+                "from committing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was not allowed …………………………..",
+            "description": "Allow is followed by a to-infinitive. ",
+            "answers": [
+                "to go",
+                "from going",
+                "go"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The illness prohibited her …………………………. blood.",
+            "description": "Prohibit is followed by object + from + ing form.",
+            "answers": [
+                "to donate",
+                "from donating"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was advised …………………………….. harder.",
+            "description": "",
+            "answers": [
+                "to work",
+                "working",
+                "to working"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "We could not restrain him ………………………………… us.",
+            "description": "Restrain is followed by object + from + ing form.",
+            "answers": [
+                "from attacking",
+                "to attack",
+                "from attack"
+            ],
+            "correct": 0
+        }
+    ]
+}

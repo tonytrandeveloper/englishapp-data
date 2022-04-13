@@ -1,0 +1,115 @@
+{
+    "id": "7e7a241ff9734b358d25166d466fb77a",
+    "title": "Say vs. Tell",
+    "questions": [
+        {
+            "question": "I …………………… him to turn left.",
+            "description": "Use tell when there is a personal object.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "‘Come here.’ He ………………………..",
+            "description": "Use say when there is no personal object.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She …………………………. us that she was quitting.",
+            "description": "",
+            "answers": [
+                "said",
+                "told",
+                ""
+            ],
+            "correct": 1
+        },
+        {
+            "question": "‘I am fed up.’ She …………………………",
+            "description": "Use say when there is no personal object.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am going to ………………………… you a secret.",
+            "description": "",
+            "answers": [
+                "tell",
+                "say"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She ………………………… a naughty word.",
+            "description": "",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I ……………………….. them to keep quiet.",
+            "description": "Tell can be used before object + infinitive.",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Are you …………………………….. the truth?",
+            "description": "Tell is used in the expression tell the truth, tell a story, tell a lie etc.",
+            "answers": [
+                "telling",
+                "saying"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I knew that he was ……………………….. a lie.",
+            "description": "",
+            "answers": [
+                "saying",
+                "telling"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "‘What time is the meeting?’ ‘I will …………………………… you when I find out.’",
+            "description": "",
+            "answers": [
+                "tell",
+                "say"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He …………………………… that he wanted some water.",
+            "description": "",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She ………………………… that she was not interested.",
+            "description": "",
+            "answers": [
+                "said",
+                "told"
+            ],
+            "correct": 0
+        }
+    ]
+}

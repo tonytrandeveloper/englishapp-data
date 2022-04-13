@@ -1,0 +1,127 @@
+{
+    "id": "3a06bea7699943ed8b28b7614c16a0df",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The mother was …………….. inside the house when the children started screaming.",
+            "description": "Both hardly and scarcely are possible here.",
+            "answers": [
+                "hardly",
+                "no sooner",
+                "scarcely",
+                "Either hardly or scarcely"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "It is the same everywhere ……………….. in India.",
+            "description": "We cannot use except for before prepositions and conjunctions.",
+            "answers": [
+                "except",
+                "except for",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I don’t like their company. They talk ……………… rubbish.",
+            "description": "We cannot use the article ‘a/an’ before uncountable nouns.",
+            "answers": [
+                "such",
+                "such a",
+                "such as"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I have got too much nose and not ………………",
+            "description": "Chin is a noun. When enough modifies a noun, it goes before that noun.",
+            "answers": [
+                "chin enough",
+                "enough chin",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Come in quietly ………………… she doesn’t hear you.",
+            "description": "That can be left out in an informal style in some common two-word conjunctions, such as so that, such…that, now that etc.",
+            "answers": [
+                "so",
+                "so that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "…………….. is a lot of noise in the street.",
+            "description": "In sentences which say that something exists somewhere we usually use 'there' as a kind of preparatory subject.",
+            "answers": [
+                "There",
+                "It",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "……………. he was foreign made it difficult for him to get a job.",
+            "description": "It is unusual for that-clauses to stand alone as subjects. They are more often introduced by the expression ‘the fact’.",
+            "answers": [
+                "That",
+                "The fact",
+                "The fact that"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Have you got anything ...................... belongs to me?",
+            "description": "",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She wondered why he ………………. there.",
+            "description": "When the verb in the main clause is in the past tense, we are more likely to use a past tense in the subordinate clause as well.",
+            "answers": [
+                "is",
+                "was",
+                "has"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was very .....................… in the lesson.",
+            "description": "We make the past continuous tense forms by putting 'was / were' before the -ing form of the verb.",
+            "answers": [
+                "interesting",
+                "interested",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We ………………… by the immigration officer.",
+            "description": "",
+            "answers": [
+                "have questioned",
+                "were questioned",
+                "were questioning"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She ………………….. in prison for life.",
+            "description": "When the subject is not the doer of the action we use passive verb forms. In the simple past tense, passive forms are made by putting was/were before the verb.",
+            "answers": [
+                "has put",
+                "was put",
+                "Either could be used here"
+            ],
+            "correct": 1
+        }
+    ]
+}

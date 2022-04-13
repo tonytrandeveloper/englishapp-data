@@ -1,0 +1,137 @@
+{
+    "id": "7a1b89bf7cd34231ad2c81bcd8bcb95e",
+    "title": "Identify The Adverb",
+    "questions": [
+        {
+            "question": "Surely you are not going out in that torn coat?",
+            "description": "Most words ending in –ly are adverbs.",
+            "answers": [
+                "surely",
+                "going",
+                "that",
+                "torn"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You can always come and stay with us if you want to.",
+            "description": "Words that say how often something happens are adverbs.",
+            "answers": [
+                "can",
+                "always",
+                "with",
+                "if"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Have you ever played rugby?",
+            "description": "Words that say how often something happens are adverbs.",
+            "answers": [
+                "have",
+                "ever",
+                "played",
+                "rugby"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Your bicycle just needs some oil.",
+            "description": "Just is an example of a focusing adverb because it points to one part of a clause.",
+            "answers": [
+                "just",
+                "needs",
+                "some",
+                "oil"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The flight has obviously been delayed.",
+            "description": "Most words ending in -ly are adverbs. Obviously is one of them.",
+            "answers": [
+                "flight",
+                "has",
+                "obviously",
+                "been"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She is my mother, but she is also my best friend.",
+            "description": "Words like also, as well and too are adverbs. ",
+            "answers": [
+                "my",
+                "but",
+                "also",
+                "best"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She has a new hairstyle every week.",
+            "description": "Most words indicating time and frequency are adverbs.",
+            "answers": [
+                "has",
+                "new",
+                "week",
+                "every week"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The invitees have already turned up.",
+            "description": "Words like already, soon, last, just and still are all adverbs.",
+            "answers": [
+                "the",
+                "invitees",
+                "already",
+                "turned"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You have definitely been working too hard.",
+            "description": "Here too modifies the adjective hard. A word modifying an adjective is an adverb. ",
+            "answers": [
+                "have",
+                "been",
+                "working",
+                "too"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "She speaks English remarkably well.",
+            "description": "Here the words well and remarkably are both adverbs. ",
+            "answers": [
+                "speaks",
+                "remarkably",
+                "well"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "We did not achieve much improvement in sales last year.",
+            "description": "Time words are all adverbs.",
+            "answers": [
+                "did",
+                "much",
+                "in",
+                "last year"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "This time tomorrow I will be happily working in my garage.",
+            "description": "Time words are adverbs. Most words ending in -ly are also adverbs. ",
+            "answers": [
+                "tomorrow",
+                "happily",
+                "my",
+                "garage"
+            ],
+            "correct": 1
+        }
+    ]
+}

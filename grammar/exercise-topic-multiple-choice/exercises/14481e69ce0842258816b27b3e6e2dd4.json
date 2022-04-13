@@ -1,0 +1,128 @@
+{
+    "id": "14481e69ce0842258816b27b3e6e2dd4",
+    "title": "Adjectives Exercise",
+    "questions": [
+        {
+            "question": "That was an incredible sight.",
+            "description": "That is a pronoun and sight is a noun. Incredible is the adjective modifying the noun sight.",
+            "answers": [
+                "that",
+                "incredible",
+                "sight"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "It was a stupid thing to do.",
+            "description": "Here the adjective stupid modifies the noun thing. ",
+            "answers": [
+                "was",
+                "stupid",
+                "thing",
+                "do"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is cleverer than I thought.",
+            "description": "Clever indicates a quality. Words describing qualities are adjectives. ",
+            "answers": [
+                "is",
+                "cleverer",
+                "than",
+                "thought"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Do you know any shop that sells coconuts?",
+            "description": "Here the adjective any modifies the noun shop. ",
+            "answers": [
+                "know",
+                "any",
+                "sells"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She seems to be very intelligent.",
+            "description": "",
+            "answers": [
+                "seems",
+                "very",
+                "intelligent"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He was a mischievous boy who always landed himself in trouble.",
+            "description": "Here mischievous is the adjective modifying the noun boy.",
+            "answers": [
+                "mischievous",
+                "boy",
+                "trouble"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She looked gorgeous in that gown.",
+            "description": "Words describing qualities are all adjectives. ",
+            "answers": [
+                "looked",
+                "gown",
+                "gorgeous"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "This is the eighth chocolate you have eaten today.",
+            "description": "Both cardinal and ordinal numbers are adjectives. ",
+            "answers": [
+                "eighth",
+                "eaten",
+                "today"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Thank you for your quick reply.",
+            "description": "Here the adjective quick modifies the noun reply. ",
+            "answers": [
+                "thank",
+                "for",
+                "quick"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The sun is the brightest object in the sky.",
+            "description": "",
+            "answers": [
+                "sun",
+                "brightest",
+                "in"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "It was an unforgettable experience.",
+            "description": "",
+            "answers": [
+                "it",
+                "experience",
+                "unforgettable"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The job was more difficult than I thought.",
+            "description": "",
+            "answers": [
+                "job",
+                "difficult",
+                "than"
+            ],
+            "correct": 1
+        }
+    ]
+}

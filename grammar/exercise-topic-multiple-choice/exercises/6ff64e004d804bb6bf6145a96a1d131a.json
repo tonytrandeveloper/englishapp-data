@@ -1,0 +1,56 @@
+{
+    "id": "6ff64e004d804bb6bf6145a96a1d131a",
+    "title": "Reported Speech Exercise",
+    "questions": [
+        {
+            "question": "He said, ‘Hello! Where are you going?’",
+            "description": "",
+            "answers": [
+                "He told me where I was going.",
+                "He greeted me and asked where I was going.",
+                "He wanted to know where I was going."
+            ],
+            "correct": 1
+        },
+        {
+            "question": "‘Do you know when she will return?’ he asked.",
+            "description": "",
+            "answers": [
+                "He asked when she would return.",
+                "He asked me if I knew when she will return.",
+                "He asked me if I knew when she would return."
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He said, ‘Let’s go for a drive.’",
+            "description": "",
+            "answers": [
+                "He said that we / they should go for a drive.",
+                "He suggested to go for a drive",
+                "He suggested that we / they should go for a drive."
+            ],
+            "correct": 2
+        },
+        {
+            "question": "‘Hurrah! We have won!’ said the boys.",
+            "description": "",
+            "answers": [
+                "The boys said that they had won.",
+                "The boys said that they have won.",
+                "The boys exclaimed that they had won."
+            ],
+            "correct": 2
+        },
+        {
+            "question": "‘Do what I say,’ said the old man to his sons.",
+            "description": "",
+            "answers": [
+                "The old man asked his sons to do what he said.",
+                "The old man asked his sons that they should do what he said.",
+                "The old man said to his sons that they should do what he said."
+            ],
+            "correct": 0
+        }
+    ]
+}

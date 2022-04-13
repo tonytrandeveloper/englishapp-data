@@ -1,0 +1,66 @@
+{
+    "id": "57fba2102f6f44cc9bdd8372833b6fc8",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "Which set of words are only nouns?",
+            "description": "",
+            "answers": [
+                "complexity, analysis, thesis, axis",
+                "ridiculous, sophisticated, anxious, complex",
+                "penance, science, monotonous, vibrancy"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which set of words are only adjectives?",
+            "description": "",
+            "answers": [
+                "kind, vibrant, luminance, eager",
+                "autonomous, eligible, warm, open",
+                "ridicule, ignore, captivate, enchant"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which set of words are only verbs?",
+            "description": "",
+            "answers": [
+                "activate, annul, propagate, surrender",
+                "emulate, dilapidated, enamor, renounce",
+                "propaganda, verify, eagerly, overt"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which set of words are only adverbs?",
+            "description": "",
+            "answers": [
+                "up, yesterday, hard, fatally",
+                "deadly, open, vast, thoroughly",
+                "privacy, provocatively, anxiously, well"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Which set of words are only conjunctions?",
+            "description": "",
+            "answers": [
+                "down, out, under, with",
+                "so, because, however, yet",
+                "and, but, or, because of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which set of words are only prepositions?",
+            "description": "",
+            "answers": [
+                "behind, into, when, as",
+                "between, over, across, to",
+                "from, while, whereas, near"
+            ],
+            "correct": 1
+        }
+    ]
+}

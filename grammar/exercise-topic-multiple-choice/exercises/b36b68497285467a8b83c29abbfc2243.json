@@ -1,0 +1,79 @@
+{
+    "id": "b36b68497285467a8b83c29abbfc2243",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The villagers dug a deep well, but ………………….",
+            "description": "",
+            "answers": [
+                "they could not find no water",
+                "could not find water",
+                "would not find water",
+                "cannot find water"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "When the bell ……………….., the swimmers sprang into the water.",
+            "description": "",
+            "answers": [
+                "ring",
+                "rung",
+                "was rung",
+                "had rung"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The manager sent for the clerk, …………… came at once.",
+            "description": "",
+            "answers": [
+                "who",
+                "that",
+                "he",
+                "whom"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The Hyderabad House in New Delhi, which ………………… by the External affairs Ministry, is to be sold.",
+            "description": "",
+            "answers": [
+                "has been used",
+                "is used",
+                "is being used"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "One of the officers who ……………… of treachery was the Major himself.",
+            "description": "",
+            "answers": [
+                "had suspected",
+                "was suspected",
+                "suspected"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is the only one among our politicians who ……………. popular throughout the country.",
+            "description": "",
+            "answers": [
+                "are",
+                "is",
+                "has been"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Bribery is one of the charges that ………………. against him.",
+            "description": "",
+            "answers": [
+                "is leveled",
+                "has been leveled",
+                "have been leveled"
+            ],
+            "correct": 2
+        }
+    ]
+}

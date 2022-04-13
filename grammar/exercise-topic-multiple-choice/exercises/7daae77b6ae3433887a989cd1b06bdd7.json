@@ -1,0 +1,119 @@
+{
+    "id": "7daae77b6ae3433887a989cd1b06bdd7",
+    "title": "Confusing Words Exercise",
+    "questions": [
+        {
+            "question": "The library has …………………………… of books.",
+            "description": "Write lots or a lot.",
+            "answers": [
+                "lots",
+                "lot"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The ………………………… of the ship ended his career as a captain.",
+            "description": "Loss is a noun. Lose is the verb.",
+            "answers": [
+                "loss",
+                "lose",
+                "loose"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The …………………………… file was never found.",
+            "description": "Lost can be an adjective. ",
+            "answers": [
+                "lost",
+                "loss",
+                "losed"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The dog ran …………………………… in the yard.",
+            "description": "Loose is the opposite of tight.",
+            "answers": [
+                "lose",
+                "loose",
+                "loss"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The plan was presented in a ………………………….. manner.",
+            "description": "Logical is the adjective. Logic is a noun.",
+            "answers": [
+                "logic",
+                "logical"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They ……………………………. the prisoners’ bonds and set them free.",
+            "description": "Loosed is the past tense of loose which can also be a verb. As a verb loose means untie.",
+            "answers": [
+                "loosed",
+                "losed",
+                "lost"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The play’s ………………………….. is Mumbai.",
+            "description": "Locale means setting.",
+            "answers": [
+                "local",
+                "locale"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The salesman is …………………………. to accept a job in a new territory.",
+            "description": "Loath means unwilling or averse.",
+            "answers": [
+                "loath",
+                "loathe"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "They …………………………. pretension.",
+            "description": "Loathe means hate.",
+            "answers": [
+                "loath",
+                "loathe"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "A few luxuries make life more …………………………….",
+            "description": "",
+            "answers": [
+                "livable",
+                "liveable",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "If we make a ………………………… effort we will win the game.",
+            "description": "Collective means unified.",
+            "answers": [
+                "collective",
+                "collected"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The witness was remarkably ……………………………… under the cross examination.",
+            "description": "Collected means self controlled.",
+            "answers": [
+                "collective",
+                "collected"
+            ],
+            "correct": 1
+        }
+    ]
+}

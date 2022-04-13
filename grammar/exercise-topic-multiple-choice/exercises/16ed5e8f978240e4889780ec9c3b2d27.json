@@ -1,0 +1,127 @@
+{
+    "id": "16ed5e8f978240e4889780ec9c3b2d27",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "Let’s watch a movie, ……………………?",
+            "description": "Shall we is used in question tags after let's.",
+            "answers": [
+                "can we",
+                "shall we",
+                "should we"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "None of the students participated in the program, ……………………….?",
+            "description": "Affirmative tags are used after negative expressions like none, hardly, seldom etc. ",
+            "answers": [
+                "did they",
+                "didn't they",
+                "had they"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I bought a laptop. Change voice.",
+            "description": "In the simple past, the passive form is made with was/were + v3.",
+            "answers": [
+                "A laptop is bought by me.",
+                "A laptop was bought by me.",
+                "A laptop has been bought by me."
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She was cooking dinner. Change voice.",
+            "description": "In the past continuous, the passive form is made with was/were + being + v3.",
+            "answers": [
+                "Dinner was cooking her.",
+                "Dinner was cooked by her.",
+                "Dinner was being cooked by her."
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She said to me, ‘I have lost faith in you.’ Change into indirect speech.",
+            "description": "",
+            "answers": [
+                "She told me she has lost faith in me.",
+                "She told me that she lost faith in me.",
+                "She told me that she had lost faith in me."
+            ],
+            "correct": 2
+        },
+        {
+            "question": "If I hadn’t overslept, I …………………….. the train.",
+            "description": "In the third conditional, we use a past perfect tense in the if clause and would + have + past participle in the main clause. ",
+            "answers": [
+                "wouldn't have missed",
+                "wouldn't miss",
+                "won't miss"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Haste ……………………. waste.",
+            "description": "",
+            "answers": [
+                "creates",
+                "generates",
+                "produces",
+                "makes"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The man along with his children ……………………… walking in the rain.",
+            "description": "When we connect two subject with along with, the verb agrees with the first subject. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Thousand dollars ……………………. not a small sum.",
+            "description": "",
+            "answers": [
+                "are",
+                "is",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I …………………… the office at",
+            "description": "",
+            "answers": [
+                "left",
+                "have left",
+                "had left"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A person who works for somebody in order to learn a skill",
+            "description": "",
+            "answers": [
+                "assistant",
+                "freshman",
+                "disciple",
+                "apprentice"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "He decided ………………….. the blue shirt.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "on"
+            ],
+            "correct": 2
+        }
+    ]
+}

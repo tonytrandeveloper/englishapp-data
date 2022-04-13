@@ -1,0 +1,128 @@
+{
+    "id": "384f28bdfe26464a99219379af0b9f71",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "She wears ……………………… make-up for my taste.",
+            "description": "Too much shows undesirable extremes. It is used before an uncountable noun.",
+            "answers": [
+                "too much",
+                "too many",
+                "so much"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "We got ……………………….. answers to our advertisement.",
+            "description": "We use too many before a plural noun.",
+            "answers": [
+                "too much",
+                "too many",
+                "so much"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I arrived ………………………. early.",
+            "description": "Before adverbs, we use too, not too much.",
+            "answers": [
+                "too",
+                "too much",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He is ………………………. generous.",
+            "description": "Before an adjective without a noun, we use too.",
+            "answers": [
+                "too",
+                "too much",
+                "much"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "It is too …………………………. to go out.",
+            "description": "We can use too before adjective + a/an + noun.",
+            "answers": [
+                "a cold day",
+                "cold a day",
+                "cold day"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The water is …………………………. salty for us to drink.",
+            "description": "We cannot use too much before an adjective without a noun.",
+            "answers": [
+                "so",
+                "very",
+                "too",
+                "too much"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "………………………….. children love animals.",
+            "description": "When most means the majority of, it is used without the.",
+            "answers": [
+                "Most",
+                "The most",
+                "Most of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She didn’t eat ………………………….. breakfast.",
+            "description": "We use much before a noun without a determiner.",
+            "answers": [
+                "many",
+                "much",
+                "much of",
+                "many of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You can’t see ………………………… a city in a day.",
+            "description": "We use much of before a determiner.",
+            "answers": [
+                "much",
+                "much of",
+                "too much"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "……………………….. the people here seem to know each other.",
+            "description": "We use most of before a noun with a determiner.",
+            "answers": [
+                "Most",
+                "Most of",
+                "The most"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "……………………………… Indians can understand Hindi.",
+            "description": "We use most before a noun without a determiner.",
+            "answers": [
+                "Most",
+                "Most of",
+                "The most of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "How ………………………….. you are there?",
+            "description": "We use many of before a pronoun.",
+            "answers": [
+                "many",
+                "many of",
+                "much of"
+            ],
+            "correct": 1
+        }
+    ]
+}

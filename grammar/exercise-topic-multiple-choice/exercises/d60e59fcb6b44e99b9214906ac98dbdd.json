@@ -1,0 +1,78 @@
+{
+    "id": "d60e59fcb6b44e99b9214906ac98dbdd",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "Have you read ................................ was an earthquake in Turkey?",
+            "description": "",
+            "answers": [
+                "there",
+                "where"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The dog waited ................................... the front gate.",
+            "description": "",
+            "answers": [
+                "beside",
+                "besides"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A bus runs ....................................... our house.",
+            "description": "",
+            "answers": [
+                "passed",
+                "past"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ...................................... left my purse at home.",
+            "description": "",
+            "answers": [
+                "must",
+                "must have"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is ...................................... aggressive of the two.",
+            "description": "",
+            "answers": [
+                "the more",
+                "the most"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I cannot bear the thought of ...................................... leaving.",
+            "description": "",
+            "answers": [
+                "him",
+                "his"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "An argument developed between his sister and .......................................",
+            "description": "",
+            "answers": [
+                "him",
+                "he"
+            ],
+            "correct": 0
+        },
+        {
+            "question": ".................................. it snows, we cannot ski tomorrow.",
+            "description": "",
+            "answers": [
+                "Unless",
+                "Without"
+            ],
+            "correct": 0
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "id": "0bea6c9306344256a293db388ee3dd74",
+    "title": "Subject-Verb Agreement Worksheet",
+    "questions": [
+        {
+            "question": "Neither pleasure nor pain ……………………… to move him.",
+            "description": "When we connect two singular nouns with neither/nor, the verb is singular.",
+            "answers": [
+                "seem",
+                "seems"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Neither the master nor his servants …………………………… present in the barn.",
+            "description": "When we connect a singular noun and a plural noun with neither/nor, the verb agrees with the number and person of the noun closest to it.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "No nook or corner ……………………………. left unsearched.",
+            "description": "When we connect two singular nouns with or, the verb is singular.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Either you or I ……………………………… mistaken.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "are",
+                "am"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Neither you nor he ……………………………… right.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "are",
+                "is",
+                "am"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "None of them …………………………. arrived.",
+            "description": "A singular verb is used after none. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "All of his books …………………………. worth reading.",
+            "description": "Use a plural verb after all. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is getting married to Sam, who ………………………… her college mate.",
+            "description": "The verb in the relative clause agrees with its antecedent in number and person.",
+            "answers": [
+                "are",
+                "was",
+                "were"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I who …………………………….. your patron will never desert you.",
+            "description": "",
+            "answers": [
+                "is",
+                "are",
+                "am"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "A lot of work ………………………………. to be done.",
+            "description": "When a lot of is followed by an uncountable noun, the verb is singular in number.",
+            "answers": [
+                "need",
+                "needs"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "A lot of people ……………………………….. in ghosts.",
+            "description": "When a lot of followed by a plural noun, the verb is plural in number.",
+            "answers": [
+                "believe",
+                "believes"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There ……………………….. been many studies on this subject.",
+            "description": "When the noun following there is plural, the verb is plural. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 1
+        }
+    ]
+}

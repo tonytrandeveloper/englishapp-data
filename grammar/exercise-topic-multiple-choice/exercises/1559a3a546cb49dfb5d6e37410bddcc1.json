@@ -1,0 +1,82 @@
+{
+    "id": "1559a3a546cb49dfb5d6e37410bddcc1",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "She …………… wait for over two years.",
+            "description": "",
+            "answers": [
+                "made to",
+                "was made to",
+                "has made to",
+                "had made to"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "It ……………. during the whole of last week.",
+            "description": "",
+            "answers": [
+                "rained",
+                "has rained",
+                "was raining",
+                "has been raining"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He would have accepted this proposal, if you ………….. more courteous.",
+            "description": "",
+            "answers": [
+                "were",
+                "have been",
+                "had been",
+                "are"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What I don’t understand is why they …………….. so long without lodging a complaint.",
+            "description": "",
+            "answers": [
+                "were waiting",
+                "waited",
+                "have waited",
+                "had waited"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Should it prove to be true, I …………… resign from the committee.",
+            "description": "",
+            "answers": [
+                "should",
+                "would",
+                "shall",
+                "had to"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "If he drank less, he ………………. liver trouble.",
+            "description": "",
+            "answers": [
+                "wouldn't develop",
+                "won't develop",
+                "couldn't have developed"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Newton saw the apple ……………. to the ground.",
+            "description": "",
+            "answers": [
+                "fall",
+                "fell",
+                "fallen",
+                "to fall"
+            ],
+            "correct": 0
+        }
+    ]
+}

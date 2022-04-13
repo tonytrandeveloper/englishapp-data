@@ -1,0 +1,126 @@
+{
+    "id": "01cc75be5468486aa3b602528e09e960",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "She didn't allow me ........................",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "go",
+                "to go",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Please let him .......................",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "go",
+                "to go",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You ought .................. to your attorney.",
+            "description": "Ought is followed by an infinitive with to.",
+            "answers": [
+                "talk",
+                "to talk",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They made me ..................... the whole story.",
+            "description": "When made is used in the active voice, it is followed by an infinitive without to.",
+            "answers": [
+                "repeat",
+                "to repeat",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I was made .......................",
+            "description": "When made is in the passive voice, it is followed by an infinitive with to.",
+            "answers": [
+                "wait",
+                "to wait",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was unable ...................... a solution to the problem.",
+            "description": "Unable is followed by an infinitive with to.",
+            "answers": [
+                "find",
+                "to find",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I can't ..................... any longer.",
+            "description": "The infinitive is used without to after modals.",
+            "answers": [
+                "wait",
+                "to wait",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I forgot .................... the letter.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "post",
+                "to post",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You don't need ....................... for me.",
+            "description": "When need is used as an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "to wait",
+                "wait",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You need not ........................ for me.",
+            "description": "When need is an auxiliary verb, it is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She refused ......................... any help.",
+            "description": "Refused is followed by an infinitive with to.",
+            "answers": [
+                "offer",
+                "to offer",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was forced .......................",
+            "description": "",
+            "answers": [
+                "quit",
+                "to quit",
+                "Either could be used here"
+            ],
+            "correct": 1
+        }
+    ]
+}

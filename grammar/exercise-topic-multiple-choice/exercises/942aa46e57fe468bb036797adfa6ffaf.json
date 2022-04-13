@@ -1,0 +1,76 @@
+{
+    "id": "942aa46e57fe468bb036797adfa6ffaf",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "........................................ many shortcomings, she was a nice woman.",
+            "description": "",
+            "answers": [
+                "In spite of having",
+                "Despite of having",
+                "Although having"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "..................................... a great poet, Tagore was a good painter.",
+            "description": "",
+            "answers": [
+                "Besides being",
+                "Besides",
+                "Besides having been"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "...................................... a jackpot, he built a big mansion.",
+            "description": "",
+            "answers": [
+                "Winning",
+                "Won",
+                "Having won"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "...................................... on tip-toe, he reached for the apple.",
+            "description": "",
+            "answers": [
+                "Standing",
+                "Stood",
+                "Being standing"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The rain ......................................... we continued our journey.",
+            "description": "",
+            "answers": [
+                "stopping",
+                "having stopped",
+                "stopped"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "James is going to the US ................................... higher education.",
+            "description": "",
+            "answers": [
+                "to pursue",
+                "to pursuing",
+                "for pursuing"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "...................................... a great conqueror, Caesar failed to unite the various conquered territories into a well-knit empire.",
+            "description": "",
+            "answers": [
+                "Despite been",
+                "Despite being",
+                "Despite of being"
+            ],
+            "correct": 1
+        }
+    ]
+}

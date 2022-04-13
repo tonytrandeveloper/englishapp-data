@@ -1,0 +1,127 @@
+{
+    "id": "240476d15bd64c4b845ffe4055a07554",
+    "title": "Change Into Passive Voice",
+    "questions": [
+        {
+            "question": "I write short stories. / Short stories ............................ by me.",
+            "description": "",
+            "answers": [
+                "are writing",
+                "are written",
+                "have written"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "All children watch cartoon programs. / Cartoon programs ...................... by all children.",
+            "description": "",
+            "answers": [
+                "have watched",
+                "are watched",
+                "were watched"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He helps his wife. / His wife ....................... by him.",
+            "description": "",
+            "answers": [
+                "helped",
+                "is helped",
+                "has helped"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Masons build houses. / Houses ...................... by masons.",
+            "description": "",
+            "answers": [
+                "built",
+                "are building",
+                "are built"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I am writing a story. / A story ........................ by me.",
+            "description": "",
+            "answers": [
+                "is written",
+                "is being written",
+                "been written",
+                "has been written"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They are planting flowers in the garden. / Flowers ..................... in the garden.",
+            "description": "",
+            "answers": [
+                "are planting",
+                "are being planted",
+                "are planted"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The boys are making a toy car. / A toy car ................... by the boys.",
+            "description": "",
+            "answers": [
+                "is made",
+                "is being made",
+                "is making"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The washer man is washing the clothes. / The clothes ............................. by the washer man.",
+            "description": "",
+            "answers": [
+                "are being washed",
+                "are washing",
+                "are washed"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The goat is eating the leaves. / The leaves ............................ by the goat.",
+            "description": "",
+            "answers": [
+                "are being eaten",
+                "are eating",
+                "have been eating"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She is singing a song. / A song .............................. by her.",
+            "description": "",
+            "answers": [
+                "has been sung",
+                "is sung",
+                "is being sung"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I have finished the job. / The job .............................. by me.",
+            "description": "",
+            "answers": [
+                "has finished",
+                "has been finishing",
+                "has been finished"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Raju has broken another window. / Another window ............................ by Raju.",
+            "description": "",
+            "answers": [
+                "is broken",
+                "had broken",
+                "has been broken"
+            ],
+            "correct": 2
+        }
+    ]
+}

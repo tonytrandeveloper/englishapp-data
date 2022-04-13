@@ -1,0 +1,76 @@
+{
+    "id": "977854297dc348c5843cd8d45f813262",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "He was angry, ............................... I said nothing.",
+            "description": "",
+            "answers": [
+                "so",
+                "therefore",
+                "hence"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "This is my friend ....................................... works with me.",
+            "description": "",
+            "answers": [
+                "he",
+                "who",
+                "whom"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "................................. I was trying to concentrate, he was disturbing me.",
+            "description": "",
+            "answers": [
+                "Since",
+                "While",
+                "Whereas"
+            ],
+            "correct": 1
+        },
+        {
+            "question": ".................................... I fired at the tiger, he shook my arm.",
+            "description": "",
+            "answers": [
+                "Since",
+                "As",
+                "Then"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "This is my house ................................. I live.",
+            "description": "",
+            "answers": [
+                "where",
+                "there",
+                "here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "This is a nice book .................................. might interest you.",
+            "description": "",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "This is my cousin about ................................... I was telling you.",
+            "description": "",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 1
+        }
+    ]
+}

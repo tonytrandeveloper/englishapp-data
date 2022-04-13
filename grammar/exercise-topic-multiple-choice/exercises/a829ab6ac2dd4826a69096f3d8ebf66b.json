@@ -1,0 +1,127 @@
+{
+    "id": "a829ab6ac2dd4826a69096f3d8ebf66b",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "Despite of having a headache, I enjoyed the movie.",
+            "description": "Write despite or in spite of.",
+            "answers": [
+                "of",
+                "having",
+                "a"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "If you will happen to see Jane, ask her to phone me.",
+            "description": "The correct sentence is: If you happen to see Jane, ask her to phone me.",
+            "answers": [
+                "will",
+                "happen",
+                "to"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Broadly to speaking, teachers are overworked and underpaid.",
+            "description": "The correct expression is broadly speaking.",
+            "answers": [
+                "broadly",
+                "to"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Sometimes people often behave strangely when they are abroad.",
+            "description": "Often and sometimes are both adverbs of frequency. Use only one of them in a clause.",
+            "answers": [
+                "sometimes",
+                "often",
+                "when",
+                "Either sometimes or often"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Although I admit that junk food is bad for health, but I don’t think that it should be banned.",
+            "description": "The conjunctions although and but mean the same. Use only one of them in a clause.",
+            "answers": [
+                "although",
+                "that",
+                "but",
+                "Either although or but"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Since the day was very hot therefore I didn’t go out.",
+            "description": "The word since is used to give the reason and therefore is used to show the effect/result. Use only one of them in a sentence.",
+            "answers": [
+                "since",
+                "very",
+                "therefore"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Because she wanted to win the first prize so she worked hard.",
+            "description": "We need only one conjunction to connect two clauses. ",
+            "answers": [
+                "because",
+                "so",
+                "Either because or so"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He is a man who dare to say what he thinks.",
+            "description": "When dare is used as a modal auxiliary it is followed by an infinitive without to.",
+            "answers": [
+                "who",
+                "dare",
+                "to"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She is richer than compared to ninety percent of her neighbors.",
+            "description": "Richer than is enough to express this idea.",
+            "answers": [
+                "than",
+                "compared to",
+                "of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You need not to pay for that call.",
+            "description": "When need is used as a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "not",
+                "to",
+                "for"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I can’t make the dish washer to work.",
+            "description": "Make + object is followed by an infinitive without to.",
+            "answers": [
+                "make",
+                "the",
+                "to"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Most things seem to be made of from plastic these days.",
+            "description": "We use made of when we identify the material used to make something.",
+            "answers": [
+                "most",
+                "of",
+                "from"
+            ],
+            "correct": 2
+        }
+    ]
+}

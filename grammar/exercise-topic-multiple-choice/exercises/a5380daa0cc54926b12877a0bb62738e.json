@@ -1,0 +1,99 @@
+{
+    "id": "a5380daa0cc54926b12877a0bb62738e",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The storm rocked the ship .............................",
+            "description": "",
+            "answers": [
+                "violent",
+                "violently"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The artist painstakingly worked ................................... his masterpiece.",
+            "description": "",
+            "answers": [
+                "on",
+                "at",
+                "with"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Dad ..................................... a free gift by the firm.",
+            "description": "",
+            "answers": [
+                "offered",
+                "was offered"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I read in the paper that the burglar ....................................",
+            "description": "",
+            "answers": [
+                "had taught",
+                "had been taught"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The crickets began their piercing calls ................................ nightfall.",
+            "description": "",
+            "answers": [
+                "at",
+                "on",
+                "in"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He wore a hat made ....................................... coconut fiber on his head.",
+            "description": "",
+            "answers": [
+                "with",
+                "of",
+                "from"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "..................................... is very popular in many parts of the world.",
+            "description": "",
+            "answers": [
+                "Coffee",
+                "The coffee"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "They could not explore the cave .................................. a torch.",
+            "description": "",
+            "answers": [
+                "unless",
+                "without"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The shed .................................... during the storm.",
+            "description": "",
+            "answers": [
+                "damaged",
+                "was damaged"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "James sat next to the dog talking to ............................",
+            "description": "",
+            "answers": [
+                "him",
+                "himself"
+            ],
+            "correct": 1
+        }
+    ]
+}

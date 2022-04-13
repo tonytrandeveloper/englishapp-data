@@ -1,0 +1,55 @@
+{
+    "id": "bd28fba942f74c6788bda405ab2c2305",
+    "title": "Gap Fills",
+    "questions": [
+        {
+            "question": "She is not the right candidate for the job, ................................?",
+            "description": "",
+            "answers": [
+                "isn't she",
+                "is she",
+                "hasn't she"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ........................................... a phone call ten minutes ago.",
+            "description": "",
+            "answers": [
+                "had",
+                "have had",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He gave me ................................... advice.",
+            "description": "",
+            "answers": [
+                "an",
+                "piece of",
+                "a piece of"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He asked me to ....................................... him one thousand dollars.",
+            "description": "",
+            "answers": [
+                "borrow",
+                "lend"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Violence perpetrated against women ...................................",
+            "description": "",
+            "answers": [
+                "must be condemned",
+                "must condemn",
+                "be condemned"
+            ],
+            "correct": 0
+        }
+    ]
+}

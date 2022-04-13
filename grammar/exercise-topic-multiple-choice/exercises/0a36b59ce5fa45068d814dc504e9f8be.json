@@ -1,0 +1,104 @@
+{
+    "id": "0a36b59ce5fa45068d814dc504e9f8be",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "There was ......................... anything to eat.",
+            "description": "",
+            "answers": [
+                "hardly",
+                "almost",
+                "hard"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There ...................... a few boys playing in the garden.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "...................... at the door he demanded admission.",
+            "description": "",
+            "answers": [
+                "Knocking",
+                "Knocked",
+                "Having knocked"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Would you mind ................... a bit?",
+            "description": "",
+            "answers": [
+                "moving",
+                "to move",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Why don’t you .................. listen to me?",
+            "description": "",
+            "answers": [
+                "ever",
+                "never"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You need not ...................... on Sundays.",
+            "description": "",
+            "answers": [
+                "work",
+                "to work",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You had better ........................ his permission before using his computer.",
+            "description": "",
+            "answers": [
+                "to seek",
+                "seek",
+                "sought"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Beethoven is greater ....................... composers of music.",
+            "description": "",
+            "answers": [
+                "than any",
+                "than",
+                "than most other"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I prefer watching TV .................. reading books.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "for"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He used ................... poems when he was a student.",
+            "description": "",
+            "answers": [
+                "write",
+                "to write",
+                "to writing"
+            ],
+            "correct": 1
+        }
+    ]
+}

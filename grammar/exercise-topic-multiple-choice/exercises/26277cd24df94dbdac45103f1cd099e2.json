@@ -1,0 +1,126 @@
+{
+    "id": "26277cd24df94dbdac45103f1cd099e2",
+    "title": "Relative Pronouns Exercise",
+    "questions": [
+        {
+            "question": "The crow dropped the piece of cheese ………………………. the fox snapped up immediately.",
+            "description": "We use which to refer to things.",
+            "answers": [
+                "which",
+                "who",
+                "whom"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "People …………………....…. live in glass houses must not throw stones.",
+            "description": "In identifying relative clauses, both who and that can be used to refer to people.",
+            "answers": [
+                "who",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Last year we visited the Leaning Tower of Pisa …………………….. is a great architectural marvel.",
+            "description": "In non-identifying relative clauses, we cannot use that. A non-identifying relative clause merely provides additional information. It does not identify its antecedent.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Where is the book ……………………… I left here yesterday?",
+            "description": "In identifying relative clauses, both which and that can be used to refer to things.",
+            "answers": [
+                "that",
+                "which",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "It was a wretched hut ……………………….. she lived.",
+            "description": "When we separate these two clauses, we get: it was a wretched hut she lived in it.\r\nWhen we combine them we replace the prepositional phrase ‘in it’ with ‘in which’.\r\n",
+            "answers": [
+                "that",
+                "which",
+                "in which"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Napoleon, ……………………… the French admire, was a great General.",
+            "description": "Napoleon was a great General. The French admire him. We need ‘whom’ to replace ‘him’.",
+            "answers": [
+                "which",
+                "whom",
+                "that"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The boys gave a loud shout ………………………. was heard across the park.",
+            "description": "We use which to refer to things and ideas.",
+            "answers": [
+                "which",
+                "what",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The conference ………………….. was held at a Five Star hotel was a huge success.",
+            "description": "In identifying relative clauses, both which and that can be used to refer to things.",
+            "answers": [
+                "which",
+                "that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The boy spoke to the soldier …………………….. arm was in a sling.",
+            "description": "When we separate the clauses, we get: the boy spoke to the soldier his arm was in a sling. To replace ‘his’ we use ‘whose’.",
+            "answers": [
+                "who",
+                "which",
+                "whose"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The captain praised Martin, …………………. bowling was very good.",
+            "description": "When we separate the clauses, we get:\r\nThe captain praised Martin.\r\nHis bowling was very good.\r\nTo replace ‘his’ we use ‘whose’.",
+            "answers": [
+                "who",
+                "whose",
+                "whom"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "James, ……………………… is my cousin, is a pilot.",
+            "description": "In non-identifying relative clauses, we cannot use that. A non-identifying relative clause merely provides additional information. It does not identify the antecedent.",
+            "answers": [
+                "who",
+                "whom",
+                "that"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "That girl ……………………… you see there sings very well.",
+            "description": "The girl sings very well. You see her there. To replace 'her' we use 'whom'.",
+            "answers": [
+                "whom",
+                "which",
+                "whose"
+            ],
+            "correct": 0
+        }
+    ]
+}

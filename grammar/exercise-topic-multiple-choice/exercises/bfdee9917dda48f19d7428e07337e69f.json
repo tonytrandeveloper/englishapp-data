@@ -1,0 +1,126 @@
+{
+    "id": "bfdee9917dda48f19d7428e07337e69f",
+    "title": "Parts Of Speech Exercise",
+    "questions": [
+        {
+            "question": "He accumulated a fortune buying and selling used cars. Identify the noun.",
+            "description": "A noun refers to a person, place, thing or idea. ",
+            "answers": [
+                "accumulated",
+                "fortune",
+                "selling"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The drawing of the house is accurate in every detail. Identify the adjective.",
+            "description": "",
+            "answers": [
+                "drawing",
+                "house",
+                "accurate"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She has acquired a working knowledge of French. Identify the verb.",
+            "description": "Working is a present participle. Present participles are not verbs.",
+            "answers": [
+                "acquired",
+                "working",
+                "knowledge"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He was criticized for one careless act. Identify the adjective.",
+            "description": "Careless modifies the noun act.",
+            "answers": [
+                "criticized",
+                "careless",
+                "for"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Act now and save money during our annual sale. Identify the conjunction.",
+            "description": "",
+            "answers": [
+                "now",
+                "and",
+                "during"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is an acquisitive person, always wanting things. Identify the adverb.",
+            "description": "",
+            "answers": [
+                "acquisitive",
+                "always",
+                "wanting"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "A gentleman must conduct himself well in any situation. Identify the pronoun.",
+            "description": "",
+            "answers": [
+                "gentleman",
+                "conduct",
+                "himself"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Addition is taught before subtraction. Identify the preposition.",
+            "description": "",
+            "answers": [
+                "addition",
+                "taught",
+                "before"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The chameleon adapts to the surroundings by changing color. Identify the verb.",
+            "description": "",
+            "answers": [
+                "adapts",
+                "surroundings",
+                "changing"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Let’s add up the cost of all our purchases. Identify the preposition.",
+            "description": "",
+            "answers": [
+                "add",
+                "up",
+                "our"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "All nations must work for the accomplishment of peace. Identify the adjective.",
+            "description": "All modifies the noun nations.",
+            "answers": [
+                "All",
+                "accomplishment",
+                "peace"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am an adult and I expect to be treated accordingly. Identify the adverb.",
+            "description": "Most words ending in ly are adverbs. Adverbs modify verbs, adjectives or other adverbs. ",
+            "answers": [
+                "adult",
+                "treated",
+                "accordingly"
+            ],
+            "correct": 2
+        }
+    ]
+}

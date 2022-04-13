@@ -1,0 +1,126 @@
+{
+    "id": "a4ae2dba8ad84b04b4e35bf7ddfd4ca1",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I earn ………………………. money than my wife.",
+            "description": "We use less with uncountable nouns and fewer with countable nouns.",
+            "answers": [
+                "less",
+                "lesser",
+                "fewer"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I have got ………………………… problems than I used to have.",
+            "description": "We use fewer with plural nouns.",
+            "answers": [
+                "less",
+                "fewer",
+                "lesser"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Choose the ………………………… of the two evils.",
+            "description": "Lesser can mean smaller in a rather formal style.",
+            "answers": [
+                "less",
+                "lesser",
+                "fewer"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The government must take immediate action, lest the problem ……………………….. worse.",
+            "description": "Lest can be followed by should + infinitive or a subjunctive verb.",
+            "answers": [
+                "get",
+                "should get",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Let’s take a short break, ………………………?",
+            "description": "Shall we is used as a question tag after let’s.",
+            "answers": [
+                "shall we",
+                "let's we",
+                "should we"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "‘Let’s go for a walk, shall we?’ Yes, ………………………’",
+            "description": "Let’s is used in short answers.",
+            "answers": [
+                "we shall",
+                "let's",
+                "we can"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I don’t let the children …………………………. up late.",
+            "description": "Let is followed by an infinitive without to. ",
+            "answers": [
+                "stay",
+                "to stay",
+                "staying"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He worked ………………………….. a driver for five years.",
+            "description": "As is used to say what function or role a person or thing has.",
+            "answers": [
+                "like",
+                "as",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "……………………….. people can learn a foreign language perfectly.",
+            "description": "Only a few means the same as few. It is more common in an informal style.",
+            "answers": [
+                "Few",
+                "Only a few",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Cactuses need ……………………….. water.",
+            "description": "Only a little means the same as little.",
+            "answers": [
+                "little",
+                "only a little",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The play was …………………………. interesting.",
+            "description": "We cannot use little to modify other adjectives and adverbs.",
+            "answers": [
+                "not very",
+                "little",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I waited ……………………………… but he didn’t come.",
+            "description": "\r\nWe do not normally use long in affirmative clauses. \r\n",
+            "answers": [
+                "long",
+                "for a long time",
+                "Either could be used here"
+            ],
+            "correct": 1
+        }
+    ]
+}

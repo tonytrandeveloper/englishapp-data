@@ -1,0 +1,119 @@
+{
+    "id": "a4de4e4d2a0d4b778a47e58b04342841",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "Neither praise nor censure ………………………. to affect him.",
+            "description": "When we connect two singular nouns with neither/nor, the verb is singular.",
+            "answers": [
+                "seem",
+                "seems",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Neither he nor his servants ……………………………. aware of the happenings.",
+            "description": "When we connect a singular noun and a plural noun with neither/nor, the verb agrees with the number and person of the noun closest to it.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "No house or shop ……………………………. left unsearched.",
+            "description": "When we connect two singular nouns with or, the verb is singular.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Either he or I ……………………………… mistaken.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "am",
+                "are",
+                "is"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Either you or he ……………………………… right.",
+            "description": "When we connect two nouns with either/or, the verb agrees in number and person with the noun closest to it.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "One of them ……………………………… agreed to come.",
+            "description": "Here the subject is the singular noun one.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "None of these books ……………………………. taught me anything worthwhile.",
+            "description": "None is usually followed by a singular verb.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "James, who ………………………….. my friend, has agreed to come with me.",
+            "description": "The verb in the relative clause agrees with its antecedent in number and person.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I who …………………………….. your guardian will take care of you.",
+            "description": "The verb in the relative clause agrees with its antecedent in number and person.",
+            "answers": [
+                "am",
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A lot of work ………………………………. to be done.",
+            "description": "When a lot of is followed by an uncountable noun, the verb is singular in number.",
+            "answers": [
+                "needs",
+                "need"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A lot of people ……………………………….. to buy cars.",
+            "description": "When a lot of followed by a plural noun, the verb is plural in number.",
+            "answers": [
+                "want",
+                "wants"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Plenty of books …………………………….. available on this subject.",
+            "description": "",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        }
+    ]
+}

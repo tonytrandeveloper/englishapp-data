@@ -1,0 +1,98 @@
+{
+    "id": "9125e28b0c6a4ae4a4929f61f0fa8123",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "The boy looked ........................",
+            "description": "",
+            "answers": [
+                "pail",
+                "pale"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Jack and Jill went up the hill to fetch a ............................. of water.",
+            "description": "",
+            "answers": [
+                "pail",
+                "pale"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He went to ..........................",
+            "description": "",
+            "answers": [
+                "London",
+                "the London"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The children ........................... finished their homework.",
+            "description": "",
+            "answers": [
+                "have",
+                "has"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The dog licked ......................... baby.",
+            "description": "",
+            "answers": [
+                "it's",
+                "its"
+            ],
+            "correct": 1
+        },
+        {
+            "question": ".................... raining.",
+            "description": "",
+            "answers": [
+                "Its",
+                "It's"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Let’s go .................... train.",
+            "description": "",
+            "answers": [
+                "on",
+                "by",
+                "with"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They ....................... the cake in the oven.",
+            "description": "",
+            "answers": [
+                "made",
+                "baked"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The movie was ..........................",
+            "description": "",
+            "answers": [
+                "disinteresting",
+                "uninteresting"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The man ....................... his wife to look after their children.",
+            "description": "",
+            "answers": [
+                "said",
+                "told",
+                "told to"
+            ],
+            "correct": 1
+        }
+    ]
+}

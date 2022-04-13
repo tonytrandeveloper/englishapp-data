@@ -1,0 +1,124 @@
+{
+    "id": "1f2a94d218b541a0905b81b495b26211",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "This is the house where I was ……………..",
+            "description": "Where means ‘in which’. Therefore, we don’t have to use the preposition ‘in’ at the end.",
+            "answers": [
+                "born",
+                "born in",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Do you know a shop ……………… I can find watches?",
+            "description": "Where can mean ‘at which’.",
+            "answers": [
+                "where",
+                "at where",
+                "which"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Do you know the reason …………….. she is angry with me?",
+            "description": "Both why and for which are possible here.",
+            "answers": [
+                "for why",
+                "why",
+                "which",
+                "for which"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "I will never forget the day ……………. I met Sally.",
+            "description": "When can mean ‘on which’.",
+            "answers": [
+                "when",
+                "on when",
+                "on which"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Here is an article ……………….. might interest you.",
+            "description": "A relative pronoun acts as the subject or object of the verb in the relative clause. It is therefore wrong to use another subject in the clause.",
+            "answers": [
+                "which",
+                "which it",
+                "it which"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "This is the man ……………. my dog bit.",
+            "description": "Both who and whom are possible here. Whom is used in a formal style.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "This is the sixth time you ………………… that question.",
+            "description": "We use the present perfect tense in sentences constructed with 'this is the first / second / last / best etc'.",
+            "answers": [
+                "asked",
+                "have asked",
+                "had asked"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I don’t think …………….. she is coming.",
+            "description": "Here the clause ‘that she is coming’ is the object of the verb think. We use ‘that’ to introduce noun clauses which act as objects.",
+            "answers": [
+                "that",
+                "so that"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You ……………… tell Martha. She already knows.",
+            "description": "Needn’t shows that there is no obligation.",
+            "answers": [
+                "needn't",
+                "mustn't",
+                "shouldn't"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You …………….. tell Martha. I don’t want her to know.",
+            "description": "Mustn’t shows prohibition.",
+            "answers": [
+                "needn't",
+                "mustn't"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He wanted to know when .................................",
+            "description": "In reported questions the subject normally comes before the verb.",
+            "answers": [
+                "was I leaving",
+                "I was leaving"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He suggested ......................... change my toothbrush.",
+            "description": "Suggest cannot be followed by a to-infinitive. ",
+            "answers": [
+                "me to",
+                "that I should",
+                "Either could be used here"
+            ],
+            "correct": 1
+        }
+    ]
+}

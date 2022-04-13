@@ -1,0 +1,126 @@
+{
+    "id": "456e5560714a4e45992f3e7cab1b18f9",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "He is intelligent ………………… hard working.",
+            "description": "Either as well as or and can be used here. ",
+            "answers": [
+                "as well as",
+                "as well",
+                "and"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "………………….. the girl tried her best, she could not get the first rank.",
+            "description": "Although is used to connect two clauses. ",
+            "answers": [
+                "Despite",
+                "Although",
+                "However"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "………………….. he is not educated, he has great practical wisdom.",
+            "description": "Though is used to connect two contrasting ideas. ",
+            "answers": [
+                "Though",
+                "As",
+                "If"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The doctors treated her well …………………… they could not save her.",
+            "description": "But is used to connect two contrasting ideas.",
+            "answers": [
+                "but",
+                "however",
+                "and"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The mother as well as her children …………………… waiting there.",
+            "description": "When you connect a singular and a plural verb with as well as, the verb agrees with the first noun.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He treated me …………………….. I was a stranger to him.",
+            "description": "",
+            "answers": [
+                "as",
+                "as if",
+                "as though"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "………………….. it was raining, he opened the umbrella.",
+            "description": "As gives the reason. ",
+            "answers": [
+                "As",
+                "If",
+                "While"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "……………………. the servant was honest, his master trusted him.",
+            "description": "All of these words can indicate the reason. ",
+            "answers": [
+                "As",
+                "Since",
+                "Because",
+                "All of the above"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The hall is not …………………… to accommodate all the students.",
+            "description": "When enough is an adverb modifying an adjective or adverb, it goes after the adjective/adverb modified it. ",
+            "answers": [
+                "too big",
+                "enough big",
+                "big enough"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He is ………………….. proud to beg.",
+            "description": "",
+            "answers": [
+                "so",
+                "too",
+                "much"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He borrowed some money from his friends ……………………. he could buy a car.",
+            "description": "So that indicates purpose. ",
+            "answers": [
+                "so as to",
+                "in order to",
+                "so that"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He offered his daughter a prize, so that she ……………………. work hard.",
+            "description": "When the verb in the main clause is in the past tense, the verb in the subordinate clause will also be in the past tense. ",
+            "answers": [
+                "might",
+                "will",
+                "can"
+            ],
+            "correct": 0
+        }
+    ]
+}

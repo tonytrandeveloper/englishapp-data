@@ -1,0 +1,114 @@
+{
+    "id": "a1e95ae83a344f42930fd0e98b3cfcf0",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "He works hard to support his family. Here hard is an ...........................",
+            "description": "It modifies the verb works.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She said that hard work is the secret of her success. Here hard is an .....................................",
+            "description": "It modifies the noun work.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I want to buy a fast car. Here fast is an .........................................",
+            "description": "It modifies the noun car.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "My new car goes fast. Here fast is an ..................................",
+            "description": "It modifies the verb goes.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is pretty smart. Here pretty is an ......................................",
+            "description": "Here pretty is an adverb because it modifies the adjective smart.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is old enough to make his own bed now. Here enough is an ......................................",
+            "description": "It modifies the adjective old.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Hold tight. I am going to pull you up. Here tight is an .......................................",
+            "description": "It modifies the verb hold.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She did well in the test. Here well is an ......................................",
+            "description": "Well modifies the verb did. Adverbs modify verbs.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "My blouse is tight. Here tight is an .................................",
+            "description": "Only adjectives and nouns can be the complement of be.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Please don't drive so fast. Here so is an ...........................................",
+            "description": "So is an adverb because it modifies the adjective fast.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He speaks Russian quite well. Here quite is an ........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The show was rather amusing. Here rather is an ...........................................",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        }
+    ]
+}

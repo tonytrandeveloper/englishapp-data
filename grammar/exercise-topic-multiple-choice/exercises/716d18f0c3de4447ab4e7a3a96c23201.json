@@ -1,0 +1,147 @@
+{
+    "id": "716d18f0c3de4447ab4e7a3a96c23201",
+    "title": "Change The Voice",
+    "questions": [
+        {
+            "question": "I have completed the work. / The work ........................... by me.",
+            "description": "",
+            "answers": [
+                "completed",
+                "is completed",
+                "has completed",
+                "has been completed"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Somebody has let the cat in. / The cat ........................... let in.",
+            "description": "",
+            "answers": [
+                "is",
+                "has been",
+                "has"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We may win the match. / The match ........................... by us.",
+            "description": "",
+            "answers": [
+                "may be win",
+                "may have won",
+                "may be won"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Do not insult the weak. / Let the weak ................................",
+            "description": "",
+            "answers": [
+                "not insult",
+                "not be insulted",
+                "not insulted"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The nurse is looking after the patient. / The patient ......................... after by the nurse.",
+            "description": "",
+            "answers": [
+                "is looking",
+                "is being looked",
+                "is looked"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The boy is feeding the sparrows. / The sparrows .......................... by the boy.",
+            "description": "",
+            "answers": [
+                "are fed",
+                "are being fed",
+                "have been fed"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Our army has defeated the enemy.  / The enemy ................ by our army.",
+            "description": "",
+            "answers": [
+                "is being defeated",
+                "has been defeated",
+                "is defeated"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "One should keep one’s promises. / One's promises ...........................",
+            "description": "",
+            "answers": [
+                "should keep",
+                "should kept",
+                "should be kept"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "They offered me a job. / I ........................ a job.",
+            "description": "",
+            "answers": [
+                "am offered",
+                "was offered",
+                "have been offered"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The engineers located the fault in the machine. / The fault in the machine ........................... by the engineers.",
+            "description": "",
+            "answers": [
+                "is located",
+                "was located",
+                "has been located"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Nobody could do anything. / Nothing could .......................",
+            "description": "",
+            "answers": [
+                "do",
+                "done",
+                "be done"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I was surprised at his behavior. / His behavior ...................... me.",
+            "description": "",
+            "answers": [
+                "has surprised",
+                "surprised",
+                "had surprised"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Open the door. / Let the door .......................",
+            "description": "",
+            "answers": [
+                "open",
+                "be opened",
+                "be open"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "His enemies killed him. / His enemies ....................... him.",
+            "description": "",
+            "answers": [
+                "killed",
+                "killing",
+                "have killed"
+            ],
+            "correct": 0
+        }
+    ]
+}

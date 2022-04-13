@@ -1,0 +1,102 @@
+{
+    "id": "c731934cdccf4526b7a94bb440768d3f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "................................... having many shortcomings, she is a nice woman at heart.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Despite of",
+                "Although"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "...................................... being a statesman, Winston Churchill was a writer.",
+            "description": "",
+            "answers": [
+                "In spite of",
+                "Besides",
+                "Beside"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "..................................... having a lot of money, he leads a miserable life.",
+            "description": "",
+            "answers": [
+                "Although",
+                "In spite",
+                "Despite"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "They .................................... decided to disperse the meeting.",
+            "description": "",
+            "answers": [
+                "unanimous",
+                "unanimously"
+            ],
+            "correct": 1
+        },
+        {
+            "question": ".................................... on tip-toe, he reached for the apple.",
+            "description": "",
+            "answers": [
+                "Standing",
+                "Stood"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The rain .................................... stopped, we continued our journey.",
+            "description": "",
+            "answers": [
+                "had",
+                "have",
+                "having"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She will .................................... come.",
+            "description": "",
+            "answers": [
+                "certainly",
+                "surely"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The chairman ....................................... taken his seat, the meeting began.",
+            "description": "",
+            "answers": [
+                "have",
+                "having",
+                "had"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "It is your duty ................................... your brother.",
+            "description": "",
+            "answers": [
+                "helping",
+                "to help"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "................................. a noise, the thief ran away.",
+            "description": "",
+            "answers": [
+                "Hearing",
+                "Heard",
+                "Having hearing"
+            ],
+            "correct": 0
+        }
+    ]
+}

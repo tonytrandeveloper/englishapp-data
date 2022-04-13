@@ -1,0 +1,96 @@
+{
+    "id": "5a9321cb261446ebac7a68c0f14259cd",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The pyramids …………………… . around 400 AD.",
+            "description": "",
+            "answers": [
+                "built",
+                "were built",
+                "had built"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Positive hydrogen atoms ………………….. to negative oxygen atoms.",
+            "description": "",
+            "answers": [
+                "attracted",
+                "are attracted",
+                "have attracted"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I …………………… a whole lot of information.",
+            "description": "",
+            "answers": [
+                "am send",
+                "have send",
+                "have been sent"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "We ………………….. him an invitation.",
+            "description": "",
+            "answers": [
+                "have sent",
+                "are sent",
+                "have been sending"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I ……………………… in",
+            "description": "",
+            "answers": [
+                "am born",
+                "was born",
+                "had been born"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "My shoes …………………",
+            "description": "",
+            "answers": [
+                "are wearing out",
+                "are being worn out",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She likes ……………………",
+            "description": "",
+            "answers": [
+                "looked at",
+                "looking at",
+                "being looked at"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Young children …………………",
+            "description": "",
+            "answers": [
+                "need to take care of",
+                "need to be taken care of",
+                "need taken care of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I hate ………………………",
+            "description": "",
+            "answers": [
+                "making a fool of",
+                "being made a fool of",
+                "being a fool of"
+            ],
+            "correct": 1
+        }
+    ]
+}

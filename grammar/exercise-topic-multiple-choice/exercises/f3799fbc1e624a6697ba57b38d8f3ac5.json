@@ -1,0 +1,98 @@
+{
+    "id": "f3799fbc1e624a6697ba57b38d8f3ac5",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The doctor suggested ........................................ take a vacation.",
+            "description": "",
+            "answers": [
+                "the patient to",
+                "that the patient should",
+                "that the patient to"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Learning ........................................... isn’t easy.",
+            "description": "",
+            "answers": [
+                "French",
+                "the French"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I need .............................................. sleep.",
+            "description": "",
+            "answers": [
+                "good",
+                "a good"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We had ............................................. time on the top of the mountain.",
+            "description": "",
+            "answers": [
+                "great",
+                "a great"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I am going to the hospital to see a friend who has undergone .......................................... operation.",
+            "description": "",
+            "answers": [
+                "the",
+                "an",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The more you read the ........................................... you understand.",
+            "description": "",
+            "answers": [
+                "less",
+                "lesser"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "On the way home, I saw an old beggar accompanied ............................................ a child.",
+            "description": "",
+            "answers": [
+                "by",
+                "with"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Will you please .................................................. me a copy of ‘The Old Man and the Sea’?",
+            "description": "",
+            "answers": [
+                "lend",
+                "borrow"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The man who knocked ............................................. the door was a stranger.",
+            "description": "",
+            "answers": [
+                "on",
+                "at"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "What is the difference .............................................. these cars?",
+            "description": "",
+            "answers": [
+                "between",
+                "among"
+            ],
+            "correct": 0
+        }
+    ]
+}

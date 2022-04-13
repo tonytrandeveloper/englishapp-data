@@ -1,0 +1,116 @@
+{
+    "id": "42cfa7688f3b4030b65b00cb1c763fbd",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "He was .....................… with his friends.",
+            "description": "",
+            "answers": [
+                "favorite",
+                "a favorite"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was prevented ………………..",
+            "description": "",
+            "answers": [
+                "to come",
+                "from coming"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ………………… James yesterday.",
+            "description": "",
+            "answers": [
+                "met",
+                "have met",
+                "was meeting"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "My brother is superior ……………….. you in strength.",
+            "description": "",
+            "answers": [
+                "to",
+                "than"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He did best …………………",
+            "description": "",
+            "answers": [
+                "from our class",
+                "in our class"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The summer term begins …………………",
+            "description": "",
+            "answers": [
+                "on July 1st",
+                "from July 1st"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He will be cured .....................…",
+            "description": "",
+            "answers": [
+                "from his fever",
+                "of his fever"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The temple is built ………………..",
+            "description": "",
+            "answers": [
+                "by stone",
+                "of stone"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He ………………… a raise.",
+            "description": "",
+            "answers": [
+                "asked",
+                "asked for"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was …………….. me.",
+            "description": "",
+            "answers": [
+                "angry on",
+                "angry with",
+                "angry to"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They deal .....................… antique furniture.",
+            "description": "",
+            "answers": [
+                "in",
+                "with"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He ..................... by his grandparents.",
+            "description": "",
+            "answers": [
+                "was risen",
+                "was raised"
+            ],
+            "correct": 1
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "id": "5361525b99f84d8fa1bebce01dbc5dd8",
+    "title": "There Is Or There Are",
+    "questions": [
+        {
+            "question": "There ............................ someone at the gate.",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "............................ there anything we can do about it?",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There .................................. so many children in the park.",
+            "description": "When the noun following there is plural, use a plural verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "There .................................. lots of apples on the tree.",
+            "description": "When the noun following there is plural, use a plural verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Ten or fifteen years ago, there ............................. much less traffic on the roads.",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There ................................ so little time.",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There ................................ too much violence on television.",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "................................ there anything good on television tonight?",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "Is",
+                "Are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There .................................. anything we can do.",
+            "description": "When the noun following there is singular, use a singular verb.",
+            "answers": [
+                "isn't",
+                "aren't"
+            ],
+            "correct": 0
+        },
+        {
+            "question": ".................................. there any letters for me?",
+            "description": "When the noun following there is plural, use a plural verb.",
+            "answers": [
+                "Are",
+                "Is"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There ..................................... no libraries in my village.",
+            "description": "When the noun following there is plural, use a plural verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "There .................................... enough volunteers.",
+            "description": "When the noun following there is plural, use a plural verb.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        }
+    ]
+}

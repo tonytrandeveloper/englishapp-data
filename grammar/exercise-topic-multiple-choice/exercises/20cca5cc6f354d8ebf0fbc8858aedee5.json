@@ -1,0 +1,123 @@
+{
+    "id": "20cca5cc6f354d8ebf0fbc8858aedee5",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I ..................... her since the day before yesterday",
+            "description": "The present perfect is more common with the time expressions for and since.",
+            "answers": [
+                "didn't see",
+                "haven't seen",
+                "hadn't seen"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Professionals ..................... nurses and teachers are often underpaid.",
+            "description": "Either such as or like is possible here. Such as is more formal. ",
+            "answers": [
+                "such like",
+                "as",
+                "such as",
+                "like"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The girl ....................... sits next to Sam is his niece.",
+            "description": "Use who to refer to people use which to refer to things. ",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You …………………………….. do something to improve the situation.",
+            "description": "Either should or ought to is possible here. ",
+            "answers": [
+                "ought to",
+                "ought",
+                "should"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You ......................... permit this.",
+            "description": "Must is a modal auxiliary. Questions and negatives are made without do.",
+            "answers": [
+                "must not",
+                "must don't",
+                "don't must"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I opened the door but …………………... was there.",
+            "description": "Not anybody means the same as nobody.",
+            "answers": [
+                "anybody",
+                "nobody"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "This is the sixth time you …………………………….. the same question.",
+            "description": "The present perfect is common after this is the first/second/last etc. ",
+            "answers": [
+                "asked",
+                "have asked",
+                "had asked"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was a ……………………………. child who rarely spoke to anyone.",
+            "description": "",
+            "answers": [
+                "quite",
+                "quiet"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is the ……………………………. girl in the class.",
+            "description": "Chirpiest is the superlative form of chirpy.",
+            "answers": [
+                "most chirpy",
+                "chirpiest",
+                "most chirpiest"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I failed the test …………………………….. I hadn’t prepared well.",
+            "description": "Because is a conjunction because of is a preposition. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I worked ………………………. the best of my ability.",
+            "description": "",
+            "answers": [
+                "for",
+                "to",
+                "with"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He assaulted his brother …………………………… he was jealous of him.",
+            "description": "Because is a conjunction. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0
+        }
+    ]
+}

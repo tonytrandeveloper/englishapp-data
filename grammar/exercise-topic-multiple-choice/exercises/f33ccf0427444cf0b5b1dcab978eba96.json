@@ -1,0 +1,128 @@
+{
+    "id": "f33ccf0427444cf0b5b1dcab978eba96",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "He told me ……………………… interesting story yesterday.",
+            "description": "Use a/an to mean one. A singular countable noun requires an article.",
+            "answers": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He has ………………….. keen eye for detail.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "……………………. life is complicated.",
+            "description": "We do not normally use an article with uncountable nouns when we are talking about things in general. ",
+            "answers": [
+                "A",
+                "The",
+                "No article"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "…………………… minister ordered ………………………. official inquiry into ……………………… incident.",
+            "description": "",
+            "answers": [
+                "The, an, an",
+                "A, the, the",
+                "The, an, the"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He has no interest in …………………….. politics.",
+            "description": "We do not normally use articles with the names of subjects. ",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She learned ………………………… philosophy at university.",
+            "description": "We do not normally use articles with the names of subjects. ",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Raju is …………………….. accomplished cook. ………………………. dinner he gave us yesterday was delicious.",
+            "description": "",
+            "answers": [
+                "an, The",
+                "the, The",
+                "an, A"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I reserved ……………………. table for three.",
+            "description": "",
+            "answers": [
+                "a",
+                "the",
+                "No article"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "................................ suspect was taken into …………………………. custody.",
+            "description": "Suspect is a singular countable noun we have to use an article with singular countable nouns there is no article in the expression take into custody.",
+            "answers": [
+                "No articles are required",
+                "The, no article",
+                "No article, the"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "…………………………. person who died in ……………………… riot was ……………………. social activist.",
+            "description": "We use the to identify someone. A/an is an indefinite article and it does not mention who we are talking about.",
+            "answers": [
+                "The, the, a",
+                "A, a, the",
+                "The, the, the",
+                "A, a, a"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "…………………….. tea is very strong. Please pour some more milk into it.",
+            "description": "",
+            "answers": [
+                "A",
+                "The",
+                "No article"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What ……………………… pity that you failed ……………………….. test.",
+            "description": "The correct expression is what a pity.",
+            "answers": [
+                "a, the",
+                "the, the",
+                "No articles"
+            ],
+            "correct": 0
+        }
+    ]
+}

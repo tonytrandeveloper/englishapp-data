@@ -1,0 +1,105 @@
+{
+    "id": "06c33098c3cd4f90909c29af1f939c2e",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The train is now …………………. the Victoria Terminus.",
+            "description": "",
+            "answers": [
+                "approaching at",
+                "approaching",
+                "approaching to",
+                "approaching on"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She ………………. her disapproval of the show by leaving the auditorium.",
+            "description": "",
+            "answers": [
+                "evinced",
+                "saw",
+                "envisaged",
+                "ensued"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Her questions must have provoked him for they ……………….. a bitter retort.",
+            "description": "",
+            "answers": [
+                "evoked",
+                "evinced",
+                "invoked",
+                "resulted"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Her silence merely ……………….. the problem.",
+            "description": "",
+            "answers": [
+                "solved",
+                "improved",
+                "accelerated",
+                "exacerbated"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "This book is an ..................... account of the author’s life.",
+            "description": "",
+            "answers": [
+                "exhausted",
+                "exhaustive",
+                "peripheral",
+                "attractive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They bought the apartment at an ………………….. price.",
+            "description": "",
+            "answers": [
+                "extreme",
+                "exorbitant",
+                "large",
+                "high"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Her shameless affair is the ……………….. in the family cupboard.",
+            "description": "",
+            "answers": [
+                "secret",
+                "skeleton",
+                "lock",
+                "bone"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "If we both put our ……………….. on the table it would be easier to come to an agreement.",
+            "description": "",
+            "answers": [
+                "cards",
+                "hands",
+                "plans",
+                "wallets"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "That noise is driving me up the ………………….",
+            "description": "",
+            "answers": [
+                "wall",
+                "roof",
+                "hill",
+                "road"
+            ],
+            "correct": 0
+        }
+    ]
+}

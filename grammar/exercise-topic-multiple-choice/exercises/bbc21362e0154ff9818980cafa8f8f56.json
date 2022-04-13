@@ -1,0 +1,115 @@
+{
+    "id": "bbc21362e0154ff9818980cafa8f8f56",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "She didn't allow me .................................. for the drink.",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "pay",
+                "to pay",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I won't let you .................................... my room.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "to enter",
+                "enter"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You ought .................................. a doctor.",
+            "description": "Ought is followed by an infinitive with to.",
+            "answers": [
+                "consult",
+                "to consult"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was unable ................................... the question.",
+            "description": "Unable is followed by an infinitive with to. ",
+            "answers": [
+                "answer",
+                "to answer"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Mother made me ................................ the room.",
+            "description": "Make is followed by an infinitive without to.",
+            "answers": [
+                "clean",
+                "to clean"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I forgot ................................. the car.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "to lock",
+                "lock"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I heard them ....................................... in the next room.",
+            "description": "Hear is followed by an infinitive without to.",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You needn't ....................................... for that drink.",
+            "description": "When need is a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "to pay",
+                "pay"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You don't need ...................................... for me.",
+            "description": "When need is an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was forced ..................................",
+            "description": "",
+            "answers": [
+                "leave",
+                "to leave"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You should encourage him .................................... another attempt.",
+            "description": "Encourage is followed by an infinitive with to.",
+            "answers": [
+                "make",
+                "to make"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He refused ..................................... to me.",
+            "description": "",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 1
+        }
+    ]
+}

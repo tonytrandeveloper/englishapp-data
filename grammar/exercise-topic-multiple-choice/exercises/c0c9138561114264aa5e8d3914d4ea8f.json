@@ -1,0 +1,124 @@
+{
+    "id": "c0c9138561114264aa5e8d3914d4ea8f",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I ..................... him for the past month.",
+            "description": "The present perfect is more common with the time expressions for and since.",
+            "answers": [
+                "haven't met",
+                "didn't meet",
+                "hadn't"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Professionals ..................... doctors and teachers are more useful than artists.",
+            "description": "We use such as to give examples.",
+            "answers": [
+                "such as",
+                "such that",
+                "such"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The girl ....................... walked in right now is my niece.",
+            "description": "We use who to refer to people.",
+            "answers": [
+                "who",
+                "whom",
+                "which"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Something .......................... be done to improve the situation.",
+            "description": "Ought is followed by an infinitive with to. Ought to is similar to should.",
+            "answers": [
+                "ought to",
+                "ought",
+                "should"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You ......................... leave him alone.",
+            "description": "Must is a modal auxiliary. Questions and negatives are made without do.",
+            "answers": [
+                "must not",
+                "don't must",
+                "not must"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I opened the door but I didn't see ......................",
+            "description": "Not anybody means the same as nobody.",
+            "answers": [
+                "anybody",
+                "nobody",
+                "any body"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I rang the doorbell six times but ........................ opened the door.",
+            "description": "",
+            "answers": [
+                "anybody",
+                "nobody",
+                "no body"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She didn't ........................... recognize me.",
+            "description": "",
+            "answers": [
+                "quite",
+                "rather",
+                "much"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "This is the .......................... movie I have seen.",
+            "description": "Worst is the superlative form of bad.",
+            "answers": [
+                "worse",
+                "baddest",
+                "worst"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "We got into trouble …………………………. your stupidity.",
+            "description": "Because of is a preposition. It is used before a noun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He worked ………………………. the best of his ability.",
+            "description": "",
+            "answers": [
+                "at",
+                "to",
+                "for"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Cain struck Abel …………………………… he was jealous of him.",
+            "description": "Because is a conjunction. It is used before a clause.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "79507a2165a446c88df7b1ba7349c9f2",
+    "title": "Active and Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "Malini ............................. a colorful hat for her daughter.",
+            "description": "We need an active verb here because the subject is the doer of the action. ",
+            "answers": [
+                "bought",
+                "was bought",
+                "have bought"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The dog ............................... up in the kennel by its master.",
+            "description": "The dog does not perform the action here. It is the recipient and hence we need a passive verb form here. ",
+            "answers": [
+                "locked",
+                "was locked",
+                "have locked"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The winners ............................ by the principal.",
+            "description": "We use passive forms when the object is the doer of the action. ",
+            "answers": [
+                "praised",
+                "have praised",
+                "were praised"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Susie ............................ a chocolate cake for her sister's birthday.",
+            "description": "We need an active verb form here because the subject is the doer of the action.",
+            "answers": [
+                "baked",
+                "was baked",
+                "will be baked"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Who ......................... this book on Greek mythology?",
+            "description": "",
+            "answers": [
+                "wrote",
+                "has wrote",
+                "was written"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The salesman .......................... all the questions patiently.",
+            "description": "The active verb in the simple past tense is the second form of the verb. ",
+            "answers": [
+                "answered",
+                "was answered",
+                "has answering"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The instructor ........................... the players to be careful.",
+            "description": "We use active verb forms to say who performed the action. ",
+            "answers": [
+                "was advised",
+                "has advising",
+                "advised"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She ............................. in",
+            "description": "The present perfect tense is not used with past time adverbs. ",
+            "answers": [
+                "was graduated",
+                "graduated",
+                "has graduated"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The police .................................. the stolen goods.",
+            "description": "We use an active verb here because the subject is the doer of the action. The present perfect is used to talk about finished actions when there is no time reference. ",
+            "answers": [
+                "was recovering",
+                "have recovered",
+                "was recovered"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The patient .............................. to the intensive care unit.",
+            "description": "We need a passive verb here because the action is not performed by the patient. ",
+            "answers": [
+                "shifted",
+                "was shifted",
+                "was shifting"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The parents ............................. the children abroad for higher education.",
+            "description": "The parents perform the action here and hence we use the active verb.",
+            "answers": [
+                "sent",
+                "were sent",
+                "was sending"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A doctor ........................... to be compassionate.",
+            "description": "We use the simple present tense to talk about a general truth. ",
+            "answers": [
+                "need",
+                "needs",
+                "is needing"
+            ],
+            "correct": 1
+        }
+    ]
+}

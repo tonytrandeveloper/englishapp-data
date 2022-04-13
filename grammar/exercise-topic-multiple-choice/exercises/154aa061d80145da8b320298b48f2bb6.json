@@ -1,0 +1,70 @@
+{
+    "id": "154aa061d80145da8b320298b48f2bb6",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The peasant told the traveler that the weather was stormy and the way ……………….. long.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The only inhabitants of the village said that they ..................... anyone cross the hills in deep snow.",
+            "description": "",
+            "answers": [
+                "never knew",
+                "had never known",
+                "have never known",
+                "had never been known"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was so tired that he …………………. barely stand.",
+            "description": "",
+            "answers": [
+                "would",
+                "should",
+                "could"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "If you had asked me I ………………… you with pleasure.",
+            "description": "",
+            "answers": [
+                "will help",
+                "would have helped",
+                "would help",
+                "would have been helped"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I was going to have lunch when they ………………… me.",
+            "description": "",
+            "answers": [
+                "had called",
+                "have called",
+                "called",
+                "call"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "No one could explain how the prisoner ...................... from the prison.",
+            "description": "",
+            "answers": [
+                "escaped",
+                "has escaped",
+                "had escaped",
+                "was escaped"
+            ],
+            "correct": 2
+        }
+    ]
+}

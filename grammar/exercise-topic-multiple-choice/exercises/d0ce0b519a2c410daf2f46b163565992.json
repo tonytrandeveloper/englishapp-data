@@ -1,0 +1,82 @@
+{
+    "id": "d0ce0b519a2c410daf2f46b163565992",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "In all ................................ he will never come back.",
+            "description": "",
+            "answers": [
+                "probable",
+                "probability"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He asked me where .................................... going.",
+            "description": "",
+            "answers": [
+                "I was",
+                "was I"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "No sooner had the chief guest arrived .................................. the play began.",
+            "description": "",
+            "answers": [
+                "than",
+                "then"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "His behavior surprised .........................................",
+            "description": "",
+            "answers": [
+                "I",
+                "me"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is certain to ....................................",
+            "description": "",
+            "answers": [
+                "success",
+                "succeed",
+                "successful"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is better than ....................................... student in the class.",
+            "description": "",
+            "answers": [
+                "any",
+                "other",
+                "any other"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He is ................................. weak that he cannot stand up without help.",
+            "description": "",
+            "answers": [
+                "so",
+                "too",
+                "very"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He rushed ..................................... the bridge with the gun tucked under his arm.",
+            "description": "",
+            "answers": [
+                "toward",
+                "towards",
+                "Either could be used here"
+            ],
+            "correct": 2
+        }
+    ]
+}

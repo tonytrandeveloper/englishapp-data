@@ -1,0 +1,126 @@
+{
+    "id": "7e1b5b3f3a0a4820aa7be433c9de9a3f",
+    "title": "Omission Of That",
+    "questions": [
+        {
+            "question": "Sophia ………………… she was feeling better.",
+            "description": "That can be left out after common reporting verbs like say, think and suggest.",
+            "answers": [
+                "said",
+                "said that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I …………………….. she was lying.",
+            "description": "That can be left out after common reporting verbs like say, think and suggest.",
+            "answers": [
+                "thought",
+                "thought that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The doctor ………………………… I should take a holiday.",
+            "description": "That can be left out after common reporting verbs like say, think and suggest.",
+            "answers": [
+                "suggested",
+                "suggested that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She ………………………… she was not coming.",
+            "description": "That cannot be dropped after reply, telegraph or shout.",
+            "answers": [
+                "replied that",
+                "replied",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She …………………………. she was busy.",
+            "description": "That cannot be dropped after shout.",
+            "answers": [
+                "shouted",
+                "shouted that",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The judge paid no attention to the ……………………………. she was unhappy at home.",
+            "description": "That cannot be dropped after nouns.",
+            "answers": [
+                "fact",
+                "fact that",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She disagreed with my ………………………….. education should be free for all.",
+            "description": "That cannot be dropped after a noun.",
+            "answers": [
+                "view",
+                "view that",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Come in quietly ……………………….. the baby does not wake up.",
+            "description": "That can be dropped after so that, such ….that.",
+            "answers": [
+                "so",
+                "so that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You can borrow my car …………………….. you bring it back tomorrow.",
+            "description": "That can be dropped after provided. ",
+            "answers": [
+                "provided",
+                "provided that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She is the woman ………………………. met in Mumbai.",
+            "description": "When the relative pronoun is the object in a relative clause, it can be dropped out.",
+            "answers": [
+                "we",
+                "that we",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "This is the house ………………………….. am thinking about buying.",
+            "description": "When the relative pronoun is the object in a relative clause, it can be dropped out.",
+            "answers": [
+                "I",
+                "that I",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "We were .................................... she won.",
+            "description": "",
+            "answers": [
+                "surprised",
+                "surprised that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        }
+    ]
+}

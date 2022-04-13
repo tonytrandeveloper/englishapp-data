@@ -1,0 +1,71 @@
+{
+    "id": "3fff830f605f4e2c8a53190d1e880d9b",
+    "title": "Sentence Improvement Exercise",
+    "questions": [
+        {
+            "question": ".............................. the airplane took off.",
+            "description": "",
+            "answers": [
+                "The fog lifting",
+                "Lifting the fog",
+                "The fog lifted",
+                "The fog having lifted"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The accused complained of ......................... by the police.",
+            "description": "",
+            "answers": [
+                "tortured",
+                "having been tortured",
+                "being tortured",
+                "having tortured"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The ocean .........................., they abandoned the voyage.",
+            "description": "",
+            "answers": [
+                "was rough",
+                "been rough",
+                "being rough",
+                "is rough"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "We were all happy at ....................... awarded the Nobel Prize.",
+            "description": "",
+            "answers": [
+                "Mother Teresa’s being",
+                "Mother Teresa being",
+                "Mother Teresa been"
+            ],
+            "correct": 0
+        },
+        {
+            "question": ".......................... a rainy day, we had to abandon the match.",
+            "description": "",
+            "answers": [
+                "It being",
+                "Being it",
+                "It been",
+                "Been it"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I ....................... the plants. Just after I finished watering it started raining.",
+            "description": "",
+            "answers": [
+                "didn't need to water",
+                "hadn't watered",
+                "needn’t have watered",
+                "needn't water"
+            ],
+            "correct": 2
+        }
+    ]
+}

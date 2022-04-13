@@ -1,0 +1,126 @@
+{
+    "id": "7e8980b2b3d94e22aba486bdeb92bf39",
+    "title": "Sentence Correction Exercise",
+    "questions": [
+        {
+            "question": "He went to work despite of his illness.",
+            "description": "Despite is the preposition. It does not take of after it. ",
+            "answers": [
+                "to",
+                "despite",
+                "of"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Raju, who he is my best friend, is a writer.",
+            "description": "The relative pronoun acts as the subject or object of the relative clause. It replaces words like he, him, they, them etc. It is, therefore, wrong to repeat the pronoun in the relative clause. ",
+            "answers": [
+                "who",
+                "best",
+                "he"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "No matter what that I do, I can't make her happy.",
+            "description": "",
+            "answers": [
+                "what",
+                "that",
+                "make"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is busy at the work and won't be home before",
+            "description": "The correct expression is 'at work'.",
+            "answers": [
+                "at",
+                "the",
+                "be"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I have decided to quit my job a week ago.",
+            "description": "We do not use the present perfect tense with past time expressions like ago. ",
+            "answers": [
+                "have",
+                "to",
+                "a"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You should complain of if you are not happy with the service you receive.",
+            "description": "The preposition of is not required here. ",
+            "answers": [
+                "of",
+                "if",
+                "with"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You had better not to wake him up when get home.",
+            "description": "Had better is followed by an infinitive without to. ",
+            "answers": [
+                "had",
+                "not",
+                "to"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You should tell to me exactly what happened there.",
+            "description": "There is no preposition between tell and its object. ",
+            "answers": [
+                "should",
+                "to",
+                "what"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is clever but he lacks of experience.",
+            "description": "The verb lack is followed by direct objects without prepositions. ",
+            "answers": [
+                "but",
+                "of",
+                "is"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She does not resemble to either of her parents.",
+            "description": "Resemble is followed by direct objects without prepositions. ",
+            "answers": [
+                "does",
+                "to",
+                "of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I have written to every my friend I have.",
+            "description": "Every cannot be used with possessive adjectives. ",
+            "answers": [
+                "to",
+                "every",
+                "my"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I don't speak of either French or German.",
+            "description": "",
+            "answers": [
+                "speak",
+                "of",
+                "either"
+            ],
+            "correct": 1
+        }
+    ]
+}

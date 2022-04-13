@@ -1,0 +1,76 @@
+{
+    "id": "2d6a08ed0a0242a691da33d4a61ba16b",
+    "title": "Conditional Clauses Exercise",
+    "questions": [
+        {
+            "question": "He will come if you ………………… him.",
+            "description": "",
+            "answers": [
+                "invite",
+                "invited",
+                "would invite"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "If you …………………. the function, he will be happy.",
+            "description": "",
+            "answers": [
+                "attend",
+                "attended",
+                "had attended"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "If you …………………. the invitation, he would be happy.",
+            "description": "",
+            "answers": [
+                "accept",
+                "accepted",
+                "had accepted"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She wouldn’t have died, if she ………………….. proper medical care.",
+            "description": "",
+            "answers": [
+                "receives",
+                "received",
+                "had received"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He will not succeed unless he ………………… hard.",
+            "description": "",
+            "answers": [
+                "works",
+                "worked",
+                "had worked"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "If she ………………….. honest, she would not have lost her job.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He cannot go to work unless he ………………….. from his illness.",
+            "description": "",
+            "answers": [
+                "recovers",
+                "recovered",
+                "had recovered"
+            ],
+            "correct": 0
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "id": "7e010f957dd9431e941ddeb9309dcacd",
+    "title": "Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "I may leave tomorrow. /James said that he ......................... leave the next day.",
+            "description": "May in direct speech becomes might in indirect speech.",
+            "answers": [
+                "may",
+                "might",
+                "would"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I am busy now. / Rahul said that he ............................ busy then.",
+            "description": "Simple present in direct speech becomes simple past in indirect speech.",
+            "answers": [
+                "is",
+                "was",
+                "had been"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You are sacked. / The manager said that I ............................ sacked.",
+            "description": "Simple present in direct speech becomes simple past in indirect speech.",
+            "answers": [
+                "am",
+                "have been",
+                "was"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What are you doing there? / He asked me what ............................... doing there.",
+            "description": "In reported questions, the subject goes before the auxiliary verb.",
+            "answers": [
+                "was I",
+                "I was",
+                "am I"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You are a great mentor. / I told him that he ........................ a great mentor.",
+            "description": "Simple present in direct speech becomes simple past in indirect speech.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We might go camping next week. / She told me that ............................. might go camping the following week.",
+            "description": "",
+            "answers": [
+                "we",
+                "she",
+                "they"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I am leaving. / She told me that she .................................",
+            "description": "Present continuous in the direct speech becomes past continuous in the indirect speech.",
+            "answers": [
+                "was leaving",
+                "has been leaving"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Who are you? / The watchman asked me who ....................................",
+            "description": "",
+            "answers": [
+                "was I",
+                "were I",
+                "I was"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The exhibition ended yesterday. / The tourist guide told me that the exhibition ............................. the previous day.",
+            "description": "Simple past in direct speech becomes past perfect in indirect speech.",
+            "answers": [
+                "ended",
+                "have ended",
+                "had ended"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Let's go for a walk. / He said that they ................................... for a walk.",
+            "description": "",
+            "answers": [
+                "have to go",
+                "may go",
+                "should go"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Close the door. / He ordered me ........................... the door.",
+            "description": "Imperatives are usually reported with a to-infinitive. ",
+            "answers": [
+                "that I close",
+                "to close",
+                "closing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Be careful. / She advised me ................................ careful.",
+            "description": "",
+            "answers": [
+                "that I be",
+                "to be",
+                "to being"
+            ],
+            "correct": 1
+        }
+    ]
+}

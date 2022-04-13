@@ -1,0 +1,116 @@
+{
+    "id": "04dcca0a70934c83b6ec7c33af7d9be9",
+    "title": "Subject-Verb Agreement",
+    "questions": [
+        {
+            "question": "The long and the short of the matter ………………………….. that we have been betrayed.",
+            "description": "The verb must be singular when two or more subjects together express one idea.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The chairman and the secretary …………………………………. present.",
+            "description": "The verb must be plural when two or more singular subjects are connected by and.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "No nook or corner ……………………………… left unexplored.",
+            "description": "The verb must be singular when two or more singular subjects are connected by or.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Neither Sam nor his brother …………………………….. present there.",
+            "description": "The verb must be singular when two or more singular subjects are connected by neither/nor.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Does anyone …………………………… where Celia lives?",
+            "description": "The infinitive does not take the marker –s after do, does or did.",
+            "answers": [
+                "know",
+                "knows"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "……………………………… she in love with somebody else?",
+            "description": "",
+            "answers": [
+                "Is",
+                "Are",
+                "Does"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He and I ……………………………. birds of the same feather.",
+            "description": "When two singular subjects are connected by and, the verb must be singular.",
+            "answers": [
+                "is",
+                "am",
+                "are"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Everybody …………………………….. frustrated by the delay.",
+            "description": "We use a singular verb after everybody.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Tell the children to raise their …………………………….",
+            "description": "We usually use a plural noun after a plural possessive. ",
+            "answers": [
+                "hand",
+                "hands"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Many people lost their …………………………… in the accident.",
+            "description": "",
+            "answers": [
+                "lives",
+                "life"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Neither the minister nor his secretary ………………………………. able to give a satisfactory explanation.",
+            "description": "",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A good knowledge of at least three languages …………………………… essential for this job.",
+            "description": "Here the actual subject is the singular noun knowledge. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        }
+    ]
+}

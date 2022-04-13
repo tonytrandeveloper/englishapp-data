@@ -1,0 +1,129 @@
+{
+    "id": "5184eca2c7d24d57a1f224512fbcee25",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "I’m right, ………………..?",
+            "description": "The question tag for I’m is aren’t I.",
+            "answers": [
+                "am I",
+                "am'nt I",
+                "aren't I"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Shut up, …………………?",
+            "description": "After imperatives will you, would you, can you, can’t you or couldn’t you can be used to tell people to do things.",
+            "answers": [
+                "can't you",
+                "can you",
+                "will you",
+                "All of the above"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Don’t forget, ………………?",
+            "description": "After negative imperatives, we use ‘will you?’",
+            "answers": [
+                "will you",
+                "won't you",
+                "can you"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Move a bit, ……………..?",
+            "description": "After imperatives will you, would you, can you, can’t you or couldn’t you can be used to tell people to do things.",
+            "answers": [
+                "will you",
+                "would you",
+                "can you",
+                "All of the above"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "Let’s go for a walk, …………………?",
+            "description": "After let’s we use ‘shall we?’",
+            "answers": [
+                "should we",
+                "shall we",
+                "can we"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You never say what you are going, …………………?",
+            "description": "Non-negative tags are used after negative words like never, no, nobody, hardly etc.",
+            "answers": [
+                "do you",
+                "don't you",
+                "did you"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There is little we can do about it, ……………….?",
+            "description": "Non-negative tags are used after negative words like never, no, little, nobody, hardly etc.",
+            "answers": [
+                "is there",
+                "isn't there",
+                "has there"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Somebody wanted a pizza, …………………..?",
+            "description": "We use they to refer to somebody, nobody and everybody.",
+            "answers": [
+                "did they",
+                "didn't they",
+                "hadn't they"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He has a daughter, ………………..?",
+            "description": "When have is used as a main verb, question tags with both have and do are possible.",
+            "answers": [
+                "has he",
+                "does he",
+                "hasn't he",
+                "doesn't he"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "There weren’t any issues, ………………..?",
+            "description": "There can be used as a subject in question tags.",
+            "answers": [
+                "were there",
+                "weren't there",
+                "were they"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Ravi wants to be an actor, ………………..?",
+            "description": "",
+            "answers": [
+                "does he",
+                "doesn't he",
+                "hasn't he"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Julia visited you yesterday, ………………..?",
+            "description": "",
+            "answers": [
+                "did she",
+                "didn't she",
+                "doesn't she"
+            ],
+            "correct": 1
+        }
+    ]
+}

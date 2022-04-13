@@ -1,0 +1,119 @@
+{
+    "id": "f4657c27597c44afa2ed59eca847e20c",
+    "title": "Determiners Exercise",
+    "questions": [
+        {
+            "question": "………………………. my sons can drive.",
+            "description": "We use neither of before a noun with a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "………………………….. them was there.",
+            "description": "We use neither of before a pronoun.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "………………………… answer is correct.",
+            "description": "Neither is used without of before a noun without a determiner.",
+            "answers": [
+                "Neither",
+                "Neither of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "‘I can’t dance.’ ‘………………………. can I.’",
+            "description": "",
+            "answers": [
+                "Either",
+                "Neither"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "‘She can’t swim.’ ‘I can’t ………………………’",
+            "description": "Can’t either means the same as neither can.",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I don’t travel ………………………… these days.",
+            "description": "Much can be used as an adverb.",
+            "answers": [
+                "much",
+                "a lot",
+                "very much"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I haven’t got ……………………….. time.",
+            "description": "Plenty of is mainly used in affirmative clauses.",
+            "answers": [
+                "plenty of",
+                "much",
+                "very much"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She has got ……………………………. women friends but she doesn’t know …………………..  men.",
+            "description": "Many is mainly used in negative and interrogative sentences. In affirmative clauses we prefer plenty of or a lot of.",
+            "answers": [
+                "many, a lot of",
+                "many, many",
+                "a lot of, many"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You haven’t eaten ………………………….",
+            "description": "",
+            "answers": [
+                "many",
+                "a lot",
+                "much"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "…………………………. cheese is made from cow milk.",
+            "description": "We use most before a noun without a determiner. ",
+            "answers": [
+                "Most",
+                "Much",
+                ""
+            ],
+            "correct": 0
+        },
+        {
+            "question": "…………………………… my friends are non-smokers.",
+            "description": "We use most of before a noun with a determiner. ",
+            "answers": [
+                "Most",
+                "Most of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I won’t pass the exam. I could not answer ………………………….. the questions.",
+            "description": "",
+            "answers": [
+                "many",
+                "many of"
+            ],
+            "correct": 1
+        }
+    ]
+}

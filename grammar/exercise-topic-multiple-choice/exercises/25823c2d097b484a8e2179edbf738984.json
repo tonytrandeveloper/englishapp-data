@@ -1,0 +1,57 @@
+{
+    "id": "25823c2d097b484a8e2179edbf738984",
+    "title": "Sentence Improvement Exercise",
+    "questions": [
+        {
+            "question": "The traveler asked me if I ......................... the way to the nearest inn.",
+            "description": "",
+            "answers": [
+                "know",
+                "knew",
+                "had known"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The doctor ........................ a holiday.",
+            "description": "",
+            "answers": [
+                "suggested me to take",
+                "suggested that I should",
+                "suggested to take"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was ........................ his rheumatism by a specialist.",
+            "description": "",
+            "answers": [
+                "cured of",
+                "cured from",
+                "cured with"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He threatened that he would shoot me ........................ I didn’t obey his instructions.",
+            "description": "",
+            "answers": [
+                "if",
+                "unless",
+                "if not",
+                "whether"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There is .......................... she broke it.",
+            "description": "",
+            "answers": [
+                "no question of denying the fact that",
+                "no denying the fact that",
+                "no denial the fact that"
+            ],
+            "correct": 1
+        }
+    ]
+}

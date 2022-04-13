@@ -1,0 +1,121 @@
+{
+    "id": "1ec8dc29e40641589f4a4eac0f7991fa",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "We had an invite …………………………. could not gain admittance anyhow.",
+            "description": "Use but to connect two contrasting ideas. ",
+            "answers": [
+                "and",
+                "however",
+                "but"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "As he ………………………. older, he started forgetting things.",
+            "description": "",
+            "answers": [
+                "got",
+                "gets",
+                "has gotten"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I ……………………….. anything I have ever done.",
+            "description": "",
+            "answers": [
+                "have never regretted",
+                "had never regretted",
+                "am never regretting"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I was made ………………………………. .",
+            "description": "When make is used in the passive form, it is followed by an infinitive with to. ",
+            "answers": [
+                "apologize",
+                "to apologize",
+                "apologizing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Climbing mountains ……………………………. good for health.",
+            "description": "Here the subject is the ing form climbing. Ing forms are treated as singular. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Sam as well his friends ……………………….. at the party.",
+            "description": "When we connect a singular and plural noun with as well as, the verb agrees with the former. ",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Sam along with his life and children ………………………… in that apartment.",
+            "description": "",
+            "answers": [
+                "live",
+                "lives"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Do you know who ………………………….?",
+            "description": "In indirect questions, the subject goes before the auxiliary verb.",
+            "answers": [
+                "is she",
+                "she is"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Hardly …………………………. out when it started raining again.",
+            "description": "",
+            "answers": [
+                "had I stepped",
+                "did I step",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I am anxious ………………………….. his safety.",
+            "description": "",
+            "answers": [
+                "for",
+                "of",
+                "about"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Each guest ………………………. arrived.",
+            "description": "Use a singular verb with each and every. ",
+            "answers": [
+                "has",
+                "have",
+                "is"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Every student …………………….. to hand in their work before Friday.",
+            "description": "Use a singular verb after every. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        }
+    ]
+}

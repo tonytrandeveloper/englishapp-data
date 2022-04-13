@@ -1,0 +1,127 @@
+{
+    "id": "4fbbced4dae64556820454ce5420e6ca",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I …………………… anything for hours.",
+            "description": "The present perfect is more common with the time expressions for and since.",
+            "answers": [
+                "am not eating",
+                "haven't eaten",
+                "didn't eat"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I believe that professionals ……………………. doctors and teachers are more useful than actors or singers.",
+            "description": "Either like or such as can be used to give examples. ",
+            "answers": [
+                "like",
+                "as",
+                "such as",
+                "Either like or such as"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The child …………………… sits in that corner is my nephew.",
+            "description": "We use who to refer to people. ",
+            "answers": [
+                "who",
+                "whom",
+                "that",
+                "which"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You …………………… behave.",
+            "description": "All of these expressions indicate ideas such as obligation and necessity. ",
+            "answers": [
+                "ought to",
+                "should",
+                "must",
+                "All of the above"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "You ......................... quit the job.",
+            "description": "Must is a modal auxiliary. Questions and negatives are made without do.",
+            "answers": [
+                "must not",
+                "do not must",
+                "must not to"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I haven’t got ……………………… friends.",
+            "description": "Not any means the same as no. ",
+            "answers": [
+                "no",
+                "any",
+                "none"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I called him in the morning but he didn’t ……………………. the phone.",
+            "description": "Use the bare infinitive (v1) after do, does and did.",
+            "answers": [
+                "answer",
+                "answered",
+                "answering"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I don’t ……………………… agree with this view.",
+            "description": "",
+            "answers": [
+                "rather",
+                "quite",
+                "quiet"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The situation is getting ……………………day by day.",
+            "description": "Worse is the comparative form of bad.",
+            "answers": [
+                "worse",
+                "worser",
+                "worst"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am now here ……………………. my mom.",
+            "description": "Because of is a preposition. It is used before a noun.",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Work …………………… the best of your ability.",
+            "description": "",
+            "answers": [
+                "to",
+                "for",
+                "with"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I went home …………………….. I was bored.",
+            "description": "Because is a conjunction. It is used to connect two clauses. ",
+            "answers": [
+                "because",
+                "because of"
+            ],
+            "correct": 0
+        }
+    ]
+}

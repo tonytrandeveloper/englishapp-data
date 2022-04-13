@@ -1,0 +1,126 @@
+{
+    "id": "5ec7194f8c7f4ce292ddba8051e9bd8b",
+    "title": "Kinds Of Sentences",
+    "questions": [
+        {
+            "question": "A man of industrious nature is sure to succeed.",
+            "description": "\r\nThe given sentence has only one finite verb and hence it is a simple sentence.\r\n",
+            "answers": [
+                "Simple sentence",
+                "Compound sentence",
+                "Complex sentence"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He that climbs too high is sure to fall.",
+            "description": "The given sentence has one main clause and a subordinate adjective clause. Hence it is a complex sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Which is the road that leads to the railway station?",
+            "description": "The given sentence has one main clause and a subordinate adjective clause. Hence it is a complex sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What did you do then?",
+            "description": "The given sentence has only one clause and hence it is a simple sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The reason why he failed is obvious.",
+            "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence. ",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He told me the truth.",
+            "description": "\r\nThe given sentence has only one clause and hence it is a simple sentence.\r\n",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "It is uncertain whether he will come.",
+            "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I don’t know what he wants.",
+            "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I wanted to help him but I had no money.",
+            "description": "The given sentence has two co-ordinate clauses. Hence it is a compound sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He is neither intelligent nor clever.",
+            "description": "The given sentence has two co-ordinate clauses and hence it is a compound clause.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Pay your fee or your subscription will be cancelled.",
+            "description": "The given sentence has two co-ordinate clauses and hence it is a compound clause.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He had gone before I reached his place.",
+            "description": "The given sentence has one main clause and one subordinate clause. Hence it is a complex sentence.",
+            "answers": [
+                "Simple sentence",
+                "Complex sentence",
+                "Compound sentence"
+            ],
+            "correct": 1
+        }
+    ]
+}

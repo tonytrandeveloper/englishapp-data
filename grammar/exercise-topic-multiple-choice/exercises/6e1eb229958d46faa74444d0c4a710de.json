@@ -1,0 +1,114 @@
+{
+    "id": "6e1eb229958d46faa74444d0c4a710de",
+    "title": "Subject - Verb Agreement",
+    "questions": [
+        {
+            "question": "Sam as well as his friends …………………………. at the party.",
+            "description": "When you connect two subjects with as well as, the verb agrees with the first subject.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Neither Susan nor Mira ………………………………… capable of doing this.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "One of my friends …………………………… gone to Africa.",
+            "description": "Use a singular verb after one of.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Neither of us ……………………………. interested in this.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Either you or he …………………………… mistaken.",
+            "description": "When we connect two nouns with either/or, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He along with his friends ………………………….. gone to the movies.",
+            "description": "When we connect two nouns with ‘along with’, the verb agrees with the first subject.",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Neither cheese nor butter …………………………… with me.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "agree",
+                "agrees"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The doctor as well as the nurses ……………………………… on a strike.",
+            "description": "When you connect two subjects with as well as, the verb agrees with the first subject.",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Neither John nor his brothers …………………………….. there.",
+            "description": "When we connect two nouns with neither/nor, the verb agrees with the number and person of the second subject.",
+            "answers": [
+                "was",
+                "were"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "John or his brother …………………………… to do the shopping this week.",
+            "description": "When we connect two singular nouns with 'or', the verb is singular. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The committee ………………………….. 12 members.",
+            "description": "Collective nouns are usually treated as singular. ",
+            "answers": [
+                "has",
+                "have"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Both of his children …………………………… married.",
+            "description": "We use a plural verb after both. ",
+            "answers": [
+                "is",
+                "are"
+            ],
+            "correct": 1
+        }
+    ]
+}

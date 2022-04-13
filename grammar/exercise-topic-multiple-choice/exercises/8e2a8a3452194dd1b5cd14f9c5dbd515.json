@@ -1,0 +1,106 @@
+{
+    "id": "8e2a8a3452194dd1b5cd14f9c5dbd515",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "The cat is inferior …………….. the dog in intelligence.",
+            "description": "Inferior is followed by to instead of than.",
+            "answers": [
+                "than",
+                "to",
+                "of"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "When the journalists protested, the minister made no ………………. comments.",
+            "description": "Further means additional.",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Chennai is ………………. from Mumbai than Bangalore.",
+            "description": "",
+            "answers": [
+                "farther",
+                "further",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Rahim is senior …………….. all other teachers in the school.",
+            "description": "Senior is followed by to instead of than.",
+            "answers": [
+                "than",
+                "to",
+                "with"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Will you give me ………………. rice, please?",
+            "description": "We use some in affirmative sentences and any in negative sentences.",
+            "answers": [
+                "some",
+                "any",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "………………. knowledge is a dangerous thing.",
+            "description": "A little means some. ",
+            "answers": [
+                "Little",
+                "a little",
+                "The little"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "……………… rice we have is enough to feed 10 persons.",
+            "description": "The little means not much, but all that is there.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "……………… knowledge of mathematics that he possessed proved very useful.",
+            "description": "The little means not much, but all that is there.",
+            "answers": [
+                "Little",
+                "A little",
+                "The little"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "My cousin ………………… two daughters.",
+            "description": "When have is used to talk about possessions or relationships, it is not used in the continuous form.",
+            "answers": [
+                "is having",
+                "has",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Here ……………… our leader!",
+            "description": "Even though an action is in progress at the time of speaking, present continuous tense is not used if it is an exclamatory sentence.",
+            "answers": [
+                "is coming",
+                "comes",
+                "Either could be used here"
+            ],
+            "correct": 1
+        }
+    ]
+}

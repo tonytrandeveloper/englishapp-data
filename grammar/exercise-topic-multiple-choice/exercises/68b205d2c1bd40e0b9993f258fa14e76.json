@@ -1,0 +1,126 @@
+{
+    "id": "68b205d2c1bd40e0b9993f258fa14e76",
+    "title": "Omission | Grammar Exercise",
+    "questions": [
+        {
+            "question": "I might can be able to help.",
+            "description": "Can should be removed. The sentence should read: I might be able to help.",
+            "answers": [
+                "might",
+                "can",
+                "able"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I came as much quickly as I could.",
+            "description": "Before adjectives and adverbs, as is used without much.",
+            "answers": [
+                "as",
+                "much",
+                "quickly"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I don’t care how much expensive that laptop is. I am going to buy it.",
+            "description": "Before adjectives and adverbs how is used without much.",
+            "answers": [
+                "how",
+                "much",
+                "that"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You are quite rather a nuisance.",
+            "description": "Quite and rather have very similar meanings. Use only one of them in a sentence.",
+            "answers": [
+                "quite",
+                "rather",
+                "Either quite or rather"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Do not talk such a nonsense!",
+            "description": "Such is used without a before uncountable nouns.",
+            "answers": [
+                "Do",
+                "Such",
+                "A"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I have been to quite too many countries recently.",
+            "description": "Quite should be removed. Quite cannot modify too many or too much.",
+            "answers": [
+                "quite",
+                "too",
+                "many"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Most of people do not understand philosophy.",
+            "description": "We use most without of before a noun without a determiner.",
+            "answers": [
+                "Most",
+                "Of",
+                "Do"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I have read all six of novels by Jane Austen.",
+            "description": "Of is omitted before a noun without a determiner.",
+            "answers": [
+                "have",
+                "all",
+                "of"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Although I was not interested in the lecture, but I sat through it.",
+            "description": "Although and but have very similar meanings. Use only one of them in a sentence.",
+            "answers": [
+                "although",
+                "but",
+                "Either although or but"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Though he started early but he arrived last.",
+            "description": "Though and but have very similar meanings. Use only one of them in a sentence.",
+            "answers": [
+                "though",
+                "but",
+                "Either though or but"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "It is a small house. Besides, it also needs a lot of repairs.",
+            "description": "Besides and also mean the same. Use only one of them in a sentence.",
+            "answers": [
+                "also",
+                "a",
+                "of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I will never forget meeting you on that afternoon.",
+            "description": "Prepositions are not normally used before expressions beginning with next or last. ",
+            "answers": [
+                "never",
+                "on",
+                "that"
+            ],
+            "correct": 1
+        }
+    ]
+}

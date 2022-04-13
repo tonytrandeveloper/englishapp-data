@@ -1,0 +1,125 @@
+{
+    "id": "4f210c74c5df4806b2d5729d885e36ff",
+    "title": "Articles Exercise",
+    "questions": [
+        {
+            "question": "What kind of …………………… is it?",
+            "description": "When a common noun is used in its widest sense, it is used without an article.",
+            "answers": [
+                "bird",
+                "a bird",
+                "the bird"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "…………………….. is mortal.",
+            "description": "When a common noun is used in its widest sense, it is used without an article.",
+            "answers": [
+                "The man",
+                "A man",
+                "Man"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "………………………. grows in many parts of India.",
+            "description": "Articles are omitted before material nouns.",
+            "answers": [
+                "Cotton",
+                "The cotton",
+                "A cotton"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "……………………… is a useful metal.",
+            "description": "Articles are omitted before material nouns.",
+            "answers": [
+                "Iron",
+                "An iron",
+                "The iron"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He was ………………………….. of his age.",
+            "description": "Sometimes an article is used with proper nouns when they are used as common nouns.",
+            "answers": [
+                "Napoleon",
+                "A Napoleon",
+                "The Napoleon"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Mumbai is ……………………….. of India.",
+            "description": "Sometimes an article is used with proper nouns when they are used as common nouns.",
+            "answers": [
+                "Manchester",
+                "a Manchester",
+                "The Manchester"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "……………………… is its own reward.",
+            "description": "Articles are usually omitted before abstract nouns.",
+            "answers": [
+                "The virtue",
+                "Virtue",
+                "A virtue"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is fluent in ……………………..",
+            "description": "Articles are omitted before the names of languages.",
+            "answers": [
+                "French",
+                "the French"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "My friend is still in ……………………….",
+            "description": "Articles are omitted before nouns like hospital and school when the reference is to the primary purpose of these places.",
+            "answers": [
+                "hospital",
+                "the hospital",
+                "a hospital"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I went to ……………………….. to see my friend.",
+            "description": "Articles are used before the nouns hospital and school when we are talking about these places as a building or structure.",
+            "answers": [
+                "hospital",
+                "the hospital",
+                "a hospital"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "…………………….. has returned.",
+            "description": "Articles are omitted before names of relations.",
+            "answers": [
+                "Mother",
+                "The mother",
+                "A mother"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I met him at ……………………….",
+            "description": "Here the club is merely a meeting place and hence an article is used with that.",
+            "answers": [
+                "club",
+                "the club",
+                "a club"
+            ],
+            "correct": 2
+        }
+    ]
+}

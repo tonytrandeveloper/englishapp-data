@@ -1,0 +1,122 @@
+{
+    "id": "c8e7be34cb4945599c864ac50ce2643d",
+    "title": "Adjectives Quiz",
+    "questions": [
+        {
+            "question": "Melvin is …………………………. Edwin.",
+            "description": "Elder cannot be used predicatively (after a verb).",
+            "answers": [
+                "elder than",
+                "elder to",
+                "older than"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She is older ………………………….. her husband.",
+            "description": "Use than after older.",
+            "answers": [
+                "to",
+                "than"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She is junior ……………………….. me.",
+            "description": "The words junior and senior are followed by to.",
+            "answers": [
+                "than",
+                "to"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He earns more than …………………………..",
+            "description": "A subject pronoun is unusual after than.",
+            "answers": [
+                "me",
+                "I"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I prefer running ……………………….. jogging.",
+            "description": "Prefer should be followed by to.",
+            "answers": [
+                "than",
+                "over",
+                "to"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "That was ……………………….. experience in my life.",
+            "description": "Worst is the superlative form of bad.",
+            "answers": [
+                "the worse",
+                "the worst",
+                "the baddest"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I am older than ………………………….. is.",
+            "description": "We use a subject pronoun after than when the pronoun is followed by a verb. ",
+            "answers": [
+                "him",
+                "he"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I prefer coffee ………………………….. tea.",
+            "description": "",
+            "answers": [
+                "than",
+                "to",
+                "over"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is ………………………… than I am.",
+            "description": "Worse is the comparative form of bad.",
+            "answers": [
+                "worse",
+                "worst",
+                "bad"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Humans are ……………………………. than animals.",
+            "description": "The comparative form of intelligent is more intelligent. ",
+            "answers": [
+                "more intelligent",
+                "intelligenter",
+                "most intelligent"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He is ……………………………. of the two.",
+            "description": "",
+            "answers": [
+                "the cleverer",
+                "the cleverest",
+                "the clever"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "My ………………………….. brother is a soldier.",
+            "description": "Elder and older can both be used before nouns. ",
+            "answers": [
+                "elder",
+                "older",
+                "Either could be used here"
+            ],
+            "correct": 2
+        }
+    ]
+}

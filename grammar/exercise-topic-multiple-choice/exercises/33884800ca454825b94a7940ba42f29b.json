@@ -1,0 +1,126 @@
+{
+    "id": "33884800ca454825b94a7940ba42f29b",
+    "title": "Identify The Adverb",
+    "questions": [
+        {
+            "question": "He is so pigheaded you can’t reason with him.",
+            "description": "Here so modifies the adjective pigheaded. Only an adverb can modify an adjective.",
+            "answers": [
+                "so",
+                "pigheaded",
+                "with"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Sailing alone around the world was quite a pilgrimage.",
+            "description": "Quite is an adverb indicating degree. It shows to what extent.",
+            "answers": [
+                "sailing",
+                "quite",
+                "privilege"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The admiral was always nonchalant in the face of danger.",
+            "description": "Always is an adverb of time. It answers the question when.",
+            "answers": [
+                "always",
+                "nonchalant",
+                "of"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "A person’s outward appearance was formerly thought to reveal his character.",
+            "description": "Formerly is an adverb of time. Most words ending in ly are adverbs.",
+            "answers": [
+                "outward",
+                "formerly",
+                "reveal"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Wearing nothing but blue clothing is only one of her peculiarities.",
+            "description": "",
+            "answers": [
+                "nothing",
+                "blue",
+                "only"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He was seen driving northward.",
+            "description": "Words indicating place are adverbs.",
+            "answers": [
+                "seen",
+                "driving",
+                "northward"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I have told you this twice.",
+            "description": "Twice is an adverb of frequency. It answers the question how often.",
+            "answers": [
+                "have",
+                "this",
+                "twice"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "That day he arrived late.",
+            "description": "Here late modifies the verb arrived. Hence it is an adverb.",
+            "answers": [
+                "that",
+                "arrived",
+                "late"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I have already spoken to him about this.",
+            "description": "",
+            "answers": [
+                "have",
+                "already",
+                "to"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Luckily we escaped unhurt.",
+            "description": "",
+            "answers": [
+                "luckily",
+                "escaped",
+                "unhurt"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "My dog understands everything. He is almost human.",
+            "description": "Here the adverb almost modifies the adjective human. ",
+            "answers": [
+                "everything",
+                "almost",
+                "human"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I am fully prepared for the examination.",
+            "description": "Here the adverb fully modifies the adjective prepared. ",
+            "answers": [
+                "am",
+                "fully",
+                "prepared"
+            ],
+            "correct": 1
+        }
+    ]
+}

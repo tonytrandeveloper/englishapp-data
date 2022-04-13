@@ -1,0 +1,126 @@
+{
+    "id": "ba058d10bca7498aa94a0488cec764ac",
+    "title": "Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The injured ............................... to hospital.",
+            "description": "In the simple past tense, the passive form is made by putting was/were before the past participle form of the verb.",
+            "answers": [
+                "had taken",
+                "were taken",
+                "have taken"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The conference .......................................... by 200 delegates.",
+            "description": "In the simple past tense, the passive form is made by putting was/were before the past participle form of the verb. Conference is a singular countable noun hence we use the verb was.",
+            "answers": [
+                "was attending",
+                "was attended",
+                "has attended"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The car .............................................. at the moment.",
+            "description": "We use the present continuous to talk about actions or situations that are going on at the moment of speaking. In the present continuous tense, the passive form is made by putting is/am/are + being before the past participle form of the verb.",
+            "answers": [
+                "is serviced",
+                "is being serviced",
+                "has been serviced"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The boy ............................................... for cheating on the exam.",
+            "description": "In the simple past tense, the passive form is made by putting was/were before the past participle form of the verb.",
+            "answers": [
+                "was punished",
+                "had punished",
+                "was punishing"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The startup .......................................... by a German company.",
+            "description": "In the simple past tense, the passive form is made by putting was/were before the past participle form of the verb.",
+            "answers": [
+                "acquired",
+                "was acquiring",
+                "was acquired"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I .......................................  some manuscripts.",
+            "description": "",
+            "answers": [
+                "have shown",
+                "was shown",
+                "was showing"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The results ................................................ yesterday.",
+            "description": "The present perfect cannot be used with past time expressions.",
+            "answers": [
+                "published",
+                "were published",
+                "have been published"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The matter ............................................ during the meeting.",
+            "description": "",
+            "answers": [
+                "was discussed",
+                "is discussed",
+                "has discussed"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She ............................................  to leave.",
+            "description": "Since there is no time expression either the simple past or the present perfect is possible here. ",
+            "answers": [
+                "has been told",
+                "was told",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I ................................................ to the party.",
+            "description": "",
+            "answers": [
+                "was not invited",
+                "have not invited",
+                "was not being invited"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The smugglers ......................................",
+            "description": "Since there is no time expression, either the simple past or the present perfect is possible here. ",
+            "answers": [
+                "have caught",
+                "have been caught",
+                "were caught"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The child ………………………………… of his rheumatism.",
+            "description": "",
+            "answers": [
+                "has cured",
+                "has been cured",
+                "has been curing"
+            ],
+            "correct": 1
+        }
+    ]
+}

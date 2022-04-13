@@ -1,0 +1,125 @@
+{
+    "id": "10a636ea7498415c8f2ebe9099f2dd07",
+    "title": "Determiners And Pronouns Exercise",
+    "questions": [
+        {
+            "question": "........................... of these authors is known to me.",
+            "description": "Neither means not the one nor the other.",
+            "answers": [
+                "Neither",
+                "Either",
+                "Both"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I don't know ........................... of these authors.",
+            "description": "Not either means the same as neither. Both is not used in negative sentences.",
+            "answers": [
+                "either",
+                "neither",
+                "both"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There are very ............................ good restaurants in this town.",
+            "description": "Very means hardly any.",
+            "answers": [
+                "few",
+                "hardly",
+                "little"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There are .............................. any good restaurants in this town.",
+            "description": "Hardly any means the same as very few.",
+            "answers": [
+                "very few",
+                "hardly",
+                "few"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I haven't got cats ............................. dogs.",
+            "description": "",
+            "answers": [
+                "nor",
+                "or",
+                "neither"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I have got ............................. cats ........................ dogs.",
+            "description": "Neither / nor and both/and are possible here with totally opposite meanings.",
+            "answers": [
+                "neither, nor",
+                "either, or",
+                "both, and"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I haven't got ............................. cats ....................... dogs.",
+            "description": "Both is not used in negative sentences. Not either means the same as neither.",
+            "answers": [
+                "neither, nor",
+                "either, or",
+                "both, and"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "........................... the participants were given a prize.",
+            "description": "Each and every are followed by singular verbs. All is followed by a plural verb.",
+            "answers": [
+                "Each",
+                "All",
+                "Every"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "............................ the participants was given a prize.",
+            "description": "We use each of before an article. All of should be followed by a plural verb.",
+            "answers": [
+                "Each",
+                "All of",
+                "Each of"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He is a good friend of ..................................",
+            "description": "",
+            "answers": [
+                "me",
+                "my",
+                "mine"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I wanted to kill that ....................................",
+            "description": "",
+            "answers": [
+                "your friend",
+                "friend of your",
+                "friend of yours"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You are not better than ....................................",
+            "description": "Object pronouns are more common after than and as.",
+            "answers": [
+                "he",
+                "him"
+            ],
+            "correct": 1
+        }
+    ]
+}

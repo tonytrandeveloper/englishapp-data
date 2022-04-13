@@ -1,0 +1,138 @@
+{
+    "id": "bf2c948fdba74c6f8fdbaa0eab8b98a0",
+    "title": "Kinds Of Sentences",
+    "questions": [
+        {
+            "question": "Where have you been all this while?",
+            "description": "An interrogative sentence asks a question.",
+            "answers": [
+                "Exclamatory",
+                "Declarative",
+                "Interrogative",
+                "Imperative"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He took voluntary retirement last year.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Exclamatory",
+                "Declarative",
+                "Imperative",
+                "Interrogative"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Bravo, you’re doing quite well!",
+            "description": "An exclamatory sentence expresses a sudden emotion.",
+            "answers": [
+                "Exclamatory",
+                "Imperative",
+                "Interrogative",
+                "Declarative"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Put it down.",
+            "description": "An imperative sentence expresses a command, order or entreaty.",
+            "answers": [
+                "Imperative",
+                "Exclamatory",
+                "Declarative",
+                "Interrogative"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She lives in a small town with her husband and children.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Exclamatory",
+                "Declarative",
+                "Interrogative",
+                "Imperative"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I don’t remember his name.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Declarative",
+                "Imperative",
+                "Interrogative",
+                "Exclamatory"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She forgot to lock the door before going out.",
+            "description": "A declarative sentence makes a statement.",
+            "answers": [
+                "Exclamatory",
+                "Imperative",
+                "Interrogative",
+                "Declarative"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "What did you do with the money?",
+            "description": "An interrogative sentence asks a question.",
+            "answers": [
+                "Interrogative",
+                "Exclamatory",
+                "Declarative",
+                "Imperative"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I don’t want to leave now.",
+            "description": "",
+            "answers": [
+                "Imperative",
+                "Declarative",
+                "Exclamatory",
+                "Interrogative"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Give me a ring.",
+            "description": "An imperative sentence expresses a command, order or entreaty.",
+            "answers": [
+                "Exclamatory",
+                "Imperative",
+                "Declarative",
+                "Interrogative"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "How disgusting!",
+            "description": "An exclamatory sentence expresses a sudden emotion. ",
+            "answers": [
+                "Imperative",
+                "Interrogative",
+                "Exclamatory",
+                "Declarative"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What a pleasant surprise!",
+            "description": "",
+            "answers": [
+                "Interrogative",
+                "Exclamatory",
+                "Declarative",
+                "Imperative"
+            ],
+            "correct": 1
+        }
+    ]
+}

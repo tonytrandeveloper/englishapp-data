@@ -1,0 +1,128 @@
+{
+    "id": "5b844676d5f341a1a731e94ca19bc4c3",
+    "title": "Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "Bill said that he .................................. the party.",
+            "description": "After past reporting verbs, we use past verbs.",
+            "answers": [
+                "doesn't like",
+                "didn't like",
+                "didn't liked"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I asked her ............................... she would marry me.",
+            "description": "We use if or whether to report questions.",
+            "answers": [
+                "that",
+                "if",
+                "what"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The police inspector asked us ............................... our passports.",
+            "description": "To report imperatives we use to-infinitives. ",
+            "answers": [
+                "show",
+                "to show",
+                "that we show"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I wondered how ...............................",
+            "description": "In indirect questions, the auxiliary verb goes after the subject. ",
+            "answers": [
+                "are you",
+                "you are",
+                "were you",
+                "you were"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "The government has announced that taxes ............................",
+            "description": "After present reporting verbs we normally use present tenses.",
+            "answers": [
+                "will rise",
+                "would be raised",
+                "will be raised"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She said that she .............................. enough.",
+            "description": "Had had is the reported form of has/have had.",
+            "answers": [
+                "has had",
+                "had had",
+                "have",
+                "had"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ............................ I didn't intend to stand for election.",
+            "description": "'That' cannot be dropped after reporting verbs like reply and shout.",
+            "answers": [
+                "replied",
+                "replied that",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ............................................ you are probably right.",
+            "description": "The conjunction 'that' can be dropped after common reporting verbs like say and think.",
+            "answers": [
+                "think",
+                "think that",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I .................................. I was busy.",
+            "description": "The conjunction 'that' cannot be dropped after the reporting verb 'shout'.",
+            "answers": [
+                "shouted",
+                "shouted that",
+                "Either could be used here"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He wanted to know ...................................... leaving.",
+            "description": "In indirect questions, the auxiliary verb goes after the subject. ",
+            "answers": [
+                "when was I",
+                "when I was",
+                "when I will"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Nobody told me why ..................................... to sign the papers.",
+            "description": "The auxiliary 'do' is not used in reported questions.",
+            "answers": [
+                "had I",
+                "did I have",
+                "I had"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I knew how .............................",
+            "description": "The auxiliary 'do' is not used in reported questions and answers.",
+            "answers": [
+                "you felt",
+                "did you feel",
+                "you feel"
+            ],
+            "correct": 0
+        }
+    ]
+}

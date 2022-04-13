@@ -1,0 +1,114 @@
+{
+    "id": "c6e59c7687bc4803bf3e36ae6cdc4102",
+    "title": "Adjective Or Adverb",
+    "questions": [
+        {
+            "question": "The ship is still afloat. Here afloat is an ……………………",
+            "description": "Here the word afloat says something about the noun ship. Hence it is an adjective. ",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She is the best mother in the world. Here best is an …………………………",
+            "description": "Here the word best modifies the noun mother.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She danced happily into the room. Here happily is an …………………………",
+            "description": "Happily is an adverb. It modifies the verb danced.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We bought the cheapest clothes in the shop. Here cheapest is an …………………………..",
+            "description": "Here cheapest modifies the noun clothes.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I don’t remember him very well. Here very is an ………………………",
+            "description": "Here the adverb very modifies the adverb well. Only an adverb can modify another adverb.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She smiled in a friendly way. Here friendly is an ……………………………",
+            "description": "Here friendly modifies the noun way. Only adjectives can modify nouns.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Her singing was lovely. Here lovely is an …………………………..",
+            "description": "Here the adjective lovely modifies the noun singing. Not all words ending in –ly are adverbs.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Sorry I didn’t post the letter – I clean forgot. Here clean is an ………………………….",
+            "description": "Here clean modifies the verb forgot.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was dead drunk when he got home. Here dead is an ……………………….",
+            "description": "Here dead is an adverb because it modifies the adjective drunk. Only adverbs can modify adjectives.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The plane goes direct from Chicago to Atlanta without stopping. Here direct is an …………………………",
+            "description": "Here direct is an adverb because it modifies the verb goes.",
+            "answers": [
+                "adverb",
+                "adjective"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "They sometimes must be bored. Here sometimes is an ………………………..",
+            "description": "",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "When did you last see your father? Here last is an ………………………….",
+            "description": "Words indicating time are adverbs.",
+            "answers": [
+                "adjective",
+                "adverb"
+            ],
+            "correct": 1
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "id": "b621445405414d1e8c2642685800dada",
+    "title": "Infinitive With Or Without To",
+    "questions": [
+        {
+            "question": "They didn't allow me ................................ the hall.",
+            "description": "Allow is followed by an infinitive with to.",
+            "answers": [
+                "enter",
+                "to enter"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She didn't let me .................................. her room.",
+            "description": "Let is followed by an infinitive without to.",
+            "answers": [
+                "enter",
+                "to enter"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You ought ..................................... a doctor.",
+            "description": "Ought is followed by a to-infinitive.",
+            "answers": [
+                "consult",
+                "to consult"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is able ..................................... on his hands.",
+            "description": "Able is followed by a to-infinitive.",
+            "answers": [
+                "walk",
+                "to walk"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She can ................................... with both hands.",
+            "description": "Can is followed by an infinitive without to.",
+            "answers": [
+                "write",
+                "to write"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "They made us ................................. for hours.",
+            "description": "Wait is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I forgot ..................................... the letters.",
+            "description": "Forget is followed by an infinitive with to.",
+            "answers": [
+                "post",
+                "to post"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I saw him .................................. the road.",
+            "description": "See is followed by an infinitive without to.",
+            "answers": [
+                "cross",
+                "to cross"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I heard her ................................... on the phone.",
+            "description": "Hear is followed by an infinitive without to.",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You needn't ................................... for me.",
+            "description": "When need is a modal auxiliary, it is followed by an infinitive without to.",
+            "answers": [
+                "wait",
+                "to wait"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You don't need .................................... for that call.",
+            "description": "When need is an ordinary verb, it is followed by an infinitive with to.",
+            "answers": [
+                "pay",
+                "to pay"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He refused ................................ to me.",
+            "description": "",
+            "answers": [
+                "talk",
+                "to talk"
+            ],
+            "correct": 1
+        }
+    ]
+}

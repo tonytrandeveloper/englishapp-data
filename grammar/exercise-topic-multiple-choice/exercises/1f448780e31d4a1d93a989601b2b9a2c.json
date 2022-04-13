@@ -1,0 +1,126 @@
+{
+    "id": "1f448780e31d4a1d93a989601b2b9a2c",
+    "title": "Active And Passive Voice Exercise",
+    "questions": [
+        {
+            "question": "The message ……………………………….. delivered.",
+            "description": "The passive verb form is used when the subject is not the doer of the action.",
+            "answers": [
+                "has",
+                "has been",
+                "had"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The messenger …………………………….. the message.",
+            "description": "Use the active verb form when the subject is the doer of the action.",
+            "answers": [
+                "has been delivered",
+                "has delivered",
+                "is delivered"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "They ………………………….. the parcel in the morning.",
+            "description": "The present perfect cannot be used with definite past time expressions. ",
+            "answers": [
+                "sent",
+                "have sent",
+                "have been sent"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He ……………………………. to leave.",
+            "description": "The passive form is used when the subject is not the doer of the action.",
+            "answers": [
+                "told",
+                "was told",
+                "has told"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The culprit ……………………………",
+            "description": "Either the present perfect (passive) or simple past (passive) is possible here. ",
+            "answers": [
+                "has caught",
+                "has been caught",
+                "was caught"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The suspect …………………………… to the crime.",
+            "description": "",
+            "answers": [
+                "has confessed",
+                "was confessed",
+                "has been confessed"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I …………………………….. the invite.",
+            "description": "The present perfect is used to give news. ",
+            "answers": [
+                "have been received",
+                "have received",
+                "had received"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The invites ……………………………..",
+            "description": "",
+            "answers": [
+                "have sent",
+                "have been sent",
+                "had sent"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The kitten ……………………………. home yesterday.",
+            "description": "The present perfect cannot be used with past time expressions. ",
+            "answers": [
+                "has brought",
+                "was brought",
+                "has been brought"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I ……………………….. a cake for my daughter’s birthday.",
+            "description": "Either simple past or the present perfect is possible here. ",
+            "answers": [
+                "baked",
+                "was baked",
+                "have baked"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I …………………………. her a necklace.",
+            "description": "",
+            "answers": [
+                "bought",
+                "was bought",
+                "have been bought"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She ……………………….. me some flowers.",
+            "description": "",
+            "answers": [
+                "sent",
+                "was sent",
+                "has been sent"
+            ],
+            "correct": 0
+        }
+    ]
+}

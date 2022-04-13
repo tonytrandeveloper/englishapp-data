@@ -1,0 +1,81 @@
+{
+    "id": "2414e81d3d1346739d86e97f7043732c",
+    "title": "Sentence Completion Exercise",
+    "questions": [
+        {
+            "question": "I could not understand the logic behind his plan, but I decided to ……………….. to his superior knowledge.",
+            "description": "",
+            "answers": [
+                "defer",
+                "accept",
+                "obey",
+                "challenge"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He needs something to keep himself ………………….",
+            "description": "",
+            "answers": [
+                "occupy",
+                "occupied",
+                "passed"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The auditorium was packed but the speaker disappointed the audience with his ……………… speech.",
+            "description": "",
+            "answers": [
+                "rambling",
+                "inciting",
+                "vigorous",
+                "encouraging"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The rich meal was …………………. by a light dessert.",
+            "description": "",
+            "answers": [
+                "complimented",
+                "complemented",
+                "topped",
+                "followed"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We can trust her. Her ……………… won’t allow her to cheat.",
+            "description": "",
+            "answers": [
+                "mind",
+                "heart",
+                "scruples",
+                "reason"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "The ship has its full ………………. of sailors.",
+            "description": "",
+            "answers": [
+                "compliment",
+                "complement",
+                "share",
+                "quota"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "We should act before opposition to our plan .....................",
+            "description": "",
+            "answers": [
+                "forms",
+                "congeals",
+                "takes shape"
+            ],
+            "correct": 1
+        }
+    ]
+}

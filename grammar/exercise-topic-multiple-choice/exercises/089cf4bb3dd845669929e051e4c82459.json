@@ -1,0 +1,104 @@
+{
+    "id": "089cf4bb3dd845669929e051e4c82459",
+    "title": "Sentence Synthesis Exercise",
+    "questions": [
+        {
+            "question": "James plays hockey .................................... cricket.",
+            "description": "",
+            "answers": [
+                "as well",
+                "also",
+                "as well as"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He must be asleep ........................................... there is no light in his room.",
+            "description": "",
+            "answers": [
+                "since",
+                "for"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He speaks Hindi .................................... English.",
+            "description": "",
+            "answers": [
+                "also",
+                "as well",
+                "as well as"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Peter is quite sociable ........................................ his brother is rather reserved.",
+            "description": "",
+            "answers": [
+                "where",
+                "as",
+                "whereas"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "There was little hope of success, ................................... I tried hard.",
+            "description": "",
+            "answers": [
+                "because",
+                "as",
+                "nevertheless"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He will neither spend his money ........................................ invest it.",
+            "description": "",
+            "answers": [
+                "or",
+                "nor",
+                "either"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is ...................................... a fool or a madman.",
+            "description": "",
+            "answers": [
+                "either",
+                "neither"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He has been working hard, ..................................... he will pass.",
+            "description": "",
+            "answers": [
+                "as",
+                "therefore",
+                "so"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I did my best, ......................................... I failed.",
+            "description": "",
+            "answers": [
+                "though",
+                "but",
+                "as if"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The way was long ..................................... the wind was cold.",
+            "description": "",
+            "answers": [
+                "and",
+                "so",
+                "but"
+            ],
+            "correct": 0
+        }
+    ]
+}

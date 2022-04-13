@@ -1,0 +1,114 @@
+{
+    "id": "6fa9e82f88f340c99b5c009a784795e6",
+    "title": "Transitive vs. Intransitive",
+    "questions": [
+        {
+            "question": "She has a pet dog.",
+            "description": "Object - dog",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You never give me any help.",
+            "description": "Objects - me and help",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The girl talked to the boy.",
+            "description": "No object",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I have found the answer.",
+            "description": "Object - the answer",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The dog was barking loudly.",
+            "description": "No object",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You are barking up the wrong tree.",
+            "description": "Object - the wrong tree",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The cat sat on the table.",
+            "description": "No object",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She put the books on the table.",
+            "description": "Object - the books",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Please get the cat off the piano.",
+            "description": "Object - the cat",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I learned my lesson the hard way.",
+            "description": "Object - my lesson",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He spoke intelligently.",
+            "description": "No object",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She danced merrily into the room.",
+            "description": "No object",
+            "answers": [
+                "Transitive",
+                "Intransitive"
+            ],
+            "correct": 1
+        }
+    ]
+}

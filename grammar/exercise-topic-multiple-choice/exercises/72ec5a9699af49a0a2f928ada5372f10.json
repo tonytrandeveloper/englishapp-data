@@ -1,0 +1,127 @@
+{
+    "id": "72ec5a9699af49a0a2f928ada5372f10",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "We must leave now, …………………………?",
+            "description": "If the main sentence has an auxiliary verb, it is repeated in the question tag. ",
+            "answers": [
+                "should we",
+                "mustn't we",
+                "shouldn't we"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The children were playing outside, …………………………..?",
+            "description": "Negative tags are used after affirmative statements.",
+            "answers": [
+                "were they",
+                "weren't they",
+                "was they"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The wise man can solve our problem, ………………………….?",
+            "description": "Negative tags are used after affirmative statements. ",
+            "answers": [
+                "can't he",
+                "can he",
+                "won't he"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am working hard, …………………………….?",
+            "description": "The question tag for I am is aren’t I?",
+            "answers": [
+                "am I",
+                "amn't I",
+                "aren't I"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "You are the winner of the prize, ……………………………..?",
+            "description": "",
+            "answers": [
+                "are you",
+                "aren't you",
+                "weren't you"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "One picture is worth a thousand words, ………………………….?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "wasn't it"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Nothing can happen, ……………………………?",
+            "description": "Nothing is a negative word hence an affirmative tag is used after it. In tags, we use it to refer to nothing.",
+            "answers": [
+                "can it",
+                "can nothing",
+                "can't nothing"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Somebody wanted a drink, ……………………………?",
+            "description": "In tags we use they to refer to somebody/anybody.",
+            "answers": [
+                "did somebody",
+                "did they",
+                "didn't they"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "It is quite good, ………………………….?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "doesn't it"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "She has a sister, …………………………..?",
+            "description": "When have refers to a state, question tags with have and do are both possible.",
+            "answers": [
+                "hasn't she",
+                "doesn't she",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Shut up, …………………………..?",
+            "description": "After imperatives, we use will/would/can/can’t/could you? to ask people to do things.",
+            "answers": [
+                "can't you",
+                "will you",
+                "would you",
+                "All of these"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "She works here, ………………………….?",
+            "description": "When the given sentence is in the simple present tense, we use do/does in the tag.",
+            "answers": [
+                "is she",
+                "does she",
+                "doesn't she"
+            ],
+            "correct": 2
+        }
+    ]
+}

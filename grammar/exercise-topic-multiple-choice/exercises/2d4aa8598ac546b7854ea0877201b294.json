@@ -1,0 +1,104 @@
+{
+    "id": "2d4aa8598ac546b7854ea0877201b294",
+    "title": "Sentence Completion",
+    "questions": [
+        {
+            "question": "...................... Dalhousie is the cheapest.",
+            "description": "",
+            "answers": [
+                "Of all hill stations",
+                "From all hill stations"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "He came to meet me …………………..",
+            "description": "",
+            "answers": [
+                "in 5 o'clock",
+                "on 5 o'clock",
+                "at 5 o'clock"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He is very good ......................",
+            "description": "",
+            "answers": [
+                "with drawing",
+                "in drawing",
+                "at drawing"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "He shook ......................",
+            "description": "",
+            "answers": [
+                "hands with me",
+                "my hand"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "The train was moving .....................…",
+            "description": "",
+            "answers": [
+                "in full speed",
+                "on full speed",
+                "at full speed"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "They were accused ......................",
+            "description": "",
+            "answers": [
+                "with theft",
+                "of theft",
+                "about theft"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "There is no remedy …..................... .",
+            "description": "",
+            "answers": [
+                "with this illness",
+                "for this illness",
+                "to this illness"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "There is no solution .....................…",
+            "description": "",
+            "answers": [
+                "of this problem",
+                "to this problem",
+                "with this problem"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He is .....................…",
+            "description": "",
+            "answers": [
+                "in poor health",
+                "poor in health",
+                "Either could be used here"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "You must leave .......................",
+            "description": "",
+            "answers": [
+                "within 5 o'clock",
+                "before 5 o'clock",
+                "Either could be used here"
+            ],
+            "correct": 1
+        }
+    ]
+}

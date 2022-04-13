@@ -1,0 +1,104 @@
+{
+    "id": "cdedaa3c4fdd4188b975dc60e5738da7",
+    "title": "Question Tags Exercise",
+    "questions": [
+        {
+            "question": "You are the new secretary, ………………………..?",
+            "description": "",
+            "answers": [
+                "are you",
+                "aren't you",
+                "were you"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The meeting is at four o’clock, ………………………………?",
+            "description": "",
+            "answers": [
+                "is it",
+                "isn't it",
+                "has it"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You didn’t meet him, ……………………………….?",
+            "description": "",
+            "answers": [
+                "didn't you",
+                "did you"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You like flowers, ………………………………..?",
+            "description": "",
+            "answers": [
+                "do you",
+                "don't you"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "You haven’t seen my keys, ……………………………….?",
+            "description": "",
+            "answers": [
+                "have you",
+                "haven't you",
+                "had you"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Harry gave you a gift, ………………………………..?",
+            "description": "",
+            "answers": [
+                "does he",
+                "did he",
+                "didn't he"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "Let’s have a party, ……………………………….?",
+            "description": "",
+            "answers": [
+                "shall we",
+                "can we",
+                "should we"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "There aren’t any problems, ……………………………?",
+            "description": "",
+            "answers": [
+                "are there",
+                "aren't there",
+                "don't there"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Nothing can happen, ……………………….?",
+            "description": "",
+            "answers": [
+                "can nothing",
+                "can it",
+                "can't it"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Nobody phoned, ………………………….?",
+            "description": "",
+            "answers": [
+                "did they",
+                "didn't they",
+                "had they"
+            ],
+            "correct": 0
+        }
+    ]
+}

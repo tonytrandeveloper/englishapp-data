@@ -1,0 +1,115 @@
+{
+    "id": "fae5c4392e2e440c9d3c46c9859a7969",
+    "title": "Adjective vs. Adverb",
+    "questions": [
+        {
+            "question": "He spoke ………………………..",
+            "description": "We use the adverb loudly to modify the verb spoke. ",
+            "answers": [
+                "loud",
+                "loudly"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "I felt ……………………..",
+            "description": "Feel is a copular verb. We use adjectives, not adverbs, to modify copular verbs. ",
+            "answers": [
+                "happy",
+                "happily"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I am feeling much ………………………… today.",
+            "description": "",
+            "answers": [
+                "good",
+                "well",
+                "better"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "She speaks …………………….. English.",
+            "description": "Here the adjective fluent modifies the noun English.",
+            "answers": [
+                "fluent",
+                "fluently"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "They hit the stone ……………………..",
+            "description": "Hard can be an adjective or an adverb. ",
+            "answers": [
+                "hard",
+                "hardly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "Don’t drive too ……………………….",
+            "description": "The adjective and adverb form of fast is fast. ",
+            "answers": [
+                "fast",
+                "fastly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "I was hit …………………………. on the nose.",
+            "description": "Right can mean exactly.",
+            "answers": [
+                "right",
+                "rightly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "It serves him …………………………",
+            "description": "After a verb right is used to mean correctly. ",
+            "answers": [
+                "right",
+                "rightly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "She is ……………………….. waiting for a call from her son.",
+            "description": "",
+            "answers": [
+                "anxious",
+                "anxiously"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "The baby is sleeping …………………………",
+            "description": "Here soundly modifies the verb sleeping. ",
+            "answers": [
+                "sound",
+                "soundly"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "He was ………………………… asleep.",
+            "description": "Sound is used as an adverb in expressions like sound asleep. In other cases, we use soundly.",
+            "answers": [
+                "sound",
+                "soundly"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "‘Can I borrow your bicycle?’ ‘……………………….’",
+            "description": "",
+            "answers": [
+                "Sure",
+                "Surely"
+            ],
+            "correct": 0
+        }
+    ]
+}

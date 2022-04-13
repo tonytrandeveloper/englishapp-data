@@ -1,0 +1,126 @@
+{
+    "id": "df7a0e9f7f86438e939681256397f687",
+    "title": "Direct And Indirect Speech Exercise",
+    "questions": [
+        {
+            "question": "'She is my best friend,' he said. He said that she ............................. his best friend.",
+            "description": "Simple present tense in the direct speech becomes simple past tense in the indirect speech.",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'She is waiting for us,' he said. /He said that she ............................... for them.",
+            "description": "Present continuous in the direct speech becomes past continuous in the indirect speech.",
+            "answers": [
+                "is waiting",
+                "was waiting",
+                "has been waiting"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'I have visited all the continents,' he said. / He said that he ............................. all the continents.",
+            "description": "Present perfect in the direct speech becomes past perfect tense in the indirect speech.",
+            "answers": [
+                "visited",
+                "has visited",
+                "had visited"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'She has been living alone for years,' he said. / He said that she ............................... alone for years.",
+            "description": "Present perfect continuous in the direct speech becomes past perfect continuous in the indirect speech.",
+            "answers": [
+                "was living",
+                "has been living",
+                "had been living"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'She will help us,' he said. / He said that she .............................. help them.",
+            "description": "Will becomes would in the indirect speech.",
+            "answers": [
+                "will",
+                "would",
+                "could"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'I want to go,' he said. He said that he .................................. to go.",
+            "description": "Simple present tense in the direct speech becomes simple past tense in the indirect speech.",
+            "answers": [
+                "wants",
+                "wanted",
+                "had wanted"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'I don't want to go,' she said. / She said that she .............................. to go.",
+            "description": "",
+            "answers": [
+                "didn't want",
+                "doesn't want",
+                "don't want"
+            ],
+            "correct": 0
+        },
+        {
+            "question": "'I have watched that movie,' he said. / He said that he .................................... that movie.",
+            "description": "",
+            "answers": [
+                "have watched",
+                "had watched",
+                "has watched"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'She must leave now,' he said. / He said that she ............................... leave then.",
+            "description": "",
+            "answers": [
+                "must",
+                "had to",
+                "Either could be used here"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "I can't help you,' he said. / He said that he ................................. help me.",
+            "description": "Can becomes could.",
+            "answers": [
+                "can't",
+                "couldn't",
+                "wouldn't"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'They will have gone,' he said. / He said that they .................................",
+            "description": "",
+            "answers": [
+                "will have gone",
+                "would go",
+                "would have gone"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'I am busy,' he shouted. / He shouted that he ...................................... busy.",
+            "description": "",
+            "answers": [
+                "is",
+                "was",
+                "has been"
+            ],
+            "correct": 1
+        }
+    ]
+}
