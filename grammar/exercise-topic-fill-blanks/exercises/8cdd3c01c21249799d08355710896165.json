@@ -1,0 +1,306 @@
+{
+    "id": "8cdd3c01c21249799d08355710896165",
+    "title": "Mixed Tense Reported Statements",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He works in a bank.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that he worked in a bank.",
+                        "She said he worked in a bank."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"We went out last night.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that they had gone out last night.",
+                        "She said they went out last night."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'm coming!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she was coming.",
+                        "She said she was coming."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was waiting for the bus when he arrived.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had been waiting for the bus when he arrived.",
+                        "She said she had been waiting for the bus when he arrived."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'd never been there before.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had never been there before.",
+                        "She said she had never been there before."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I didn't go to the party.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she hadn't gone to the party.",
+                        "She said that she didn't go to the party."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Lucy will come later.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that Lucy would come later.",
+                        "She said Lucy would come later."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He hasn't eaten breakfast.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that he hadn't eaten breakfast.",
+                        "She said he hadn't eaten breakfast."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I can help you tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she could help me tomorrow.",
+                        "She said that she could help me the next day."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"You should go to bed early.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that I should go to bed early.",
+                        "She said I should go to bed early."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I don't like chocolate.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she didn't like chocolate.",
+                        "She said she didn't like chocolate."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I won't see you tomorrow.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she wouldn't see me tomorrow.",
+                        "She said that she wouldn't see me the next day."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She's living in Paris for a few months.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she was living in Paris for a few months.",
+                        "She said she was living in Paris for a few months."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I visited my parents at the weekend.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had visited her parents at the weekend.",
+                        "She said that she visited her parents at the weekend."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"She hasn't eaten sushi before.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she hadn't eaten sushi before.",
+                        "She said she hadn't eaten sushi before."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I hadn't travelled by underground before I came to London.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she hadn't travelled by underground before she came to London.",
+                        "She said she hadn't travelled by underground before she came to London."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"They would help if they could.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that they would help if they could.",
+                        "She said they would help if they could."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I'll do the washing-up later.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she would do the washing-up later.",
+                        "She said she would do the washing-up later."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"He could read when he was three.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that he could read when he was three.",
+                        "She said he could read when he was three."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was sleeping when Julie called.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She said that she had been sleeping when Julie called.",
+                        "She said she had been sleeping when Julie called."
+                    ]
+                }
+            ]
+        }
+    ]
+}

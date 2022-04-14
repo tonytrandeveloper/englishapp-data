@@ -1,0 +1,593 @@
+{
+    "id": "a238ef150e6a4d9bbe934d8b65c240a4",
+    "title": "Make the first conditional",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) out tonight, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll go",
+                        "will go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the cinema."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) back late, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) angry."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't see",
+                        "do not see"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/see) each other tomorrow, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll see",
+                        "will see"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(see) each other next week."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "comes"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) , I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) surprised."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "wait"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(wait) here, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) on holiday this summer, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll go",
+                        "will go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to Spain."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If the weather"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doesn't improve",
+                        "does not improve"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/improve) , we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won't have",
+                        "will not have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) a picnic."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't go",
+                        "do not go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) to bed early, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) tired tomorrow."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "eat"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) all this cake, we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll feel",
+                        "will feel"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(feel) sick."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't want",
+                        "do not want"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/want) to go out, I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll cook",
+                        "will cook"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) dinner at home."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll come",
+                        "will come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(come) early, if you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "want"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(want)."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll go",
+                        "will go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the party if they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "are"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) invited."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll stay",
+                        "will stay"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(stay) in London if she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "gets"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(get) a job."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won't get",
+                        "will not get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/get) a better job if he"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "doesn't pass",
+                        "does not pass"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/pass) that exam."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll buy",
+                        "will buy"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(buy) a new dress if I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) enough money."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll cook",
+                        "will cook"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(cook) dinner if you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) to the supermarket."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll go",
+                        "will go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(go) on holiday if they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "have"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(have) time."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll be",
+                        "will be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) late if we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't hurry",
+                        "do not hurry"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/hurry)."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "'ll take",
+                        "will take"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(take) a taxi if it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "rains"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(rain)."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "won't go",
+                        "will not go"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/go) if you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "don't come",
+                        "do not come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/come) with me."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "id": "1e9c803149754db1be3d3aaa7b915df5",
+    "title": "Bed / Home / Work / Town Exercise 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John's at"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "home now."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Let's go into"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "town later. I'd like to do some shopping."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I went to"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "bed early last night but I still feel tired."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "The",
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "work that Julie's doing at the moment sounds borning."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My son's just rented his first flat and needs furniture. I'm going to give him"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "bed in our spare room."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I usually arrive at"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "-"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "work at about eight thirty."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She bought a book about"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "homes of the rich and famous."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "The",
+                        "the"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "town where my mother lives is very pretty."
+                }
+            ]
+        }
+    ]
+}

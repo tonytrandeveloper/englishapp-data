@@ -1,0 +1,248 @@
+{
+    "id": "2e3bf69d51814d48803a31d7e9e3046c",
+    "title": "Linking Words of Contrast (However / Despite / Although)",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Despite"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the rain, we still went to the park."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Although"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it was raining, we still went to the park."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "It was raining."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "However"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ", we still went to the park."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John bought the watch,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "despite"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the fact that it was expensive."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "John bought the watch."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "However"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ", it was expensive."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Although"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it was expensive, John bought the watch."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I finished the homework. It,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "however"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ", wasn't easy.."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I finished the homework,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "although"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "it wasn't easy."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Despite"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the fact that it wasn't easy, I finished the homework."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She went for a long walk,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "despite"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "being cold."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Although"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "she was cold, she went for a long walk."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She was cold. She went for a long walk,"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "however"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The restaurant has a good reputation."
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "However"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": ", the food was terrible."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Despite"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the restaurant's good reputation, the food was terrible."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Although"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "the restaurant has a good reputation, the food was terrible."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "id": "2e47ee95672d4e4ea59ea50c45c51260",
+    "title": "Comparative Adjectives 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Dogs are"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "more intelligent"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(intelligent) than rabbits."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Lucy is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "older"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(old) than Ellie."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Russia is far"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "larger"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(large) than the UK."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My Latin class is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "more boring"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(boring) than my English class."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In the UK, the streets are generally"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "narrower"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(narrow) than in the USA."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "London is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "busier"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(busy) than Glasgow."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "quieter"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(quiet) than her sister."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Amanda is"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "more ambitious"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(ambitious) than her classmates."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My garden is a lot"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "more colourful"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(colourful) than this park."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His house is a bit"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "more comfortable"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(comfortable) than a hotel."
+                }
+            ]
+        }
+    ]
+}

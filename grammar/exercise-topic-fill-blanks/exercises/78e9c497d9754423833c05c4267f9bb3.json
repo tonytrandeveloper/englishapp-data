@@ -1,0 +1,174 @@
+{
+    "id": "78e9c497d9754423833c05c4267f9bb3",
+    "title": "Future Simple Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/get) back?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will they come"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(they/come) tomorrow?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you lose your job, what"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you do"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/do)?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "In your opinion"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will she be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/be) a good teacher??"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What time"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will the sun set"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the sun/set) today?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will she get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(she/get) the job, do you think?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "input",
+                    "answers": [
+                        "Will David be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(David/be) at home this evening?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "What"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will the weather be"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(the weather/be) like tomorrow?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "There's someone at the door"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will you get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(you/get) it?"
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "How"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "will he get"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(he/get) here?"
+                }
+            ]
+        }
+    ]
+}

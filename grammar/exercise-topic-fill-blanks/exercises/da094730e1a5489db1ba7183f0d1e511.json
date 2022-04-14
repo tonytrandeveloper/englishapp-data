@@ -1,0 +1,306 @@
+{
+    "id": "da094730e1a5489db1ba7183f0d1e511",
+    "title": "Present Continuous 'Wh' and 'Yes / No' Questions 1",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / you / go to the cinema)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What time are you going to the cinema?",
+                        "What time are you going to the cinema?"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(why / you / study)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Why are you studying?",
+                        "Why are you studying"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(when / you / leave)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "When are you leaving?",
+                        "When are you leaving"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / smoke)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you smoking?",
+                        "Are you smoking"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(he / play / tennis later)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is he playing tennis later?",
+                        "Is he playing tennis later"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / go / shopping at the weekend)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you going shopping at the weekend?",
+                        "Are you going shopping at the weekend"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / drink / wine)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you drinking wine?",
+                        "Are you drinking wine"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / drink now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What are you drinking now?",
+                        "What are you drinking now"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what / you / think)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What are you thinking?",
+                        "What are you thinking"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / work / in an office at the moment?)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she working in an office at the moment?",
+                        "Is she working in an office at the moment"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / study / Portuguese)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they studying Portuguese?",
+                        "Are they studying Portuguese"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(what time / she/ come)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What time is she coming?",
+                        "What time is she coming"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / play tennis tonight)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where are you playing tennis tonight?",
+                        "Where are you playing tennis tonight"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / meet / your friends on Friday)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you meeting your friends on Friday?",
+                        "Are you meeting your friends on Friday"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / read / now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you reading now?",
+                        "Are you reading now"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(where / you / go now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Where are you going now?",
+                        "Where are you going now"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "what / you / do)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "What are you doing?",
+                        "What are you doing"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(she / live / in London)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Is she living in London?",
+                        "Is she living in London"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(they / study now)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are they studying now?",
+                        "Are they studying now"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "(you / eat / cake)?"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Are you eating cake?",
+                        "Are you eating cake"
+                    ]
+                }
+            ]
+        }
+    ]
+}

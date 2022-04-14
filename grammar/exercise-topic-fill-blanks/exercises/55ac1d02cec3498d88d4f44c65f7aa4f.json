@@ -1,0 +1,237 @@
+{
+    "id": "55ac1d02cec3498d88d4f44c65f7aa4f",
+    "title": "Defining Relative Clauses 3",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I broke the plate (the plate was a wedding present)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "I broke the plate that was a wedding present",
+                        "I broke the plate which was a wedding present"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The police arrested the man (I saw the man steal a handbag)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The police arrested the man I saw steal a handbag"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The Queen fired the chef (we had met the chef)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The Queen fired the chef we had met"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She wrote to her friend (her friend lives in Vietnam)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She wrote to her friend that lives in Vietnam",
+                        "She wrote to her friend who lives in Vietnam"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Jill ate the sandwich (the sandwich had tomato and cheese inside)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "Jill ate the sandwich that had tomato and cheese inside",
+                        "Jill ate the sandwich which had tomato and cheese inside"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "His friend lives in Scotland (his friend is a lawyer)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "His friend that is a lawyer lives in Scotland",
+                        "His friend who  is a lawyer lives in Scotland"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We called the secretary (I went to school with the secretary)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "We called the secretary I went to school with"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The CD is in my bag (the CD has Spanish music)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The CD that has Spanish music is in my bag",
+                        "The CD which has Spanish music is in my bag"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The book is very interesting (the book is about Japanese culture)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The book that is about Japanese culture is very interesting",
+                        "The book which is about Japanese culture is very interesting"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The bag was stolen (I bought the bag yesterday)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The bag I bought yesterday was stolen"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He likes films (the films come from Asia)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "He likes films that come from Asia",
+                        "He likes films which come from Asia"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "My nephew broke the plate (I received the plate as a present)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "My nephew broke the plate I received as a present"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The chocolate was very old (we bought the chocolate last week)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The chocolate we bought last week was very old"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The TV programme was very funny (Lucy recommended the TV programme)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The TV programme Lucy recommended was very funny"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The girl is on TV tonight (I met the girl yesterday)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "The girl I met yesterday is on TV tonight"
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They found the money (I dropped the money)"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "They found the money I dropped"
+                    ]
+                }
+            ]
+        }
+    ]
+}

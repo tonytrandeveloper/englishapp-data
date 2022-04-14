@@ -1,0 +1,286 @@
+{
+    "id": "f284e2f7dc8647af91ebbb15415aa54e",
+    "title": "Reported Yes/No Questions",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Am I late?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if she was late."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is it cold outside?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if it was cold outside."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are they in Paris?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if they were in Paris."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the bus stop near the shopping centre?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the bus stop was near the shopping centre."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the milk fresh?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the milk was fresh."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are you a doctor?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I was a doctor."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Are James and Lucy from France?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if James and Lucy were from France."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is my brother in the garden?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if her brother was in the garden."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is the weather good in Shanghai in the summer?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the weather was good in Shanghai in the summer."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does Julie drink tea?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if Julie drank tea."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do you like chocolate?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if I liked chocolate."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do they own a flat?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if they owned a flat."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does David go to the cinema often?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if David went to the cinema often."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do the children study Chinese?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if the children studied Chinese."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do they go on holiday every summer?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if they went on holiday every summer."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does your sister live in Stockholm?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if my sister lived in Stockholm."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do I talk too much?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if she talked too much."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does Jennifer want a new job?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if Jennifer wanted a new job."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Does it rain a lot in London?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if it rained a lot in London."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Is John at home?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me if John was at home."
+                    ]
+                }
+            ]
+        }
+    ]
+}

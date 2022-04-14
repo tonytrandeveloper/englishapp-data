@@ -1,0 +1,288 @@
+{
+    "id": "cbf370d67e844c7e8f5760c414449a66",
+    "title": "Reported Requests and Orders",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please help me carry this.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to help her carry this."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please come early.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to come early."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Please buy some milk.\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to buy some milk."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you please open the window?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to open the window."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Could you bring the book tonight?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to bring the book tonight.",
+                        "She asked me to bring the book that night."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Can you help me with my homework, please?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to help her with her homework."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you bring me a cup of coffee, please?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to bring her a cup of coffee."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you mind passing the salt?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to pass the salt."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Would you mind lending me a pencil?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to lend her a pencil."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"I was wondering if you could possibly tell me the time?\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She asked me to tell her the time."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do your homework!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to do my homework."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't smoke!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to smoke."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't be late!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to be late."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Go to bed!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to go to bed."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Tidy your room!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to tidy my room."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Wait here!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to wait here.",
+                        "She told me to wait there."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't do that!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to do that."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Eat your dinner!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to eat my dinner."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Don't make a mess!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me not to make a mess."
+                    ]
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "\"Do the washing-up!\""
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "She told me to do the washing-up."
+                    ]
+                }
+            ]
+        }
+    ]
+}

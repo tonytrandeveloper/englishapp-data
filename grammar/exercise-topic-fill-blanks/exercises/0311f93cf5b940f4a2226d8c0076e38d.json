@@ -1,0 +1,376 @@
+{
+    "id": "0311f93cf5b940f4a2226d8c0076e38d",
+    "title": "Past Perfect Simple Positive and Negative",
+    "questions": [
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When I arrived at the cinema, the film"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had started"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(start)."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had lived"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(live) in China before she went to Thailand."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "After they"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had eaten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(eat) the shellfish, they began to feel sick."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "If you"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had listened"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(listen) to me, you would have got the job."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie didn't arrive until after I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had left"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(leave)."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "When we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had finished"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(finish) dinner, we went out."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The garden was dead because it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had been"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(be) dry all summer."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(meet) her somewhere before."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We were late for the plane because we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had forgotten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(forget) our passports."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She told me she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "had studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(study) a lot before the exam."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The grass was yellow because it"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't rained",
+                        "had not rained"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/rain) all summer."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The lights went off because we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't paid",
+                        "had not paid"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/pay) the electricity bill."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "The children"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't done",
+                        "had not done"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/do) their homework, so they were in trouble."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "They"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't eaten",
+                        "had not eaten"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/eat) so we went to a restaurant."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "We couldn't go into the concert because we"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't brought",
+                        "had not brought"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/bring) our tickets."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "She said that she"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't visited",
+                        "had not visited"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/visit) the UK before."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "Julie and Anne"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't met",
+                        "had not met"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/meet) before the party."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "I"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't had",
+                        "had not had"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/have) breakfast when he arrived."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "He"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't used",
+                        "had not used"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/use) email before, so I showed him how to use it."
+                }
+            ]
+        },
+        {
+            "parts": [
+                {
+                    "type": "text",
+                    "value": "You"
+                },
+                {
+                    "type": "input",
+                    "answers": [
+                        "hadn't studied",
+                        "had not studied"
+                    ]
+                },
+                {
+                    "type": "text",
+                    "value": "(not/study) for the test, so you were very nervous."
+                }
+            ]
+        }
+    ]
+}
