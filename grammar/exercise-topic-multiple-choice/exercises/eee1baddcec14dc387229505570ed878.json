@@ -9,7 +9,8 @@
                 "small",
                 "little"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "38d21a93962f4afcbf147e738fb48585"
         },
         {
             "question": "It is cold in winter. It is ....................................... in summer.",
@@ -18,7 +19,8 @@
                 "hot",
                 "heated"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bdfaf37ac31a439fbe293ffc1b9fcd85"
         },
         {
             "question": "Yesterday it was cloudy. Today is a ................................. day.",
@@ -27,7 +29,8 @@
                 "sun",
                 "sunny"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "26995b7efa504fa5b3184fec017b5258"
         },
         {
             "question": "These shirts are wet. Haven’t you got a ....................................... one?",
@@ -36,7 +39,8 @@
                 "dry",
                 "dried"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6dcf99999f884371863019d12e3a6739"
         },
         {
             "question": "We won’t reach there in time if we go by a slow train. We must catch a .................................... train.",
@@ -45,7 +49,8 @@
                 "faster",
                 "fast"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "094c415c9c504ce5abd31bb4cac77982"
         },
         {
             "question": "My shoes are old. I want to buy a .................................. pair.",
@@ -54,7 +59,8 @@
                 "new",
                 "fresh"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6de0eaa20cdc477da1e8e4ac6af4f171"
         },
         {
             "question": "Some colors are bright. Others are ...................................",
@@ -64,7 +70,8 @@
                 "pale",
                 "dark"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "3713c41371304270a17940f797ee3c20"
         },
         {
             "question": "It is warm outside. It is ....................................... inside.",
@@ -73,7 +80,8 @@
                 "cool",
                 "cooled"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6ad826e549c644d8b3a40807c30e26ad"
         },
         {
             "question": "This bread is stale. We must buy a ................................ loaf.",
@@ -82,7 +90,8 @@
                 "new",
                 "fresh"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "adc2cd7d99a341da9a6a6371b7986fe8"
         },
         {
             "question": "This knife is blunt. I need a .................................. one.",
@@ -91,7 +100,8 @@
                 "keen",
                 "sharp"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2b895724149c4b5f94a5c33b9972558e"
         }
     ]
 }

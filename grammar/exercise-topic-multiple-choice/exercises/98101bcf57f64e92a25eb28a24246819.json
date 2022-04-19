@@ -10,7 +10,8 @@
                 "not to do",
                 "not doing"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b7ec0b1222f84bf995a43c7a851d9312"
         },
         {
             "question": "Would you mind if I .................................. the window?",
@@ -20,7 +21,8 @@
                 "closed",
                 "will close"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a68b4a31fa8c4bbb9744b6a07ca7838a"
         },
         {
             "question": "What does the sentence 'Would you mind opening the window?' mean?",
@@ -30,7 +32,8 @@
                 "Can I open the window?",
                 "Neither of these"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b64628e0925549ffbf71429b63f65117"
         },
         {
             "question": "Do you mind people .......................... in the kitchen?",
@@ -40,7 +43,8 @@
                 "to smoke",
                 "smoked"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bcc9adc7401f4e0db5d0e394b493c693"
         },
         {
             "question": "Do you mind if people ............................ in the kitchen?",
@@ -50,7 +54,8 @@
                 "smoking",
                 "smoked"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b74fbaf0f358490688721e7abcb15072"
         },
         {
             "question": "I wouldn't mind .......................... this again.",
@@ -60,7 +65,8 @@
                 "doing",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "93181cea2d5d4ce894e677bfeabcddaf"
         },
         {
             "question": "I really ........................... when I went to Singapore.",
@@ -70,7 +76,8 @@
                 "enjoyed myself",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "07d7f89cab2447eb9f11875de3b6d49f"
         },
         {
             "question": "I don't enjoy ......................... dinner.",
@@ -80,7 +87,8 @@
                 "cooking",
                 "to cooking"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a4b8abc417ba48fc94bf9c28c50645ab"
         },
         {
             "question": "I have seen that film ................................",
@@ -90,7 +98,8 @@
                 "many times",
                 "many time"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "069a1bf407eb407497068c6623b28913"
         },
         {
             "question": "I ................................ English for three years.",
@@ -100,7 +109,8 @@
                 "have been learning",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "45d7d9831cbd478096e0f6661c74ad50"
         },
         {
             "question": "I am worried about .............................. he is safe.",
@@ -110,7 +120,8 @@
                 "whether",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "fed9c57431274e7b936903b1806da2e9"
         },
         {
             "question": "She insisted on ............................. at once.",
@@ -120,7 +131,8 @@
                 "to be paid",
                 "to pay"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fa50f21c3cf84c9e9251d76b8260c139"
         }
     ]
 }

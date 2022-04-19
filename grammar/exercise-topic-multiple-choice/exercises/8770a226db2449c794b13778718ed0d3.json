@@ -10,7 +10,8 @@
                 "Any is an adverb",
                 "Any is a conjunction"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "25059f2e80e748c1962d38e9a64ec931"
         },
         {
             "question": "He is as deaf as a post.",
@@ -20,7 +21,8 @@
                 "Deaf is an adverb",
                 "Deaf is a preposition"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9c96c3c93eb540c6bad34aabd1c145c0"
         },
         {
             "question": "I change, but I cannot die.",
@@ -30,7 +32,8 @@
                 "But is a conjunction",
                 "But is a verb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1d74ee11dc2b4957978991b0d329b6e3"
         },
         {
             "question": "He died that he might save his country.",
@@ -40,7 +43,8 @@
                 "That is a conjunction",
                 "That is an adverb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "699fd9c52a8b407480f19cbadc503b59"
         },
         {
             "question": "May comes after April.",
@@ -50,7 +54,8 @@
                 "April is a verb",
                 "April is an adjective"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "2346ace5b72343a6a97cb708fc1a0486"
         },
         {
             "question": "What annoys me most is his obstinacy.",
@@ -60,7 +65,8 @@
                 "Obstinacy is an adverb",
                 "Obstinacy is a noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "81f7501b21354fdebcb09cfa0c50ed93"
         },
         {
             "question": "He still lives in that house.",
@@ -70,7 +76,8 @@
                 "Still is an adverb",
                 "Still is a noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8b446e9339be4aab813ee120fc9c6b8e"
         },
         {
             "question": "Suddenly one of the wheels came off.",
@@ -80,7 +87,8 @@
                 "Off is a preposition",
                 "Off is a conjunction"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7023fe3bbb0248e997f06479dc742f32"
         },
         {
             "question": "Men who work hard enjoy their life fully.",
@@ -90,7 +98,8 @@
                 "Hard is an adverb",
                 "Hard is a verb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3f33303363964868a8b55d2fdd522464"
         },
         {
             "question": "Do not speak so loudly.",
@@ -100,7 +109,8 @@
                 "Loudly is an adverb",
                 "Loudly is an adjective"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "923e523f59a8470a9740f43b6c5cc230"
         },
         {
             "question": "Right the wrong.",
@@ -110,7 +120,8 @@
                 "Right is a verb",
                 "Right is an adverb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "16ea07e673554effb69262d73d4100eb"
         },
         {
             "question": "Do not talk like that.",
@@ -120,7 +131,8 @@
                 "Like is a verb",
                 "Like is an adverb"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6a120efec39f4ff6940182312ee86743"
         },
         {
             "question": "The fool is busy in everyone’s business but his own.",
@@ -130,7 +142,8 @@
                 "But is a preposition",
                 "But is a verb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1a0e6f282eef4c8bac3ef3cbe8534f6d"
         },
         {
             "question": "I like this offer.",
@@ -140,7 +153,8 @@
                 "Like is an adverb",
                 "Like is an adjective"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c667b5d2cbb5449ba0ecf72992501dfe"
         }
     ]
 }

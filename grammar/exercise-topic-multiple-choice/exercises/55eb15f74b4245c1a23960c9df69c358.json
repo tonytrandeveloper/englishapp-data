@@ -10,7 +10,8 @@
                 "doesn't she",
                 "hasn't she"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b6ab9cf566c0400b92a23d330ea32062"
         },
         {
             "question": "Samuel passed the test, …………………….?",
@@ -20,7 +21,8 @@
                 "did he",
                 "didn't he"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "6e7e2ae6470042448aa633c264b25386"
         },
         {
             "question": "She recognized him, ……………………..?",
@@ -30,7 +32,8 @@
                 "didn't she",
                 "doesn't she"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b1868f97a6c9445c930a5ede699647ce"
         },
         {
             "question": "Someone wanted a drink, ……………………..?",
@@ -40,7 +43,8 @@
                 "didn't he",
                 "didn't they"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "2aa38e7b4cd34342a489152fa370e107"
         },
         {
             "question": "You like mushrooms, ……………………..?",
@@ -50,7 +54,8 @@
                 "don't you",
                 "didn't you"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "473b482007a647bd94e81e8cc21fe2ab"
         },
         {
             "question": "He works hard, ……………………….?",
@@ -60,7 +65,8 @@
                 "doesn't he",
                 "hasn't he"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9d7d3bcc04064f628fbbff846623a27f"
         },
         {
             "question": "‘Is your son married?’ ‘Yes, he ………………..’",
@@ -70,7 +76,8 @@
                 "has",
                 "married"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "cea9cdca4db9442b8aba4a209c49908b"
         },
         {
             "question": "‘He took the money.’ ‘No, he ……………………’",
@@ -80,7 +87,8 @@
                 "did",
                 "didn't"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "bd8a47a19b1d4f6fb932253c17b3a25a"
         },
         {
             "question": "He doesn’t speak German. …………………….. do I.",
@@ -90,7 +98,8 @@
                 "Nor",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "ff8d732c636e41b1942393ce190258d2"
         },
         {
             "question": "She can’t swim. Neither ……………………..",
@@ -100,7 +109,8 @@
                 "can I",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b79f9439affe4372b4a9ffae08f2ada4"
         },
         {
             "question": "My husband loves music. …………………. do I.",
@@ -110,7 +120,8 @@
                 "Nor",
                 "So"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a6667520be0346f99bc651a5445a493c"
         },
         {
             "question": "‘I didn’t hear the sound.’ ‘……………………. did I.’",
@@ -120,7 +131,8 @@
                 "So",
                 "Of course"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6da27f37fdfa4e68ba48a61554f0653c"
         }
     ]
 }

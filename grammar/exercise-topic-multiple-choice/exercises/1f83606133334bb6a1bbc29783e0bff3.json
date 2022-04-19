@@ -9,7 +9,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0aa91e92dd244d2391735034c9dc17e4"
         },
         {
             "question": "He told me a secret.",
@@ -18,7 +19,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "59ba8784d3824dcc9830f087f45fce21"
         },
         {
             "question": "They took the child to hospital.",
@@ -27,7 +29,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9968b679e508444383fe5f8e1f7f2d31"
         },
         {
             "question": "She spoke intelligently.",
@@ -36,7 +39,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f284559779064a769b71f2ec7e9d70e0"
         },
         {
             "question": "Please speak the truth.",
@@ -45,7 +49,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ddf9d23a81bc461bb6ff7ffecfe62fda"
         },
         {
             "question": "The bell rang loudly.",
@@ -54,7 +59,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "aaa0e22fe37d484cb67ffcb1372728c0"
         },
         {
             "question": "The door creaked loudly.",
@@ -63,7 +69,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c38cab36512d4e30ad91f3cdb8a56b5e"
         },
         {
             "question": "They tried a new method to solve the problem.",
@@ -72,7 +79,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "02ce5ba78c6944c38db622afc98a0ecc"
         },
         {
             "question": "They tried hard to solve the problem.",
@@ -81,7 +89,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c4755ab40e0a40a595aae8053e1b873d"
         },
         {
             "question": "Many trees fell in the storm.",
@@ -90,7 +99,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "02425b5493744d4eb286728d94c6fa31"
         },
         {
             "question": "People often fell trees indiscriminately.",
@@ -99,7 +109,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "212c55c1dd5a455ea6ab63fafaaf6554"
         },
         {
             "question": "He laid the bag on the table.",
@@ -108,7 +119,8 @@
                 "Transitive",
                 "Intransitive"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "520d73b0029e4217bad29ba894a50a0d"
         }
     ]
 }

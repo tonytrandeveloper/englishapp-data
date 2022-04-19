@@ -11,7 +11,8 @@
                 "Alice is resembled by a Greek goddess.",
                 "None of the above"
             ],
-            "correct": 3
+            "correct": 3,
+            "id": "eef21685da7042febd5d03a24658d67b"
         },
         {
             "question": "Everybody agreed with me.",
@@ -22,7 +23,8 @@
                 "I was agreed by everybody.",
                 "None of these"
             ],
-            "correct": 3
+            "correct": 3,
+            "id": "729d2ab2e8dd45fb8acc2405c4caa29e"
         },
         {
             "question": "This coat doesn’t fit me.",
@@ -33,7 +35,8 @@
                 "This coat is not fitted by me.",
                 "None of these"
             ],
-            "correct": 3
+            "correct": 3,
+            "id": "16be8e8f1dd64d418aa23148ec202c6f"
         },
         {
             "question": "Mathews made a major error is the estimate.",
@@ -44,7 +47,8 @@
                 "A major error was being made in the estimate by Mathews.",
                 "A major error was estimated by Mathews."
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a458df998a7a48afb5a637a4bd35b6c6"
         },
         {
             "question": "They say that his company is in trouble.",
@@ -55,7 +59,8 @@
                 "His company is being said to be in trouble.",
                 "None of these"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9e03874eb68e475ba3d4ff0617426742"
         }
     ]
 }

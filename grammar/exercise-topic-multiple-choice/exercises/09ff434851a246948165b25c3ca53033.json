@@ -10,7 +10,8 @@
                 "started an investigation",
                 "started off investigation"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1b79e2314c1544919661715b3567c2a4"
         },
         {
             "question": "The authorities ....................................... these undesirable activities immediately.",
@@ -20,7 +21,8 @@
                 "must be stopped",
                 "must be stopping"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "449e20496b1f48f7843846d0efeb4c98"
         },
         {
             "question": "Farmers in our country suffer ....................................... on rain.",
@@ -30,7 +32,8 @@
                 "because of an over dependence",
                 "because off an over dependence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8957bfd6c31f422a9567e68402b4e6bd"
         },
         {
             "question": "Do you think that the agricultural sector .................................... more attention than the industrial sector?",
@@ -40,7 +43,8 @@
                 "deserves",
                 "deserving"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3c4042a5c1004f738877ee8a817b45b9"
         },
         {
             "question": "Automation in agriculture and farm management ..................................... to more unemployment.",
@@ -51,7 +55,8 @@
                 "have lead",
                 "has led"
             ],
-            "correct": 3
+            "correct": 3,
+            "id": "0af5837310994d8fb4ae9b9f456038ac"
         }
     ]
 }

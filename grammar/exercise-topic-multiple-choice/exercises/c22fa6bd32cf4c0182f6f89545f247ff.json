@@ -9,7 +9,8 @@
                 "Sings is an adverb",
                 "Well is an adverb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d0479d509c8c4c92ab68a3b82ffb8e4a"
         },
         {
             "question": "The coffee is very hot.",
@@ -19,7 +20,8 @@
                 "Very is an adverb",
                 "Hot is an adverb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "cbef02b0c17c45909601935119033a20"
         },
         {
             "question": "Kiran is an extremely good dancer.",
@@ -29,7 +31,8 @@
                 "Good is an adverb",
                 "Dancer is an adverb"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "07353bd4f1df4c1ab564f183fcfef62d"
         },
         {
             "question": "It is too hot today.",
@@ -39,7 +42,8 @@
                 "Today is an adverb",
                 "Both of the above"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "39eecd5231e54dd6a95b7cc9e8bcd76c"
         },
         {
             "question": "She speaks all foreign languages fluently.",
@@ -49,7 +53,8 @@
                 "All is an adverb",
                 "Fluently is an adverb"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "12b6eb10c6b54695bad2cd014af1bf4d"
         },
         {
             "question": "The child is now happy.",
@@ -59,7 +64,8 @@
                 "Now is an adverb",
                 "Happy is an adverb"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "38ffe61e3a414fa295d84e0de7ffafc9"
         },
         {
             "question": "He learns his lessons very carefully.",
@@ -69,7 +75,8 @@
                 "His is an adverb",
                 "Very is an adverb"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "277a7967e8194b8b83652cfcf762c279"
         },
         {
             "question": "I visit my friend daily.",
@@ -79,7 +86,8 @@
                 "My friend is an adverb",
                 "Daily is an adverb"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "f0f46039023e4d9784b9afd8509f90ef"
         },
         {
             "question": "I will return immediately.",
@@ -89,7 +97,8 @@
                 "Return is an adverb",
                 "Immediately is an adverb"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "12384cac4ba647709444bbe73a16254a"
         },
         {
             "question": "I hardly recognized my old friend.",
@@ -99,7 +108,8 @@
                 "My is an adverb",
                 "Old is an adverb"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7df003659a5540b9a1c38f82847e3bab"
         }
     ]
 }

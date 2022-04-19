@@ -10,7 +10,8 @@
                 "Adjective clause",
                 "Noun clause"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "01e8352ef32d4b3f9d99a011d1ffbe30"
         },
         {
             "question": "As he was not there, I spoke to his mother.",
@@ -20,7 +21,8 @@
                 "Adjective clause",
                 "Noun clause"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "4aad60e5027e449bad7218fb7381cfbe"
         },
         {
             "question": "Just as he entered the room, the clock struck eleven.",
@@ -30,7 +32,8 @@
                 "Adverb clause",
                 "Noun clause"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3b977aa6d3b246cdb3d01543296b96a6"
         },
         {
             "question": "If you eat too much you will fall ill.",
@@ -40,7 +43,8 @@
                 "Adjective clause",
                 "Adverb clause"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "95ff94b47f824f8292bfee8218bc95a8"
         },
         {
             "question": "We asked him many questions when he returned.",
@@ -50,7 +54,8 @@
                 "Adjective clause",
                 "Noun clause"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7baf234dfdd2460ca1e0d2c58fc19261"
         },
         {
             "question": "My parents were poor though they were of noble birth.",
@@ -60,7 +65,8 @@
                 "Noun clause",
                 "Adverb clause"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "1e5b397ebb21452b8f77d14dc20c3488"
         },
         {
             "question": "Mary had a little lamb whose fleece was as white as snow.",
@@ -70,7 +76,8 @@
                 "Adverb clause",
                 "Noun clause"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "edf911f5a437437e9b884be9f60a7a39"
         },
         {
             "question": "I still live in the same city where I was born.",
@@ -80,7 +87,8 @@
                 "Adverb clause",
                 "Adjective clause"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a20f49f1c419459ab8270fb2225de593"
         },
         {
             "question": "He met a girl whose eyes were blue.",
@@ -90,7 +98,8 @@
                 "Adverb clause",
                 "Adjective clause"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "dd17d9bba6cc40eea3ead8c69ecbcd8a"
         },
         {
             "question": "I often wonder how you are getting on.",
@@ -100,7 +109,8 @@
                 "Adjective clause",
                 "Noun clause"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d7984ddd04334504b7dbde88a6528053"
         },
         {
             "question": "He asked me where I lived.",
@@ -110,7 +120,8 @@
                 "Adjective clause",
                 "Adverb clause"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "30db17bcaa684fcd965512685cf05aa3"
         },
         {
             "question": "The fact that he is silent proves his guilt.",
@@ -120,7 +131,8 @@
                 "Noun clause",
                 "Adverb clause"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "64e2cdc03a5b4685ab6ea17bd394e08e"
         }
     ]
 }

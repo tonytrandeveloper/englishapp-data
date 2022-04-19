@@ -10,7 +10,8 @@
                 "should",
                 "can"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "e704bf6620164fe4906e666839a7fe7e"
         },
         {
             "question": "You ............................... go shopping this week.",
@@ -20,7 +21,8 @@
                 "do not need",
                 "should not"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fc52f162661c4ac2822e71a82a7c1839"
         },
         {
             "question": ".................................. we throw a party next week?  (Make a suggestion)",
@@ -30,7 +32,8 @@
                 "Will",
                 "Would"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "16e3d4210e8944db9743c1bddf65610c"
         },
         {
             "question": "........................... I carry your bag? (Make an offer)",
@@ -40,7 +43,8 @@
                 "Should",
                 "Will"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c9bbdf2fd3a749f2ac66f37c895e1951"
         },
         {
             "question": "You .............................. vote unless you are  (Inability)",
@@ -50,7 +54,8 @@
                 "should not",
                 "could not"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ca9477d348154429a3f6daf3c8d460de"
         },
         {
             "question": "You .............................. to wake me up early tomorrow. I am on holiday. (Lack of necessity)",
@@ -60,7 +65,8 @@
                 "do not need",
                 "must not"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7fdac70dd1384efeb7ee9bd8b7248226"
         },
         {
             "question": "You .............................. get that carpet cleaned. (Necessity)",
@@ -70,7 +76,8 @@
                 "would",
                 "might"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6e3ffc92a3744bfeb3a8f116efd64017"
         },
         {
             "question": "You ............................... pack so many clothes. We are only going for one day. (Lack of necessity)",
@@ -80,7 +87,8 @@
                 "do not need",
                 "cannot"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c94fdc1f335e4b4ca4c7add1e91ebf5f"
         },
         {
             "question": "You ................................ smoke at work. (Prohibition)",
@@ -90,7 +98,8 @@
                 "should not",
                 "need not"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "910e44e9f75f448d9f28719f45de1acd"
         },
         {
             "question": "I love music. I ............................. play the piano really well. (Ability)",
@@ -100,7 +109,8 @@
                 "will",
                 "could"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c99df0149d8e446386802d97e5abdcbd"
         },
         {
             "question": "I lost my phone yesterday but I ................................ find it. (Ability)",
@@ -110,7 +120,8 @@
                 "can",
                 "could"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "464692a41a3a45878a958fa90c99973b"
         },
         {
             "question": "She ............................. walk when she was just 8 months old. (Past ability)",
@@ -120,7 +131,8 @@
                 "could",
                 "was able to"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f2520c8410c2492a805128df3d314d02"
         }
     ]
 }

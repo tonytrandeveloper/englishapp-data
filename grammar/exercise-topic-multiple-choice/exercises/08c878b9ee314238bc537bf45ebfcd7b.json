@@ -10,7 +10,8 @@
                 "had killed",
                 "was killed"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "1df89a0fdb14425884f8eeba40b86e28"
         },
         {
             "question": "He loves me. / I ..................................... by him.",
@@ -20,7 +21,8 @@
                 "have loved",
                 "am loved"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "7bffda244c9e4eb9b5a0115c5ff91dbe"
         },
         {
             "question": "I bought a shirt yesterday. / A shirt ...................................... by me.",
@@ -30,7 +32,8 @@
                 "is bought",
                 "was bought"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "fa7c4d41f3b54ffe9aed81d9630adf3f"
         },
         {
             "question": "I ate an apple. / An apple ........................................... by me.",
@@ -40,7 +43,8 @@
                 "was eaten",
                 "is eaten"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3a9f9a132e944e608a4c7acf75511e86"
         },
         {
             "question": "I have invited all of my friends. / All of my friends ............................................. by me.",
@@ -50,7 +54,8 @@
                 "had been invited",
                 "have been invited"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "56700248de8e4460ab3ecab7a7fae195"
         },
         {
             "question": "I am reading a novel. / A novel ............................................ by me.",
@@ -60,7 +65,8 @@
                 "is being read",
                 "was being read"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5cc90ecb481e4eebb8d4770232cabbed"
         },
         {
             "question": "Janet will give you a present. / You ..................................... a present by Janet.",
@@ -70,7 +76,8 @@
                 "will be giving",
                 "will be given"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "1d51e3ee1bf945faaf9746639819b3b8"
         },
         {
             "question": "She will have helped me. / I ................................................ by her.",
@@ -80,7 +87,8 @@
                 "will have been helping",
                 "will have been helped"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "95fc0efa83db4268b8392914864fc1a4"
         },
         {
             "question": "I was watching a movie. / A movie .............................................. by me.",
@@ -90,7 +98,8 @@
                 "was watched",
                 "was being watched"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "be5682a016134438a40eca76b0db320a"
         },
         {
             "question": "They carried the patient home. / The patient ...................................... home.",
@@ -100,7 +109,8 @@
                 "was carried",
                 "was being carried"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a39937d054ff4077ab95deed898c951a"
         },
         {
             "question": "Do it at once. / ................................................ at once.",
@@ -110,7 +120,8 @@
                 "Let it be done",
                 "Let it done"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5e26f8d499b7499ab27e6c2f39114ace"
         },
         {
             "question": "Do not beat the dog. / Let the dog ...............................................",
@@ -120,7 +131,8 @@
                 "not be beaten",
                 "is not beaten"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "cc25d20b9883443693f983a8d17096fd"
         }
     ]
 }

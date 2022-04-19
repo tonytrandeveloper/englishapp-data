@@ -10,7 +10,8 @@
                 "had taken",
                 "was taken"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a0fc89ad613e40889e323374aa377cf1"
         },
         {
             "question": "Did the noise frighten you? / .................................. you frightened by the noise?",
@@ -20,7 +21,8 @@
                 "Had",
                 "Were"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d470938bfa2849f0b1f9ac939a216bde"
         },
         {
             "question": "Someone will show you the path. /  You ..................................... the path by someone.",
@@ -30,7 +32,8 @@
                 "will be shown",
                 "would be shown"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "01e0a98b58e042f295b0edf7ad8b4109"
         },
         {
             "question": "Let him attend the call. / Let the call ....................................... by him.",
@@ -40,7 +43,8 @@
                 "is attended",
                 "be attended"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "3d4cee719f874a7b9df2853b8d1cd4a4"
         },
         {
             "question": "Thousands visit the shrine every year. /  The shrine ...................................... by thousands every year.",
@@ -50,7 +54,8 @@
                 "is visited",
                 "has visited"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "4dee79a87ba34d818157aefebf9c7855"
         }
     ]
 }

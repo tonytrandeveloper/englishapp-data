@@ -11,7 +11,8 @@
                 "ought",
                 "will"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f7467c49f72a43eda5e7c3bf9d39884b"
         },
         {
             "question": "………………….. you lend me a few dollars? (polite request)",
@@ -21,7 +22,8 @@
                 "Could",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "72a02cbac410403b9622995313f5b509"
         },
         {
             "question": "You …………………. not have done this to me. (criticism)",
@@ -31,7 +33,8 @@
                 "would",
                 "Either could be used here"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "302ae11c1de24eab93de8129334c73ec"
         },
         {
             "question": "She ………………. be driving now. (probability)",
@@ -41,7 +44,8 @@
                 "would",
                 "can"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "182dbd7d657c42cba03c88536c516072"
         },
         {
             "question": "It …………………. rain in the evening. (weak possibility)",
@@ -51,7 +55,8 @@
                 "can",
                 "may"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ea33fa599ac84fd08d9f81d159b02bf1"
         },
         {
             "question": "You ………………… not have waited for them. (lack of necessity)",
@@ -62,7 +67,8 @@
                 "may",
                 "must"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6f6adb25126b4136b64c48613e5d1655"
         },
         {
             "question": "………………. I wait any longer? (necessity)",
@@ -73,7 +79,8 @@
                 "May",
                 "Will"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7fcd6d2dbe014bd7af9221b979711087"
         },
         {
             "question": "You ………………… to follow traffic rules. (obligation)",
@@ -83,7 +90,8 @@
                 "ought",
                 "must"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "81451553e43b4517a5626df033aacddd"
         },
         {
             "question": "………………. I turn the heating on? (necessity)",
@@ -93,7 +101,8 @@
                 "Should",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "13116da6cdcd4d09a72dcc5dc64542b8"
         },
         {
             "question": "You ……………….. have helped me. Why did you just sit and watch? (criticism)",
@@ -103,7 +112,8 @@
                 "could",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "9f126bd3d84e487f9eddf0d468c709dc"
         }
     ]
 }

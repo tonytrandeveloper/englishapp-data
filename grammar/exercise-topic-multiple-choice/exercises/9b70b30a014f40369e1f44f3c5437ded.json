@@ -10,7 +10,8 @@
                 "miss",
                 "Either could be used here"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fa5e1bd95324403d90339d02870af68b"
         },
         {
             "question": "She threw a glass at me, but .................................",
@@ -20,7 +21,8 @@
                 "lacked",
                 "lost"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "d058f712e9324ca7a28ab1cdc948d746"
         },
         {
             "question": "If we don’t hurry we will ................................ the train.",
@@ -30,7 +32,8 @@
                 "miss",
                 "lack"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "6fb35678b9a3462199d2c902dedaf1b5"
         },
         {
             "question": "When did you realize that the bag was ....................................?",
@@ -40,7 +43,8 @@
                 "lost",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d52c79ec27474e61878d9e365d4bde11"
         },
         {
             "question": "The kitchen ought to .................................... these days.",
@@ -50,7 +54,8 @@
                 "be painted",
                 "be painting"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "256d1b5063be468ca9628b1749b73586"
         },
         {
             "question": "................................ university students have to borrow money these days.",
@@ -60,7 +65,8 @@
                 "More of",
                 "Either could be used here"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "dcbc06e8ad7b462fbe63d092909f58c6"
         },
         {
             "question": "You ................................ be Anna’s sister – you look just like her.",
@@ -70,7 +76,8 @@
                 "must",
                 "will"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "dfe93fc15a50469884120f0740888b37"
         },
         {
             "question": "Do we need .............................. seats on the train?",
@@ -80,7 +87,8 @@
                 "to reserve",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f9876b76cbbc49aa91e28187390df67b"
         },
         {
             "question": "You seldom work on Saturdays, .................................?",
@@ -90,7 +98,8 @@
                 "don't you",
                 "did you"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fc6bb895e6874c02b872ca74eacdc6ab"
         },
         {
             "question": "................................... quick results when you learn a foreign language.",
@@ -100,7 +109,8 @@
                 "Do not expect",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f31ae3e76f524b399ad29fa9bf0c4759"
         },
         {
             "question": "There is little point in asking him, ..............................?",
@@ -110,7 +120,8 @@
                 "isn't there",
                 "does there"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0094c0fa51e245c49e024398288de89c"
         },
         {
             "question": "He has few reasons to quit, ...............................?",
@@ -120,7 +131,8 @@
                 "has he",
                 "does he"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a05832959166468b8bfee6c0fc777e01"
         }
     ]
 }

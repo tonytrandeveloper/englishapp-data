@@ -10,7 +10,8 @@
                 "more high",
                 "higher"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "8c2f5f634170494bb1fe97ce65b71e96"
         },
         {
             "question": "The sun is ....................... than the moon.",
@@ -20,7 +21,8 @@
                 "hotter",
                 "hottest"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "62f52a9e6e78468fabf5713da243cb46"
         },
         {
             "question": "The moon is not as ..................... . as the sun.",
@@ -30,7 +32,8 @@
                 "hotter",
                 "hottest"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bae46edd7ee946ed9c56e970d15a7ed7"
         },
         {
             "question": "Iron is …..................... . wood.",
@@ -40,7 +43,8 @@
                 "heavier than",
                 "heaviest than"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e67d77c4bbdf4280a381ac214b12fbe8"
         },
         {
             "question": "Wood is not as ......................... as iron.",
@@ -50,7 +54,8 @@
                 "heavier",
                 "heaviest"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "42a83a532ce447008fd93b7ed2d14079"
         },
         {
             "question": "Dogs are ........................... than cats.",
@@ -60,7 +65,8 @@
                 "more faithful",
                 "most faithful"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "ee32563eed3746398018f5122ec60cfc"
         },
         {
             "question": "Cats are ....................... than dogs.",
@@ -70,7 +76,8 @@
                 "less faithful",
                 "lesser faithful"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "297f0e0eb48a4e398e0b45a95672020d"
         },
         {
             "question": "The sparrow is ....................... than the crow.",
@@ -80,7 +87,8 @@
                 "smaller",
                 "smallest"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7eab843ebe924aa68988fa1466a08b35"
         },
         {
             "question": "The crow is not as ....................... as the sparrow.",
@@ -90,7 +98,8 @@
                 "smaller",
                 "smallest"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "83ab8eca3bf44091a5e139a43ab04140"
         },
         {
             "question": "The elephant is the ...................... of the land animals.",
@@ -100,7 +109,8 @@
                 "biggest",
                 "more big"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "63d38af58c6245918d32becc6d074f7e"
         },
         {
             "question": "Samuel is ............................ any other boy in the class",
@@ -110,7 +120,8 @@
                 "smarter than",
                 "the smarter than"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d5325e37f61f40749ae2ef9c4b0b3d6d"
         }
     ]
 }

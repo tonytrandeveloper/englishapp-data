@@ -9,7 +9,8 @@
                 "have",
                 "had"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "8f5ec5185e654882be8f08a1fdffc96d"
         },
         {
             "question": "I ....................................... breakfast at 8 am yesterday.",
@@ -19,7 +20,8 @@
                 "has",
                 "had"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a9eca1b6a9d548ef87fcb012e6700498"
         },
         {
             "question": "The dog ........................................ all night yesterday.",
@@ -29,7 +31,8 @@
                 "was barking",
                 "has been barking"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "0817fa75db7547579dd452eebaffb184"
         },
         {
             "question": "The dog .................................... at the moment.",
@@ -39,7 +42,8 @@
                 "is barking",
                 "barked"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b3856a37085344a093f2d0b0afa1ede9"
         },
         {
             "question": "The dog ................................... for hours last night.",
@@ -49,7 +53,8 @@
                 "has barked",
                 "barked"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "2057d011354643a0af0b3df7894d121b"
         },
         {
             "question": "I .......................................... the newspaper every morning.",
@@ -59,7 +64,8 @@
                 "have read",
                 "was reading"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1143fd0b883d4d7d87c212ef3520a9dc"
         },
         {
             "question": "I ....................................... the newspaper at the moment.",
@@ -69,7 +75,8 @@
                 "am reading",
                 "was reading"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2aa07994db1d4b9da844ca575ac2ea1b"
         },
         {
             "question": "He ................................... me English for three hours last Sunday.",
@@ -79,7 +86,8 @@
                 "is teaching",
                 "has taught"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a09cd1d82ecf48b582fd6b06f9b24d3b"
         },
         {
             "question": "He ................................... me English at the moment.",
@@ -89,7 +97,8 @@
                 "is teaching",
                 "taught"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2bb6f42e47c0404f92e029375499da8a"
         },
         {
             "question": "He ..................................... me English every day.",
@@ -99,7 +108,8 @@
                 "is teaching",
                 "has taught"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "4cd7d5e359174b47a366425dee78c78f"
         }
     ]
 }

@@ -10,7 +10,8 @@
                 "Compound sentence",
                 "Complex sentence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6e5d4146b2e447c5aa50e63fe62a337c"
         },
         {
             "question": "He that climbs too high is sure to fall.",
@@ -20,7 +21,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "72ca7c2c9214473a91f013e2b2b31272"
         },
         {
             "question": "Which is the road that leads to the railway station?",
@@ -30,7 +32,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "70f7ccb823e24f4193924d93366c4cc2"
         },
         {
             "question": "What did you do then?",
@@ -40,7 +43,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "68712682015f433185ea9ba2de51581f"
         },
         {
             "question": "The reason why he failed is obvious.",
@@ -50,7 +54,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e3bfc011a5ec46cc9ea3df54dc8b5334"
         },
         {
             "question": "He told me the truth.",
@@ -60,7 +65,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f105c13dfbfe4d368b69cac2b876af06"
         },
         {
             "question": "It is uncertain whether he will come.",
@@ -70,7 +76,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "84503964eb094c9ab58e5847e0ab7f34"
         },
         {
             "question": "I don’t know what he wants.",
@@ -80,7 +87,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b366be86067f4fbebf95798d8e338f0c"
         },
         {
             "question": "I wanted to help him but I had no money.",
@@ -90,7 +98,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "8ec055eb12e549ad8fd24786bddd2142"
         },
         {
             "question": "He is neither intelligent nor clever.",
@@ -100,7 +109,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "5822ce2ca6ee4eca8a881d65255ddb82"
         },
         {
             "question": "Pay your fee or your subscription will be cancelled.",
@@ -110,7 +120,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "e509e027a8804ae38d9c89e1b1bd5bde"
         },
         {
             "question": "He had gone before I reached his place.",
@@ -120,7 +131,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f15e4c9615c8463ebd5ea2dc7ad48926"
         }
     ]
 }

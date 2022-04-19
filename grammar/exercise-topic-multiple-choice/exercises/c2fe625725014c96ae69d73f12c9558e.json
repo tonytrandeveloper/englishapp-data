@@ -10,7 +10,8 @@
                 "abstract noun",
                 "collective noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "45c5635e3ba4480584fcb6cd5d6c391c"
         },
         {
             "question": "Sharon makes models from clay. Sharon is a ......................................",
@@ -20,7 +21,8 @@
                 "proper noun",
                 "collective noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "074e93526f394a899538b21cd38f1700"
         },
         {
             "question": "Donald took out his pen and began to make notes. Pen is a .................................",
@@ -30,7 +32,8 @@
                 "proper noun",
                 "material noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "20f2e4715ef247cc9832917ac38ec866"
         },
         {
             "question": "The crocodiles in the river snapped angrily at the boat. River is a .....................................",
@@ -40,7 +43,8 @@
                 "abstract noun",
                 "common noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "fcedaba8687549339020884c67e3f741"
         },
         {
             "question": "The boys on bicycles delivered pamphlets. Pamphlets is a ................................",
@@ -50,7 +54,8 @@
                 "proper noun",
                 "collective noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "2114a19e907a4b3f972973c08f3f7d14"
         },
         {
             "question": "Cleopatra was known for her beauty. Beauty is a / an .......................................",
@@ -60,7 +65,8 @@
                 "abstract noun",
                 "common noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8511bc5125814449beceb0a89df730d8"
         },
         {
             "question": "Always speak the truth. Truth is a ..............................",
@@ -70,7 +76,8 @@
                 "collective noun",
                 "abstract noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "39c82a34dba54ebeba944a0a6701a8cf"
         },
         {
             "question": "The Nile overflows its banks every year. Nile is a ......................................",
@@ -80,7 +87,8 @@
                 "collective noun",
                 "abstract noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c25ef11f9989468fbfaac5d2bbea429a"
         },
         {
             "question": "I believe in his innocence. Innocence is a ....................................",
@@ -90,7 +98,8 @@
                 "collective noun",
                 "abstract noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "bb6ca724f0bb477bb638fd1229d4ad4a"
         },
         {
             "question": "The elephant has great strength. Elephant is a .........................................",
@@ -100,7 +109,8 @@
                 "abstract noun",
                 "common noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "63f975fd438b46968c8b61f7e5cbb23d"
         }
     ]
 }

@@ -9,7 +9,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "3b71af2287ce44d88a6fbfb8582b7d6c"
         },
         {
             "question": "She worked hard 'to pass' the test.",
@@ -18,7 +19,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "698820bd44f14dd687685a521843a29b"
         },
         {
             "question": "I 'couldn’t solve' the problem.",
@@ -27,7 +29,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1f9da1d8364447d49db02f88b32e5d0e"
         },
         {
             "question": "'To err' is human.",
@@ -36,7 +39,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1292aa91d7f44e0fbba4ece45c13f92f"
         },
         {
             "question": "Your duty is 'to cross' the river without getting noticed.",
@@ -45,7 +49,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "6830267301fe4c9ea50ba605ca50a6b6"
         },
         {
             "question": "The doctor 'is attending' to the injured people.",
@@ -54,7 +59,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bd29d8ecca7c4bf79395b284ec5cee6d"
         },
         {
             "question": "She 'opened' the door.",
@@ -63,7 +69,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9c36204578154f528b7a9320a17bf56a"
         },
         {
             "question": "The students were asked 'to submit' their assignments by Friday.",
@@ -72,7 +79,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3ce818d63404448682f6a06a3abc12b8"
         },
         {
             "question": "The teacher 'encouraged' the students to work hard.",
@@ -81,7 +89,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "30b133aa0bdd4aae9414e36ab5073022"
         },
         {
             "question": "The dog 'wagged' its tail to show its happiness.",
@@ -90,7 +99,8 @@
                 "finite",
                 "non-finite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0bb86b16d651404096b943db803bdabb"
         }
     ]
 }

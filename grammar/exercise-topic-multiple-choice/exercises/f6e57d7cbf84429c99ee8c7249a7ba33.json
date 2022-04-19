@@ -10,7 +10,8 @@
                 "did she",
                 "didn't she"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "06bf237ed97e4feb924d4270eb17d2a0"
         },
         {
             "question": "The horse drew the carriage. Change into passive.",
@@ -20,7 +21,8 @@
                 "The carriage is drawn by the horse",
                 "The carriage was drawn by the horse."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "27d07f71125245f7ae8dc53ec773d0a5"
         },
         {
             "question": "Sam asked us, ‘Are you leaving today?’ Change into indirect speech",
@@ -30,7 +32,8 @@
                 "Sam asked us whether we are leaving that day.",
                 "Sam asked us whether we were leaving that day."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0e28f3611a1b4472b17a08091e4938d9"
         },
         {
             "question": "I feel happy whenever she ………………… at me.",
@@ -40,7 +43,8 @@
                 "would smile",
                 "smiled"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fb1650589576455eb2628140dfb7c696"
         },
         {
             "question": "I will be happy if she ………………….. at me.",
@@ -50,7 +54,8 @@
                 "will smile",
                 "would smile"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c64fe5e7fcf54a6f8618b05a78b8ae28"
         },
         {
             "question": "Too many cooks ………………….. the broth.",
@@ -60,7 +65,8 @@
                 "stir",
                 "spoil"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "fea6b84d6d304247b9d9d94b5111997c"
         },
         {
             "question": "The voice of the protestors …………………… \tquite loud.",
@@ -70,7 +76,8 @@
                 "were",
                 "are"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ab4b08a0f8e24bed9a5d780d9e0f30a8"
         },
         {
             "question": "What is the plural form of runner up?",
@@ -80,7 +87,8 @@
                 "runners ups",
                 "runners up"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "98ddfdfebf3c4b1e86a037e8d65551d2"
         },
         {
             "question": "I realized that I ………………….. a mistake.",
@@ -90,7 +98,8 @@
                 "have made",
                 "had made"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "549778870d38415da41c41211a77a212"
         },
         {
             "question": "Give the word that is opposite in meaning to 'moist'.",
@@ -101,7 +110,8 @@
                 "parched",
                 "sultry"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "13dcc70446ad4d4c8c57f2e2b78d58f1"
         },
         {
             "question": "What does via media mean?",
@@ -112,7 +122,8 @@
                 "a compromise between extremes",
                 "an unpleasant outcome"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "e13e74efb187497093156da9e7277e07"
         },
         {
             "question": "The children sat …………………….. the ground.",
@@ -123,7 +134,8 @@
                 "on",
                 "up"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "b86667853cd94938b5597e11894b35f0"
         }
     ]
 }

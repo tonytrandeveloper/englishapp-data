@@ -9,7 +9,8 @@
                 "made of",
                 "are made of"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3be9a640b86144f0a1d8cd5bab298121"
         },
         {
             "question": "My mother ……………….. wine from strawberries.",
@@ -18,7 +19,8 @@
                 "makes",
                 "is made"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "332e0b29e72c451f8731056340cfdc90"
         },
         {
             "question": "The house …………………",
@@ -27,7 +29,8 @@
                 "is built",
                 "is being built"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "11ef35719c024793877cdd35da5fcf23"
         },
         {
             "question": "This bag …………………. of leather.",
@@ -36,7 +39,8 @@
                 "made",
                 "is made"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "81ff8d81ae6a479693a261030ff61842"
         },
         {
             "question": "It ………………. disappeared. I can’t see it now.",
@@ -45,7 +49,8 @@
                 "has",
                 "has been"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "90a58dd46b6449399e9bf22f6413a705"
         },
         {
             "question": "Their house ………………… last week.",
@@ -54,7 +59,8 @@
                 "sold",
                 "was sold"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "6038de8ec9404d2d8c4d2f68d5ad57ab"
         },
         {
             "question": "Do you think that the work ………………… by Friday?",
@@ -63,7 +69,8 @@
                 "is completed",
                 "will be completed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a6ca7fe09d7f44618764959249be10fc"
         },
         {
             "question": "These tablets ………………. with food.",
@@ -72,7 +79,8 @@
                 "need to take",
                 "need to be taken"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "152452f530a148058b76ca797a729290"
         },
         {
             "question": "The postman …………………. this letter in the morning.",
@@ -81,7 +89,8 @@
                 "delivered",
                 "was delivered"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "200637e1176c41f6aee8410a17658d50"
         },
         {
             "question": "You ………………. the money last week.",
@@ -90,7 +99,8 @@
                 "should sent",
                 "should have sent"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "255f59fe4635485c943d729a85bf70f7"
         }
     ]
 }

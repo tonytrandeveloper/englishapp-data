@@ -10,7 +10,8 @@
                 "took",
                 "taking"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "31c9f1c1892b46b09aecbe56d4aae28a"
         },
         {
             "question": "Yesterday I .............................. a new phone as my old one .................................. stolen.",
@@ -20,7 +21,8 @@
                 "have bought, has been",
                 "had bought, were stolen"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a61f755037ca49e1b4337760b50ee617"
         },
         {
             "question": "They ..................................... a house in Delhi two months ago.",
@@ -30,7 +32,8 @@
                 "have bought",
                 "had bought"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7976f224584c410daa88efe8d62c32bf"
         },
         {
             "question": "Ever since I .................................... my home, I ...................................... living here.",
@@ -40,7 +43,8 @@
                 "left, have been",
                 "had left, am"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "51a66ba2910e49b8a4fab068fe1462d7"
         },
         {
             "question": "She usually .................................. white clothes.",
@@ -50,7 +54,8 @@
                 "wears",
                 "was wearing"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c9667a9e5db34c8eb956485dca9f8820"
         },
         {
             "question": "I .................................. never forget what you just .................................... me.",
@@ -60,7 +65,8 @@
                 "would, told",
                 "will, tell"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "cd66d7bc8cc04480a0ff9072dbdf72fc"
         },
         {
             "question": "I heard her ………………………………… in the next room.",
@@ -70,7 +76,8 @@
                 "to cry",
                 "to crying"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9cb30d0ab39241f897da52e768988e06"
         },
         {
             "question": "It’s time you …………………………………. that coat.",
@@ -80,7 +87,8 @@
                 "washed",
                 "had washed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "08d5695ebc5c44329242957b07e11f50"
         },
         {
             "question": "He was ………………………………….. in the battle.",
@@ -89,7 +97,8 @@
                 "wound",
                 "wounded"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9e1923867ca94a40926ac0e92793d76c"
         }
     ]
 }

@@ -10,7 +10,8 @@
                 "was driving, saw",
                 "drove, was seeing"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f0bcb89d6c4c44e58381cb7fb1410246"
         },
         {
             "question": "When I ........................................ a bath, the telephone ......................................",
@@ -20,7 +21,8 @@
                 "had, was ringing",
                 "was having, was ringing"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ed67d723de24422f8a539ea8b3bea533"
         },
         {
             "question": "I ........................................ when someone knocked on the door.",
@@ -30,7 +32,8 @@
                 "slept",
                 "am sleeping"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a72fafb22d7e4e17ba06033aa2f071d5"
         },
         {
             "question": "While she ...................................... games, I .........................................",
@@ -40,7 +43,8 @@
                 "played, worked",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "b60edfeffebe489893ea59925fd46201"
         },
         {
             "question": "As I ............................... my eyes, I ................................... a strange sight.",
@@ -50,7 +54,8 @@
                 "was opening, was seeing",
                 "was opening, saw"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9ba89be44da447399600ba59bb3f9354"
         },
         {
             "question": "James ..................................... the lounge while I .............................. supper.",
@@ -60,7 +65,8 @@
                 "was tidying, cooked",
                 "tidied, was cooking"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "68676f53c2134c78b17d211ff0eada28"
         },
         {
             "question": "While they ....................................... caroms somebody ........................................ into the house.",
@@ -70,7 +76,8 @@
                 "played, broke",
                 "were playing, was breaking"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "43e66761683746a390bbf2d9953da737"
         },
         {
             "question": "I ...................................... of it just when you ..................................... your mouth.",
@@ -80,7 +87,8 @@
                 "was thinking, were opening",
                 "thought, were opening"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "67ab3e9b9671470c9a32ec073485043f"
         },
         {
             "question": "When she ......................................... a bath, the child ................................. to cry.",
@@ -90,7 +98,8 @@
                 "had, was beginning",
                 "was having, was beginning"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "efbbaebc641241e1818a71b2e5b7586f"
         },
         {
             "question": "She took out her pen and .......................................... writing.",
@@ -99,7 +108,8 @@
                 "started",
                 "was starting"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "94d84e73a9d847099409de7ae65fca2e"
         }
     ]
 }

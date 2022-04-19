@@ -10,7 +10,8 @@
                 "Either",
                 "Both"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "da67f2c638ef4648b121c67d89de5e0e"
         },
         {
             "question": "I don't know ........................... of these authors.",
@@ -20,7 +21,8 @@
                 "neither",
                 "both"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "224d34c45aef449f91fbbcf99978c9d9"
         },
         {
             "question": "There are very ............................ good restaurants in this town.",
@@ -30,7 +32,8 @@
                 "hardly",
                 "little"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "09f20049cd544d3f96ece35537fdd6c4"
         },
         {
             "question": "There are .............................. any good restaurants in this town.",
@@ -40,7 +43,8 @@
                 "hardly",
                 "few"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2ffad988c29b4fe5a92e008ccf6d3a8b"
         },
         {
             "question": "I haven't got cats ............................. dogs.",
@@ -50,7 +54,8 @@
                 "or",
                 "neither"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "24c1e91b28ba4163850da7e8636c4c73"
         },
         {
             "question": "I have got ............................. cats ........................ dogs.",
@@ -60,7 +65,8 @@
                 "either, or",
                 "both, and"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a550fb3bf5494d00a9a88126322a4daf"
         },
         {
             "question": "I haven't got ............................. cats ....................... dogs.",
@@ -70,7 +76,8 @@
                 "either, or",
                 "both, and"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1d759343b99e42f2b15aa37d30b7abfb"
         },
         {
             "question": "........................... the participants were given a prize.",
@@ -80,7 +87,8 @@
                 "All",
                 "Every"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "cda7c1adfe914599b362932032608cc8"
         },
         {
             "question": "............................ the participants was given a prize.",
@@ -90,7 +98,8 @@
                 "All of",
                 "Each of"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "1f33353a59ab445abf559de3532cd3d3"
         },
         {
             "question": "He is a good friend of ..................................",
@@ -100,7 +109,8 @@
                 "my",
                 "mine"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d7c55318124b4d869b6d3972454bef49"
         },
         {
             "question": "I wanted to kill that ....................................",
@@ -110,7 +120,8 @@
                 "friend of your",
                 "friend of yours"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "c6ea0365c5b64435bc063a1067aa2660"
         },
         {
             "question": "You are not better than ....................................",
@@ -119,7 +130,8 @@
                 "he",
                 "him"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "47da122d81e54111826db726cfe7cd3d"
         }
     ]
 }

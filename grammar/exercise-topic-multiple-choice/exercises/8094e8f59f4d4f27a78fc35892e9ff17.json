@@ -10,7 +10,8 @@
                 "have heard",
                 "was hearing"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "ad62631f839844f888482ed2eefd26fd"
         },
         {
             "question": "Sorry, I am late. .....................… long?",
@@ -19,7 +20,8 @@
                 "Are you waiting",
                 "Have you been waiting"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2209cec18ff5431bb908ff2e98339216"
         },
         {
             "question": "Alice ……………….. ten minutes ago.",
@@ -29,7 +31,8 @@
                 "have phoned",
                 "had phoned"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "76ccd40b929440d4a4b303801518b057"
         },
         {
             "question": "I ..................... there for three months.",
@@ -39,7 +42,8 @@
                 "have been working",
                 "had been waiting"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "27cbfadc279246e380e630ba74616fb7"
         },
         {
             "question": "I think the baby ………………. enough – I will wake her up.",
@@ -49,7 +53,8 @@
                 "has slept",
                 "is sleeping"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "0d8d2ceee8454e678f4f37433721eac8"
         },
         {
             "question": "How long ..................... English?",
@@ -59,7 +64,8 @@
                 "have you been learning",
                 "do you learn"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "55d9cf8317fe443fb6440444f303a5ca"
         },
         {
             "question": "The Chinese ……………… paper.",
@@ -69,7 +75,8 @@
                 "have invented",
                 "had invented"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0fe3f7cfb8014e46b06a206205f1b2b8"
         },
         {
             "question": "I …………………. James yet.",
@@ -79,7 +86,8 @@
                 "haven't called",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0a1f856c3dd9466595017846b12d3f00"
         },
         {
             "question": "I ………………… two books since morning.",
@@ -90,7 +98,8 @@
                 "have read",
                 "had read"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "ea69477eea3f482abd2937c83b553895"
         },
         {
             "question": "We .....................… each other since",
@@ -101,7 +110,8 @@
                 "have known",
                 "had known"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "65610f3cafc447e5947e7a57bd79f3bb"
         },
         {
             "question": "I ……………… the bell several times, but nobody opened the door.",
@@ -111,7 +121,8 @@
                 "have rung",
                 "was ringing"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f1b2859c42c14ee886ad186f3d6b5926"
         },
         {
             "question": "…………………. you read the Bible?",
@@ -121,7 +132,8 @@
                 "Did",
                 "Had"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c7c2fa74ada440db92dfffdde7500fbd"
         }
     ]
 }

@@ -9,7 +9,8 @@
                 "loud",
                 "loudly"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "56a203a9d03e433dada0b41ad64243ed"
         },
         {
             "question": "I felt ……………………..",
@@ -18,7 +19,8 @@
                 "happy",
                 "happily"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "3072fdcbd68d42ddbbb9b8edbb3f216c"
         },
         {
             "question": "I am feeling much ………………………… today.",
@@ -28,7 +30,8 @@
                 "well",
                 "better"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "5d3ec4ee773745a09451ac658c6012c6"
         },
         {
             "question": "She speaks …………………….. English.",
@@ -37,7 +40,8 @@
                 "fluent",
                 "fluently"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "e7ccfef7ce05477c9439361c61882c46"
         },
         {
             "question": "They hit the stone ……………………..",
@@ -46,7 +50,8 @@
                 "hard",
                 "hardly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "dbd8b31886104b92b9b134c249cfc7f4"
         },
         {
             "question": "Don’t drive too ……………………….",
@@ -55,7 +60,8 @@
                 "fast",
                 "fastly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "278f4d8252f5443891fa4177d1417570"
         },
         {
             "question": "I was hit …………………………. on the nose.",
@@ -64,7 +70,8 @@
                 "right",
                 "rightly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "20939c488cb749e28173422f2bbb743d"
         },
         {
             "question": "It serves him …………………………",
@@ -73,7 +80,8 @@
                 "right",
                 "rightly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7ae11fcd554b4a1c826efae22cc169de"
         },
         {
             "question": "She is ……………………….. waiting for a call from her son.",
@@ -82,7 +90,8 @@
                 "anxious",
                 "anxiously"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "4216fc9acdbe42fc88c8db5cdd1beed6"
         },
         {
             "question": "The baby is sleeping …………………………",
@@ -91,7 +100,8 @@
                 "sound",
                 "soundly"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "973fb32c60f44c9683ca2fafd09d86a1"
         },
         {
             "question": "He was ………………………… asleep.",
@@ -100,7 +110,8 @@
                 "sound",
                 "soundly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0b97be9f6978402e9183020e10b63135"
         },
         {
             "question": "‘Can I borrow your bicycle?’ ‘……………………….’",
@@ -109,7 +120,8 @@
                 "Sure",
                 "Surely"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "78d24f0eb8bf4c8bb0d515f24f42fb09"
         }
     ]
 }

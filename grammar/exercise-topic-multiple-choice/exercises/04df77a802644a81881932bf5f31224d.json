@@ -10,7 +10,8 @@
                 "should",
                 "must"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "33a1849f3a3b4601b0b067ddca7cb386"
         },
         {
             "question": "You are required to respect the national flag. / You ........................ respect the national flag.",
@@ -20,7 +21,8 @@
                 "would",
                 "could"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "994491780e0049dab8b3e4649bc5f8a9"
         },
         {
             "question": "She was able to read when she was three. / She .................. write when she was three.",
@@ -30,7 +32,8 @@
                 "could",
                 "might"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "52d495605d424473b15f5bb4b071f678"
         },
         {
             "question": "I was able to solve the problem. / I ................................. solve the problem.",
@@ -40,7 +43,8 @@
                 "should",
                 "could"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "4edba95246c84b5d9b6fcdc562aca8e0"
         },
         {
             "question": "Perhaps she would come. / She ......................... come.",
@@ -50,7 +54,8 @@
                 "should",
                 "might"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "2f089c0af91c42b2b1f5aa4bd9a1767c"
         },
         {
             "question": "You are prohibited from entering my home. / You ....................... enter my house.",
@@ -60,7 +65,8 @@
                 "must not",
                 "need not"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d0e3fc9bf46941d6994bd3e78883f9aa"
         },
         {
             "question": "You are allowed to go home. / You ..................... go home.",
@@ -70,7 +76,8 @@
                 "may",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "aac37dce90854110a7eccb4532805ab7"
         },
         {
             "question": "She is able to speak English. / She ....................... speak English.",
@@ -80,7 +87,8 @@
                 "may",
                 "could"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "35eb2710ce714a0eaf0823255ac67b9d"
         },
         {
             "question": "It is possible to blow glass. / Glass ......................... be blown.",
@@ -90,7 +98,8 @@
                 "may",
                 "Either could be used here"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "e8a6d67fe0d547a88501bdab493fd8b5"
         },
         {
             "question": "It is not necessary for her to pay for that call. / She .................... pay for that call.",
@@ -100,7 +109,8 @@
                 "need not",
                 "may not"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "01d5a6be1c134794bbb63ee798f96e40"
         },
         {
             "question": "It is possible for wars to break out at any time. / Wars .......................... break out at any time.",
@@ -110,7 +120,8 @@
                 "may",
                 "Either could be used here"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b32d5ab08280404f9888d66b20a8f085"
         },
         {
             "question": "I prefer to stay at home instead of going to the club. / I .......................... rather stay at home than go to the club.",
@@ -120,7 +131,8 @@
                 "could",
                 "should"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "842b858a8b3a45eda7b35e5fc69bd06a"
         }
     ]
 }

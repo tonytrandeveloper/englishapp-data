@@ -10,7 +10,8 @@
                 "ridiculous, sophisticated, anxious, complex",
                 "penance, science, monotonous, vibrancy"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a22d03b50a884c359eced86f7113c4a3"
         },
         {
             "question": "Which set of words are only adjectives?",
@@ -20,7 +21,8 @@
                 "autonomous, eligible, warm, open",
                 "ridicule, ignore, captivate, enchant"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1c92bc0b86c54ce7a39df2bda43e0e3d"
         },
         {
             "question": "Which set of words are only verbs?",
@@ -30,7 +32,8 @@
                 "emulate, dilapidated, enamor, renounce",
                 "propaganda, verify, eagerly, overt"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0d97df7e84744e3b9c902d2eed316d25"
         },
         {
             "question": "Which set of words are only adverbs?",
@@ -40,7 +43,8 @@
                 "deadly, open, vast, thoroughly",
                 "privacy, provocatively, anxiously, well"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a83bd9c309674efea64e4976d96586ff"
         },
         {
             "question": "Which set of words are only conjunctions?",
@@ -50,7 +54,8 @@
                 "so, because, however, yet",
                 "and, but, or, because of"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "cb3d469cbd4043809dd53f55533bb22f"
         },
         {
             "question": "Which set of words are only prepositions?",
@@ -60,7 +65,8 @@
                 "between, over, across, to",
                 "from, while, whereas, near"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b8007c35253c4a5792edc745c3e2fad4"
         }
     ]
 }

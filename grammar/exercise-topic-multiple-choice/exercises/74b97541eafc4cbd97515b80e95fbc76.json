@@ -9,7 +9,8 @@
                 "beautiful",
                 "beatifully"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1680ef0fa7814594a6975a990062ef03"
         },
         {
             "question": "The children sang .....................................",
@@ -18,7 +19,8 @@
                 "beautiful",
                 "beautifully"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "680b35cfe68b48da879c0e9d69687989"
         },
         {
             "question": "The radio is too ................................. Please turn down its volume.",
@@ -27,7 +29,8 @@
                 "loud",
                 "loudly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bb55d849e81542339ff081ab0b147da9"
         },
         {
             "question": "Why are you speaking so ................................?",
@@ -36,7 +39,8 @@
                 "loud",
                 "loudly"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "bb33d7edf5c24d1aa9ade237db610ad7"
         },
         {
             "question": "He is a .................................... learner.",
@@ -45,7 +49,8 @@
                 "fast",
                 "fastly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "71dd95d9483349f98ac89c034be2b4c2"
         },
         {
             "question": "I know him .................................. well.",
@@ -55,7 +60,8 @@
                 "quitely",
                 "quietly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9ef4be21dfcf4538a31f6fe9e24fd771"
         },
         {
             "question": "Proofread your work ...................................... before submitting it.",
@@ -64,7 +70,8 @@
                 "careful",
                 "carefully"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "ab5b35940b794e77829f0ed15179934c"
         },
         {
             "question": "You have done an ....................................... job.",
@@ -73,7 +80,8 @@
                 "excellent",
                 "excellently"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "22fe9a516a744ce6a3fd1d5394d4f69f"
         },
         {
             "question": "I thought I would pass the test ..................................., but I failed after all.",
@@ -83,7 +91,8 @@
                 "easyly",
                 "easily"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "84244a8b248f41e29377ef7007379300"
         },
         {
             "question": "I have ...................................... had any rest since morning.",
@@ -92,7 +101,8 @@
                 "hard",
                 "hardly"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "0b04bd03057849df9339531540c14e1f"
         },
         {
             "question": "I have been having a lot of headaches of .............................",
@@ -101,7 +111,8 @@
                 "late",
                 "lately"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1735e0cebcbc4102823d24bbf38bba04"
         },
         {
             "question": "He was very .................................... of the plan.",
@@ -110,7 +121,8 @@
                 "critical",
                 "critically"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "84898c85b1634c46a7a40c73eacfc6d9"
         }
     ]
 }

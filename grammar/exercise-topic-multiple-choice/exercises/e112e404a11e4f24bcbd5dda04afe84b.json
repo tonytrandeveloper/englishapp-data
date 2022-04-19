@@ -10,7 +10,8 @@
                 "are eaten",
                 "have eaten"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d586d0e3e2994aa6a172c2f0e169a2ea"
         },
         {
             "question": "I wrote a letter. A letter ………………… by me.",
@@ -20,7 +21,8 @@
                 "has written",
                 "was written"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "5daab5f4f4b5436491eb6dfa3c9114b2"
         },
         {
             "question": "He is writing a poem. A poem ……………………….. by him.",
@@ -30,7 +32,8 @@
                 "is being written",
                 "has been written"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "bb4f8de0c0484021af795ea0bbad31a8"
         },
         {
             "question": "They were repairing the roof. The roof …………………….. by them.",
@@ -40,7 +43,8 @@
                 "was repaired",
                 "was being repaired"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "e53a195b63454d9c8c9d6d0666330a45"
         },
         {
             "question": "She has bought a new car. A new car …………………….. by her.",
@@ -50,7 +54,8 @@
                 "has been bought",
                 "was bought"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b7fdbf6c142649a5b5843124fa959d80"
         },
         {
             "question": "I had sent the parcel. The parcel ……………………….. by me.",
@@ -60,7 +65,8 @@
                 "had been sent",
                 "has been sent"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b84bf6dda60b427a9be44c784bf25e99"
         },
         {
             "question": "The teacher punished the child. The child …………………. by the teacher.",
@@ -70,7 +76,8 @@
                 "was punished",
                 "had punished"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "40f9116bc5fb437aa5dcf835313c3771"
         },
         {
             "question": "I will help him. He …………………… by me.",
@@ -80,7 +87,8 @@
                 "will helped",
                 "will be helped"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "073a8b08b6b940178c51eb2ac63d299c"
         },
         {
             "question": "He has sold his house. His house ………………………. by him.",
@@ -90,7 +98,8 @@
                 "has been sold",
                 "was sold"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8186cdb3ec05458185534be447fc46f9"
         },
         {
             "question": "They will have sent the money. The money …………………… by them.",
@@ -100,7 +109,8 @@
                 "will have been sent",
                 "would be sent"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "56d63a3de61c448084371c39477eda30"
         },
         {
             "question": "The police are investigating the crime. The crime ……………………. by the police.",
@@ -110,7 +120,8 @@
                 "is being investigated",
                 "has investigated"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "87087e6e44d84320a74c391b126cd4f0"
         },
         {
             "question": "They rescued the child. The child …………………….. by them.",
@@ -120,7 +131,8 @@
                 "has rescued",
                 "was rescued"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d5cdb845ca314aaea212c2cb66fcb0a3"
         }
     ]
 }

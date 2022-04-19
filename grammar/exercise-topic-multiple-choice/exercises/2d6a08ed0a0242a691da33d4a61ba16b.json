@@ -10,7 +10,8 @@
                 "invited",
                 "would invite"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f6b46e7e18d641f58dcffb788c975c93"
         },
         {
             "question": "If you …………………. the function, he will be happy.",
@@ -20,7 +21,8 @@
                 "attended",
                 "had attended"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "80473dc95eb14e9e9a5195e31f860c12"
         },
         {
             "question": "If you …………………. the invitation, he would be happy.",
@@ -30,7 +32,8 @@
                 "accepted",
                 "had accepted"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b7ae978bcd0a498c82ee0a1ce0d4dae1"
         },
         {
             "question": "She wouldn’t have died, if she ………………….. proper medical care.",
@@ -40,7 +43,8 @@
                 "received",
                 "had received"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "7aa320087ddf434b835b7b88085182e4"
         },
         {
             "question": "He will not succeed unless he ………………… hard.",
@@ -50,7 +54,8 @@
                 "worked",
                 "had worked"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6a67f42726934b3ab847b1842bfa210e"
         },
         {
             "question": "If she ………………….. honest, she would not have lost her job.",
@@ -60,7 +65,8 @@
                 "was",
                 "had been"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "1710876317cf4066959919a1da3ec58a"
         },
         {
             "question": "He cannot go to work unless he ………………….. from his illness.",
@@ -70,7 +76,8 @@
                 "recovered",
                 "had recovered"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c6e38379a1d84a2c83bf9d14c0ca57ac"
         }
     ]
 }

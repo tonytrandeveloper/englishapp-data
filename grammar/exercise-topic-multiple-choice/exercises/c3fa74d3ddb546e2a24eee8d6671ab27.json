@@ -10,7 +10,8 @@
                 "Book is a proper noun",
                 "Book is a collective noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "8a755d425a304701b6ea383cbd562d55"
         },
         {
             "question": "Love begets love.",
@@ -20,7 +21,8 @@
                 "Love is a collective noun",
                 "Love is an abstract noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "fd9b39d56f80434f9a6eab15e36dd2a5"
         },
         {
             "question": "We cannot live without water.",
@@ -30,7 +32,8 @@
                 "Water is a material noun",
                 "Water is an abstract noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7239199d24f0488ca6a24a155d02ea29"
         },
         {
             "question": "The jury has given its verdict.",
@@ -40,7 +43,8 @@
                 "Jury is a common noun",
                 "Jury is an abstract noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "d0b0f2726ec4403c83e4bade9d0ef002"
         },
         {
             "question": "The Hindus regard Krishna as an incarnation of Lord Vishnu.",
@@ -50,7 +54,8 @@
                 "Hindus is a proper noun",
                 "Hindus is an abstract noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e221f69b139447499841fa24ae64d4c1"
         },
         {
             "question": "Alcohol is injurious to health.",
@@ -60,7 +65,8 @@
                 "Health is an abstract noun",
                 "Health is a proper noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "194abf578c7149cdb2956ff128699523"
         },
         {
             "question": "Smoking is a bad habit.",
@@ -70,7 +76,8 @@
                 "Habit is a proper noun",
                 "Habit is an abstract noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "000e6eae82a94bfcb796589301ca8812"
         },
         {
             "question": "Wild animals live in forests.",
@@ -80,7 +87,8 @@
                 "Animals is a proper noun",
                 "Animals is an abstract noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7cfe55e3f4bf48fbb248697403f591ef"
         },
         {
             "question": "The childhood of Peter was full of misery.",
@@ -90,7 +98,8 @@
                 "Childhood is an abstract noun",
                 "Childhood is a proper noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "33c79ec58c9544378626dcaca2483682"
         },
         {
             "question": "All the girls were singing.",
@@ -100,7 +109,8 @@
                 "Girls is a proper noun",
                 "Girls is an abstract noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "43334e44481e4da583c251c0a7a8002b"
         },
         {
             "question": "Gold is a precious metal.",
@@ -110,7 +120,8 @@
                 "Gold is an abstract noun",
                 "Gold is a material noun"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "dfba98acfeee46e4a1afba0cc3570697"
         },
         {
             "question": "Rice is the staple food of South Indians.",
@@ -120,7 +131,8 @@
                 "Rice is a material noun",
                 "Rice is an abstract noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5c85c14a73f043c4acaf7bacd16bc130"
         },
         {
             "question": "The earth moves round the sun.",
@@ -130,7 +142,8 @@
                 "Earth is an abstract noun",
                 "Earth is a proper noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6138b19d93a0403cb532d1e5f60df2c6"
         }
     ]
 }

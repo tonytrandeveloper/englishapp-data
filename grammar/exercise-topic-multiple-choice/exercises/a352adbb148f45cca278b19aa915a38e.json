@@ -9,7 +9,8 @@
                 "Interesting is an adjective",
                 "Interesting is a present participle"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "901e61b0afe7490d89742a7a74d76872"
         },
         {
             "question": "It was raining when I got home.",
@@ -18,7 +19,8 @@
                 "Raining is an adjective",
                 "Raining is a present participle"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a0b519ebc9de440c922fcbea4b6aa6a2"
         },
         {
             "question": "I love the noise of falling rain.",
@@ -27,7 +29,8 @@
                 "Falling is an adjective",
                 "Falling is a present participle"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f66f542e8aef4b03ba38c8d0524ab898"
         },
         {
             "question": "It is a pressing problem.",
@@ -36,7 +39,8 @@
                 "Pressing is an adjective",
                 "Pressing is a present participle"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "8489843dbd834935a1a1859c34967e33"
         },
         {
             "question": "She was writing a letter.",
@@ -45,7 +49,8 @@
                 "Writing is an adjective",
                 "Writing is a present participle"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "94612ee9933b48dc8e1beacd7593fbce"
         },
         {
             "question": "The lecture was very interesting.",
@@ -54,7 +59,8 @@
                 "Interesting is an adjective",
                 "Interesting is a present participle"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "8fd494a7e94a452b880051510dcc786e"
         },
         {
             "question": "She is an interesting writer.",
@@ -63,7 +69,8 @@
                 "Interesting is an adjective",
                 "Interesting is a present participle"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b5650a9dff5c47f3bbfd89ae4f2adc64"
         },
         {
             "question": "The woodcutter was felling trees.",
@@ -72,7 +79,8 @@
                 "Felling is an adjective",
                 "Felling is a present participle"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8850cc75c4ff461a978792387cf0f6ce"
         },
         {
             "question": "The news was exciting.",
@@ -81,7 +89,8 @@
                 "Exciting is an adjective",
                 "Exciting is a present participle"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ccf0c27e1f0d42c2b1b46ffbbc4a5647"
         },
         {
             "question": "I was working on that report when she called.",
@@ -90,7 +99,8 @@
                 "Working is an adjective",
                 "Working is a present participle"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e67aea06bab5444c856c55e96b034a4b"
         }
     ]
 }

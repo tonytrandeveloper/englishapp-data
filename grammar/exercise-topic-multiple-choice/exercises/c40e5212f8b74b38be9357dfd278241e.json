@@ -10,7 +10,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f91d4a6d83e84e2d87c9acf8d4cde82b"
         },
         {
             "question": "The person who was injured in the accident needed help immediately.",
@@ -20,7 +21,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9d7a908894544211a8787a11f587ced8"
         },
         {
             "question": "Whatever you learn at school will help you in the future.",
@@ -30,7 +32,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e295062e1cff49e48809dfd60d4fe2cd"
         },
         {
             "question": "Alice cooked dinner and Mike tidied the rooms.",
@@ -40,7 +43,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "7a1c7c17052b42959f56d75044046867"
         },
         {
             "question": "I had a headache but I enjoyed the movie.",
@@ -50,7 +54,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "9ae58ec23a604c09aaef456d6ebb4a43"
         },
         {
             "question": "In spite of having a headache I enjoyed the movie.",
@@ -60,7 +65,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1dae539e74ed4a1d933bb17c1c834ff0"
         },
         {
             "question": "Although I had a headache, I enjoyed the movie.",
@@ -70,7 +76,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "54fdf4dd1100448aa384bb341d0265ca"
         },
         {
             "question": "We cancelled the picnic because of the rain.",
@@ -80,7 +87,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fd5c656b800c4eb29c9d2b19f6ab7a88"
         },
         {
             "question": "He is either a fool or a lunatic.",
@@ -90,7 +98,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "7c76f706927244958e099830e2dae5da"
         },
         {
             "question": "I don't know whether he will arrive.",
@@ -100,7 +109,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "0dedf09e326c47c1ba3b06d71989e42d"
         },
         {
             "question": "You should have asked me before using my computer.",
@@ -110,7 +120,8 @@
                 "Compound sentence",
                 "Complex sentence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a97acad7b678402086ec6f305d81fe5d"
         },
         {
             "question": "The girl who won the first prize is my neighbor's daughter.",
@@ -120,7 +131,8 @@
                 "Complex sentence",
                 "Compound sentence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8c540d38f8504bb085dc58ae2af35d51"
         }
     ]
 }

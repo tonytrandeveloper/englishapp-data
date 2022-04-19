@@ -10,7 +10,8 @@
                 "might",
                 "can"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "89f5fd35902e43c0826234edbcfae70f"
         },
         {
             "question": "Since the surgery, he .................................. walk again. (ability)",
@@ -20,7 +21,8 @@
                 "can",
                 "may"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "fb430ea0620f44b89af77eab0bc31afb"
         },
         {
             "question": "He suggested that I ........................... accept the offer. (obligation)",
@@ -30,7 +32,8 @@
                 "should",
                 "could"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "91a3a8b0aeed48a58707b68a1ace0cbb"
         },
         {
             "question": "You ............................... lied to him.",
@@ -40,7 +43,8 @@
                 "ought not have",
                 "ought not to have"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "12ad4e604fce4b43839fbbecd031b594"
         },
         {
             "question": "You .................................. told him about my accident. (lack of necessity)",
@@ -50,7 +54,8 @@
                 "don't need to",
                 "need not have"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "3b4c96b057b24967a8a2bbe3a63055e4"
         },
         {
             "question": "............................ I help you with this? (Offer)",
@@ -60,7 +65,8 @@
                 "Should",
                 "Could"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9352e94464b94bc5b2658979a854f8a6"
         },
         {
             "question": "He ............................... watch a lot of movies when he was younger. (past habit)",
@@ -70,7 +76,8 @@
                 "would",
                 "could"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "89685c6a9ab5400ab1366cd3a1bc716a"
         },
         {
             "question": "I think you ............................. find another job. (suggestion)",
@@ -80,7 +87,8 @@
                 "should",
                 "could"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1462e030e5f5450d99e946a7aa9033e6"
         },
         {
             "question": "You ..................................... invited her to the party. (lack of obligation)",
@@ -90,7 +98,8 @@
                 "needn't",
                 "don't need have"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f50120d0463d4d659f4e92fa5db9e115"
         },
         {
             "question": "You ...................................... start now.",
@@ -101,7 +110,8 @@
                 "ought to",
                 "All of these"
             ],
-            "correct": 3
+            "correct": 3,
+            "id": "a0f4b6c0df70487aae4cd2c95901b076"
         },
         {
             "question": "He left late for the train station. He ................................. have missed the train.",
@@ -111,7 +121,8 @@
                 "should",
                 "could"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d9b4b98fb14b4a88a05323a713720eba"
         },
         {
             "question": "If I were you, I ................................. apologize for something I didn't do.",
@@ -121,7 +132,8 @@
                 "would not",
                 "could not"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d0ac016598a34bde95f8ac1da4fbe5af"
         }
     ]
 }

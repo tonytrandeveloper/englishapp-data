@@ -11,7 +11,8 @@
                 "a, a",
                 "the, a"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f903419a35b44efeaed302fcf468c795"
         },
         {
             "question": "…………. leopard which escaped from ………….. zoo has been caught.",
@@ -21,7 +22,8 @@
                 "the, the",
                 "the, a"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "63e6e826b53b4dafb13aad9043428800"
         },
         {
             "question": "Have you finished reading ………….. book you borrowed last week?",
@@ -31,7 +33,8 @@
                 "the",
                 "No article required"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "30521ab57595474bb225db94d123e4ac"
         },
         {
             "question": "This is …………… story you will enjoy.",
@@ -41,7 +44,8 @@
                 "the",
                 "No article is required"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a0eb7ade0af74c06bb83975dcd99b9dc"
         },
         {
             "question": "……………. rabbit was hiding in ………. bush. When we went near ………. bush, …………. rabbit ran away.",
@@ -51,7 +55,8 @@
                 "a, the, a, the",
                 "the, a, the, a"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "d7fb4702ff55462092213112b67d57a9"
         },
         {
             "question": "…………….. girl you met is my niece.",
@@ -61,7 +66,8 @@
                 "A",
                 "No article is required"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6e68e5075f4f43a8bad513fda269b2ed"
         },
         {
             "question": "Can you shut ……….. door?",
@@ -71,7 +77,8 @@
                 "a",
                 "No article is required"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "4aa4a85356404e3b8c0efd66046c7707"
         },
         {
             "question": "Please open ………. window.",
@@ -81,7 +88,8 @@
                 "the",
                 "No article is required"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "80292c53cd594ab49275c578b25ea097"
         },
         {
             "question": "It was …………… unforgettable experience.",
@@ -91,7 +99,8 @@
                 "an",
                 "the"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2b4461824b9a4bb88c4704555d60e81c"
         },
         {
             "question": "Jane is …………… most intelligent student in the class.",
@@ -101,7 +110,8 @@
                 "the",
                 "an"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3ad7476b1df64dfba28222ebaaf23766"
         },
         {
             "question": "India is ……………. largest democracy in the world.",
@@ -111,7 +121,8 @@
                 "the",
                 "an"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3bc6834467914e159dadd548f0f1afa5"
         }
     ]
 }

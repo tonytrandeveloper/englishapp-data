@@ -10,7 +10,8 @@
                 "was",
                 "has been"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e2ec41e36a0d4fb4ba797ed170429e22"
         },
         {
             "question": "'She is waiting for us,' he said. /He said that she ............................... for them.",
@@ -20,7 +21,8 @@
                 "was waiting",
                 "has been waiting"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "cf968779a3794320a6d0ff7bc5976cc0"
         },
         {
             "question": "'I have visited all the continents,' he said. / He said that he ............................. all the continents.",
@@ -30,7 +32,8 @@
                 "has visited",
                 "had visited"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0ce90d6817284c31993dbc659d93dbef"
         },
         {
             "question": "'She has been living alone for years,' he said. / He said that she ............................... alone for years.",
@@ -40,7 +43,8 @@
                 "has been living",
                 "had been living"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "e131feba15314b2abbf8f0c422c61bc4"
         },
         {
             "question": "'She will help us,' he said. / He said that she .............................. help them.",
@@ -50,7 +54,8 @@
                 "would",
                 "could"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "eca67ad5dd68402b8cbfae067b86df39"
         },
         {
             "question": "'I want to go,' he said. He said that he .................................. to go.",
@@ -60,7 +65,8 @@
                 "wanted",
                 "had wanted"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a58a65c0f39a4fc1abbd10ad12fb4b7d"
         },
         {
             "question": "'I don't want to go,' she said. / She said that she .............................. to go.",
@@ -70,7 +76,8 @@
                 "doesn't want",
                 "don't want"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "3cc216f693014d6a83abd6e146f5fe89"
         },
         {
             "question": "'I have watched that movie,' he said. / He said that he .................................... that movie.",
@@ -80,7 +87,8 @@
                 "had watched",
                 "has watched"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "562e098b78784e0b91b69dc29e555ff4"
         },
         {
             "question": "'She must leave now,' he said. / He said that she ............................... leave then.",
@@ -90,7 +98,8 @@
                 "had to",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a18cff1efc014e639f7a2051863a4e60"
         },
         {
             "question": "I can't help you,' he said. / He said that he ................................. help me.",
@@ -100,7 +109,8 @@
                 "couldn't",
                 "wouldn't"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "6dac2ff361074ddb8403ef094028bd3b"
         },
         {
             "question": "'They will have gone,' he said. / He said that they .................................",
@@ -110,7 +120,8 @@
                 "would go",
                 "would have gone"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "6910906e56dc41b09eca62c3de4f5c5e"
         },
         {
             "question": "'I am busy,' he shouted. / He shouted that he ...................................... busy.",
@@ -120,7 +131,8 @@
                 "was",
                 "has been"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "875b5cd1442643c796499d70a99655d9"
         }
     ]
 }

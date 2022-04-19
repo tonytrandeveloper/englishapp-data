@@ -11,7 +11,8 @@
                 "Neither do I",
                 "Neither am I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "985915f1cba64aa2a325efaa2622d820"
         },
         {
             "question": "'I was late.' '....................................'",
@@ -22,7 +23,8 @@
                 "So did I",
                 "Neither do I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7d722081ee9c4ecabcc48c549ba6285e"
         },
         {
             "question": "'I didn't like that film.' '...............................'",
@@ -32,7 +34,8 @@
                 "Neither did I",
                 "So am I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9c9c6358e4994caf9dec2936ab612d7c"
         },
         {
             "question": "'I didn't finish it.' '.................................'",
@@ -42,7 +45,8 @@
                 "So did I",
                 "Neither was I"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9239571983d34961855228273b7e8f48"
         },
         {
             "question": "'I like coffee.' '................................'",
@@ -53,7 +57,8 @@
                 "Neither am I",
                 "Neither do I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "bbe97f574d6f401e9740bdfe2e3b35df"
         },
         {
             "question": "'I can swim.' '.................................'",
@@ -63,7 +68,8 @@
                 "So do I",
                 "So can I"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "4a860ce1985448b78173e4d4b8b07b9c"
         },
         {
             "question": "'I'm staying for another two days.' '...................................'",
@@ -73,7 +79,8 @@
                 "So do I",
                 "So am I"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "474d94de57d040a2a842ae06e9229ae5"
         },
         {
             "question": "'She has a degree in physics.' '..........................'",
@@ -84,7 +91,8 @@
                 "So has I",
                 "So did I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5521a9b08e2841a1b7dcda297ed9d751"
         },
         {
             "question": "'I don't have his number.' '...............................'",
@@ -94,7 +102,8 @@
                 "So have I",
                 "Neither I have"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6bd88536c3924046bb30440a72dc9851"
         },
         {
             "question": "'I found the problem very hard.' '...............................'",
@@ -105,7 +114,8 @@
                 "So did I",
                 "So have I"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "1a5bc3d0769b4ef4a2f0f22a5e280c45"
         },
         {
             "question": "Maria can sing beautifully and ...............................",
@@ -115,7 +125,8 @@
                 "so can her sister",
                 "neither can her sister"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e9a494aaba6c4319952dee2db698fe08"
         },
         {
             "question": "'I had never seen so much food in my life.' '..............................'",
@@ -125,7 +136,8 @@
                 "Neither had I",
                 "Neither did I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "67aa9677d4e14e638eff19d99c469be6"
         }
     ]
 }

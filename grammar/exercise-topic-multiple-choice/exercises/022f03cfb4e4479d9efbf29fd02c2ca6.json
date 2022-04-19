@@ -10,7 +10,8 @@
                 "two months before",
                 "two months ago"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "ca717dc9e5c84b2a8cb99855167418e9"
         },
         {
             "question": "He .................................. to our house.",
@@ -19,7 +20,8 @@
                 "comes often",
                 "often comes"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9ed130922cd6463ea82ef7dae3ed10fe"
         },
         {
             "question": "Though John worked very ................................., he failed.",
@@ -28,7 +30,8 @@
                 "hard",
                 "hardly"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "28bdfefd13884c32a99f0c671e0e16ca"
         },
         {
             "question": "He ......................................... to see me.",
@@ -37,7 +40,8 @@
                 "seldom comes",
                 "comes seldom"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "5260bacec8b445488826679e12586b51"
         },
         {
             "question": "I have .....................................",
@@ -46,7 +50,8 @@
                 "wanted to meet him always",
                 "always wanted to meet him"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3b92274134964fa7a3156d512647ea65"
         },
         {
             "question": "I have never seen such a man he is ............................... noble.",
@@ -55,7 +60,8 @@
                 "very",
                 "too"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f9811e2f41b14f35876bc2109cce3e27"
         },
         {
             "question": "Alice is ..................................... tall as Peter.",
@@ -64,7 +70,8 @@
                 "as",
                 "so"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a51116c7543f46919a05f4ef07853aed"
         }
     ]
 }

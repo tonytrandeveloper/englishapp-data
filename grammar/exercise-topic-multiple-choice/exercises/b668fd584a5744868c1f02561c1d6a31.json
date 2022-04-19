@@ -11,7 +11,8 @@
                 "Rahul asked me did I see the cricket match on TV last night.",
                 "Rahul asked me whether I had seen the cricket match on TV last night."
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f7513e0bfdad4c86a66406027ec10aca"
         },
         {
             "question": "James said to his mother, ‘I am leaving for New York tomorrow.’",
@@ -22,7 +23,8 @@
                 "James told his mother that he was leaving for New York the next day.",
                 "James told his mother he would be leaving for New York the next day."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0da710a744264296adb41ddff2816f85"
         },
         {
             "question": "I said to him, ‘Why don’t you work hard?’",
@@ -33,7 +35,8 @@
                 "I asked him why he wouldn’t work hard.",
                 "I asked him why he wasn’t working hard."
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "949caf41488f4e1699b31383ca5ab84d"
         },
         {
             "question": "He said to her, ‘What a hot day!’",
@@ -44,7 +47,8 @@
                 "He exclaimed that it was a hot day.",
                 "He said that it was a hot day."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "a36e8908dcbc4cc99792b61932956b9e"
         },
         {
             "question": "The priest said, ‘Be quiet and listen to my words.’",
@@ -55,7 +59,8 @@
                 "The priest urged them to be quiet and to listen to his words.",
                 "The priest said they should be quiet and listen to him."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "568a2f222a5941aeac88ce2905ed7748"
         }
     ]
 }

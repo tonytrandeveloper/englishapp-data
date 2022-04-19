@@ -10,7 +10,8 @@
                 "the most useful",
                 "the usefullest"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "4148447f2c424a38bf2ded96b23c8b77"
         },
         {
             "question": "James is taller than Harry. Harry is taller than Peter. So, James is .............................. of the three boys?",
@@ -20,7 +21,8 @@
                 "the taller",
                 "tallest"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "deef4ccebd4a40ac92b5466ba926d64f"
         },
         {
             "question": "Jhanvi is not as pretty as Maya. May is ............................... of the two.",
@@ -30,7 +32,8 @@
                 "prettier than",
                 "the prettiest"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "69f134400d6947628deaca420b11313b"
         },
         {
             "question": "Ravi is the cleverest boy in the class. Kabir is cleverer than Ravi. Is Kabir in the same class as Ravi?",
@@ -40,7 +43,8 @@
                 "No",
                 "Cannot be said"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2b0af9e41dce4816bd6edd685e8b3de9"
         },
         {
             "question": "Vishnu is as tall as Karan, but Karan is shorter than Pavan. Pavan is ......................... of the two.",
@@ -51,7 +55,8 @@
                 "taller",
                 "tallest"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "253c4fb2c1f24ac1aef65ca03d473960"
         },
         {
             "question": "Kavya is as tall as Meera, but Gauri is taller than Kavya. Meera is ..................... . than Gauri.",
@@ -61,7 +66,8 @@
                 "the shorter",
                 "the shortest"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "5e9cc4ed227a4e2bbf414cbb4a438862"
         },
         {
             "question": "Apples are sweet. Grapes are sweeter than apples. Mangoes are sweeter than grapes. So, apples ....................... as mangoes.",
@@ -71,7 +77,8 @@
                 "are not as sweet as",
                 "are not the sweetest"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1986cc4f24124717851ca529851ba426"
         }
     ]
 }

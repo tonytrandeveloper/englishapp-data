@@ -10,7 +10,8 @@
                 "He greeted me and asked where I was going.",
                 "He wanted to know where I was going."
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "8e6e8bf8aaef42a189dc426fcdb7dfa5"
         },
         {
             "question": "‘Do you know when she will return?’ he asked.",
@@ -20,7 +21,8 @@
                 "He asked me if I knew when she will return.",
                 "He asked me if I knew when she would return."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "8f51f6f406d84d068478744574db1071"
         },
         {
             "question": "He said, ‘Let’s go for a drive.’",
@@ -30,7 +32,8 @@
                 "He suggested to go for a drive",
                 "He suggested that we / they should go for a drive."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "347f8cb26199411683a8397e2f3e99a8"
         },
         {
             "question": "‘Hurrah! We have won!’ said the boys.",
@@ -40,7 +43,8 @@
                 "The boys said that they have won.",
                 "The boys exclaimed that they had won."
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "15fb06f098af4ab4b327165951fa0b21"
         },
         {
             "question": "‘Do what I say,’ said the old man to his sons.",
@@ -50,7 +54,8 @@
                 "The old man asked his sons that they should do what he said.",
                 "The old man said to his sons that they should do what he said."
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "d5c1cfa8f3824e1aade5bc5785d9e7ad"
         }
     ]
 }

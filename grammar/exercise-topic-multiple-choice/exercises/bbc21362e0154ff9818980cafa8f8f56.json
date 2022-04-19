@@ -10,7 +10,8 @@
                 "to pay",
                 "Either could be used here"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7fbddca339ef4acfb59fce2336ed7391"
         },
         {
             "question": "I won't let you .................................... my room.",
@@ -19,7 +20,8 @@
                 "to enter",
                 "enter"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e8fa0f58b4df41cd9b61b2e313c69e35"
         },
         {
             "question": "You ought .................................. a doctor.",
@@ -28,7 +30,8 @@
                 "consult",
                 "to consult"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7ec10ddf59c14fd2a890e7feacd6ffc2"
         },
         {
             "question": "I was unable ................................... the question.",
@@ -37,7 +40,8 @@
                 "answer",
                 "to answer"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "155006ee4a4547b7ac1e9c4a6fd17b9e"
         },
         {
             "question": "Mother made me ................................ the room.",
@@ -46,7 +50,8 @@
                 "clean",
                 "to clean"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "d4f286e8254e43748086e977d664bf60"
         },
         {
             "question": "I forgot ................................. the car.",
@@ -55,7 +60,8 @@
                 "to lock",
                 "lock"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "667dc8f08daf4ffbaf2804e86bc91f73"
         },
         {
             "question": "I heard them ....................................... in the next room.",
@@ -64,7 +70,8 @@
                 "talk",
                 "to talk"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "db871ad298b449fa8eea7390731b3ae3"
         },
         {
             "question": "You needn't ....................................... for that drink.",
@@ -73,7 +80,8 @@
                 "to pay",
                 "pay"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2c3c8c7cb45942d6848eb6b44ed94a0e"
         },
         {
             "question": "You don't need ...................................... for me.",
@@ -82,7 +90,8 @@
                 "wait",
                 "to wait"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e500decd0dbc4a09bdc4045873c739e6"
         },
         {
             "question": "I was forced ..................................",
@@ -91,7 +100,8 @@
                 "leave",
                 "to leave"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "fb82777421444ca7aa54e257247635e0"
         },
         {
             "question": "You should encourage him .................................... another attempt.",
@@ -100,7 +110,8 @@
                 "make",
                 "to make"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "40e67eefd6e0444a8d7da4d1be9080c8"
         },
         {
             "question": "He refused ..................................... to me.",
@@ -109,7 +120,8 @@
                 "talk",
                 "to talk"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "1d642b0fa9eb486fba975f82fd7f9ec3"
         }
     ]
 }

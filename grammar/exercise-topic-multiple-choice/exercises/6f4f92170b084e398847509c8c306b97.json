@@ -9,7 +9,8 @@
                 "both",
                 "either"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7184db2bf48b41d3a145fdd9e67ba7e6"
         },
         {
             "question": "Alice sends you ........................ her love.",
@@ -19,7 +20,8 @@
                 "either",
                 "neither"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f752e792cf244d36b38b7cc72a49f443"
         },
         {
             "question": "............................. of us were ill so we didn't go to work.",
@@ -29,7 +31,8 @@
                 "Either",
                 "Neither"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "29e2be7e6dbc4285ac89fbe5e4814979"
         },
         {
             "question": "I don't like ......................... of my Grammar teachers.",
@@ -39,7 +42,8 @@
                 "either",
                 "neither"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c4ea2ef2fe534287b43d4ca5ba51fa85"
         },
         {
             "question": "Rahul and Ravi .......................... went to the party.",
@@ -49,7 +53,8 @@
                 "both",
                 "neither"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "927db6670fd94df8b389afae7fea3f33"
         },
         {
             "question": "........................... of us play cricket regularly.",
@@ -58,7 +63,8 @@
                 "Both",
                 "Either"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "27d1667e5b6e4945a8cef212d2979c1a"
         },
         {
             "question": "........................... of us went to the party.",
@@ -68,7 +74,8 @@
                 "Neither",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "90aa5b114901403092f0af89a374bd30"
         },
         {
             "question": "I couldn't choose between them. I liked them ........................",
@@ -78,7 +85,8 @@
                 "either",
                 "neither"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bec62d5dad0449b29d343820759d69cd"
         },
         {
             "question": "You can take ........................... the apple or the orange. You can't have them ......................",
@@ -88,7 +96,8 @@
                 "either, both",
                 "both, either"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d401a7ed368b41b8ae73db4c375ddd51"
         },
         {
             "question": "I don't think highly of .............................. of them.",
@@ -98,7 +107,8 @@
                 "either",
                 "neither"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "6f0d681d7c8b44be8a83a9cfc7f480fa"
         },
         {
             "question": ".................................... swim.",
@@ -107,7 +117,8 @@
                 "Both of us cannot",
                 "Neither of us can"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5db231e58a0e45c28066165647588251"
         },
         {
             "question": "I don't want ......................................",
@@ -117,7 +128,8 @@
                 "neither chocolate nor cake",
                 "both chocolate and cake"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6b0171556922471d835b513070360869"
         }
     ]
 }

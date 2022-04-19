@@ -10,7 +10,8 @@
                 "was written",
                 "has written"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "f8a4d1e14c71428398b078d67eb98a01"
         },
         {
             "question": "She gave the beggar a coin. / The beggar ........................ a coin.",
@@ -20,7 +21,8 @@
                 "was given",
                 "has given"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5523ff135a3d43b4b345dc1766df263b"
         },
         {
             "question": "You need sodium bicarbonate for this experiment. / Sodium bicarbonate ....................... for this experiment.",
@@ -30,7 +32,8 @@
                 "is needed",
                 "is being needed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "442e6f88cec14585a8f116942adedfde"
         },
         {
             "question": "Bad people hurt good people. / Good people ....................... by bad people.",
@@ -40,7 +43,8 @@
                 "are hurt",
                 "have hurt"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5b353de3795248e69f70ba36d20cd9cd"
         },
         {
             "question": "Supriya took her mother to the hospital. / Supriya's mother ..................... to the hospital.",
@@ -50,7 +54,8 @@
                 "was taken",
                 "is taken"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "cd70d74518a643899e362d533784b171"
         },
         {
             "question": "She threw stones at the dog. / Stones ............................ at the dog.",
@@ -60,7 +65,8 @@
                 "were thrown",
                 "have been thrown"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "2ef13f9f19bb4ca59c56ec337f21790a"
         },
         {
             "question": "The masons are building the house. / The house ....................... by the masons.",
@@ -70,7 +76,8 @@
                 "is being built",
                 "has been built"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "352c4298f87a4bed9cbbea1be3b74429"
         },
         {
             "question": "I am writing a novel. / A novel .............................. by me.",
@@ -80,7 +87,8 @@
                 "is written",
                 "is being written"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "795d757d1e2745008a9584a1a31296b6"
         },
         {
             "question": "She helped the boy. / The boy ............................... by her.",
@@ -90,7 +98,8 @@
                 "was helped",
                 "is helped"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a8b5074bbad044e3be1178bd5717035e"
         },
         {
             "question": "She showed me the photograph. / I ........................... the photograph.",
@@ -100,7 +109,8 @@
                 "have been shown",
                 "was shown"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "9eafe8ab302e4c3b8a6e93f3a2e68318"
         },
         {
             "question": "Cats chase mice. / Mice ......................... by cats.",
@@ -110,7 +120,8 @@
                 "are chased",
                 "have chased"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5ca93a62c691439ca3dfbb89fbe0124c"
         },
         {
             "question": "The pigeon does not make nests. / Nests ............................ by the pigeon.",
@@ -120,7 +131,8 @@
                 "are not made",
                 "were not made"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "85b240d8b75941cd87ec3dc9fd9cff8e"
         },
         {
             "question": "I don’t know Michael. / Michael ............................ to me.",
@@ -130,7 +142,8 @@
                 "has not been known",
                 "was not known"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "3c4133e15fbc4d19bb70f8886685668a"
         }
     ]
 }

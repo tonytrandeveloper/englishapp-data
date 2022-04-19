@@ -10,7 +10,8 @@
                 "and",
                 "so"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "09fca31de58b4be296d3547e265b49c0"
         },
         {
             "question": "Neither Alice ......................................... Mary has come.",
@@ -19,7 +20,8 @@
                 "or",
                 "nor"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "39902093bd604a50b6d19cd2663ca938"
         },
         {
             "question": "She speaks English .................................... Spanish.",
@@ -29,7 +31,8 @@
                 "and",
                 "Either could be used here"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "790a8e40b5bf4d2bbe625fe26209c925"
         },
         {
             "question": "I like him ...................................... he is very sincere.",
@@ -39,7 +42,8 @@
                 "because",
                 "hence"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "07408b4f2e8548d199654583f68740f1"
         },
         {
             "question": "..................................... he worked hard, he did not win.",
@@ -49,7 +53,8 @@
                 "As if",
                 "As though"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "d7c44416180148568cc442e659ab4d80"
         },
         {
             "question": "She is ill ................................ she is cheerful.",
@@ -59,7 +64,8 @@
                 "but",
                 "as well as"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5f168f78590b4e4ba065083b8350b249"
         },
         {
             "question": "...................................... it was raining we decided to go out.",
@@ -69,7 +75,8 @@
                 "Though",
                 "However"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d7ca4bebf4d446a1904bdd40aee8a5d1"
         },
         {
             "question": "The piper played ...................................... the children danced.",
@@ -79,7 +86,8 @@
                 "and",
                 "but"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "81f2b90224214ebabe4c1797fd26aed2"
         },
         {
             "question": "James works hard ....................................... his brother is lazy.",
@@ -89,7 +97,8 @@
                 "as long as",
                 "whereas"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "36589c37b1744323a223c1b1fa943489"
         },
         {
             "question": "I went to the shop ..................................... bought some vegetables.",
@@ -99,7 +108,8 @@
                 "so",
                 "hence"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "48645fedd10e4950894427d8fc85771e"
         },
         {
             "question": "You must start at once ................................. you will be late.",
@@ -109,7 +119,8 @@
                 "otherwise",
                 "as long as"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "fd9c5a406221470197e865dee33a43a5"
         },
         {
             "question": "He must be tired ..................................... he has been working since morning.",
@@ -119,7 +130,8 @@
                 "hence",
                 "because"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0617c61e2f9047638fa23699a6df2661"
         }
     ]
 }

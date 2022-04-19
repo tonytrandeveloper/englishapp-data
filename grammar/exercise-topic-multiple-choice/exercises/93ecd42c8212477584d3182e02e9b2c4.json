@@ -10,7 +10,8 @@
                 "Nor do I",
                 "So do I"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a5f68edf44e4457fb060c3b16874d22d"
         },
         {
             "question": "I was late for the meeting. ………………………….",
@@ -20,7 +21,8 @@
                 "So he was",
                 "Nor was he"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "50d2f8579212436bb779dd5a6a3e15e7"
         },
         {
             "question": "She passed the test and …………………………. did I.",
@@ -30,7 +32,8 @@
                 "nor",
                 "neither"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "db9a6d6a09fb40a5b75f299e2e1d6a7b"
         },
         {
             "question": "I have finished my job and …………………………. has he.",
@@ -40,7 +43,8 @@
                 "nor",
                 "neither"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "806d59fc1d174f868b694296abb72fbe"
         },
         {
             "question": "Susie didn’t arrive. ……………………….. did Mary.",
@@ -50,7 +54,8 @@
                 "Neither",
                 "Nor"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "11e435d8581d4a7f94e8937d1b44cf99"
         },
         {
             "question": "He didn’t buy it. ……………………………. did I.",
@@ -60,7 +65,8 @@
                 "So",
                 "Neither"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "252bfe05ff3640a2b9fa28eabc5cac11"
         },
         {
             "question": "I can play chess ………………………… he can’t.",
@@ -70,7 +76,8 @@
                 "and",
                 "but"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "025406914a0048148013ebb892d829e2"
         },
         {
             "question": "She knows how to swim, but ………………………..",
@@ -80,7 +87,8 @@
                 "don't I",
                 "I know not"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ba024b98fc81428e96d7b67b263fc076"
         },
         {
             "question": "My husband doesn’t watch movies …………………………… I do.",
@@ -90,7 +98,8 @@
                 "and",
                 "so"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "bf33547a6bbe4a8f8281a7f67c75a559"
         },
         {
             "question": "She didn’t complain. Neither …………………………… her husband.",
@@ -100,7 +109,8 @@
                 "does",
                 "has"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "dd1141286ad14d56bde8f772db929ef5"
         },
         {
             "question": "I know you don’t like me. I don’t like you ……………………….",
@@ -109,7 +119,8 @@
                 "either",
                 "neither"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "adf0b436531646928af34c31b2a05ac0"
         },
         {
             "question": "She is married. ……………………………… her sisters.",
@@ -119,7 +130,8 @@
                 "So is",
                 "Nor are"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "5c54b1e4a87e4b6cb61ed51bdc16e55f"
         }
     ]
 }

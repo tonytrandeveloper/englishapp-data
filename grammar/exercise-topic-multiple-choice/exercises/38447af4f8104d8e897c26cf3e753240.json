@@ -10,7 +10,8 @@
                 "are leaving",
                 "would leave"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "0af10a331f6749a5a40a5302704005a2"
         },
         {
             "question": "The school …………………………. for the summer vacation on Friday.",
@@ -20,7 +21,8 @@
                 "close",
                 "is closing"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1c9300a336c342b1b9141e227bd2ddd2"
         },
         {
             "question": "She ………………………………. probably ............................. in the afternoon.",
@@ -30,7 +32,8 @@
                 "is, coming",
                 "comes"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a6ac5c806bdb46e88fbe3d7817552ecd"
         },
         {
             "question": "I think it ………………………………..  later in the day.",
@@ -40,7 +43,8 @@
                 "rains",
                 "is raining"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "7ba679334f9543dba965b2d7406b04cf"
         },
         {
             "question": "I …………………………..",
@@ -50,7 +54,8 @@
                 "am quitting",
                 "will quit"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "819ee44cfd1f4359bd9c8d469b6a1c9a"
         },
         {
             "question": "They …………………………..a new product next month.",
@@ -60,7 +65,8 @@
                 "are launching",
                 "will launch"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "826a87129e0643b7b1e5273f72205dee"
         },
         {
             "question": "If there is a strike, we ………………………………….. not be able to go.",
@@ -70,7 +76,8 @@
                 "can",
                 "must"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "48e808fc0ec145edb8359e9c84142a1a"
         },
         {
             "question": "I ……………………………. this bike if you lower the price.",
@@ -80,7 +87,8 @@
                 "buy",
                 "am buying"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ac3be0144afc4a49b1d8e4e74b7f8512"
         },
         {
             "question": "……………………………. I help you with the homework?",
@@ -89,7 +97,8 @@
                 "Will",
                 "Shall"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "ac8fd2aff65943068a3411f91664cbd5"
         },
         {
             "question": "…………………………… you help me with the chores?",
@@ -99,7 +108,8 @@
                 "Shall",
                 ""
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "741f4ecf512d4de8aa2c441541c5e330"
         },
         {
             "question": "I ………………………… until you come.",
@@ -109,7 +119,8 @@
                 "am waiting",
                 "would wait"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "46308417627642359b4629fbd3b269de"
         },
         {
             "question": "You ……………………………… from me again.",
@@ -119,7 +130,8 @@
                 "are not hearing",
                 "will not be hearing"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "5928586b483d428aa3726bea90c1f9f4"
         }
     ]
 }

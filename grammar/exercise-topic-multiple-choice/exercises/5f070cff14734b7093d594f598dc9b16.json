@@ -9,7 +9,8 @@
                 "Kites is a proper noun",
                 "Kites is a common noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "72d13869cc1f48349084b2fcafe486cc"
         },
         {
             "question": "There was an earthquake in Italy on Monday.",
@@ -18,7 +19,8 @@
                 "Monday is a proper noun",
                 "Monday is a common noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "11f487640dc64b8f83423ba5631ff337"
         },
         {
             "question": "Radha bought a bicycle for her brother.",
@@ -28,7 +30,8 @@
                 "Radha is a common noun and bicycle is a proper noun",
                 "Radha and bicycle are proper nouns"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "ce39e62c3acc4c9b8101d5299b6be902"
         },
         {
             "question": "India is the seventh largest country in the world.",
@@ -38,7 +41,8 @@
                 "India and world are common nouns",
                 "India and country are proper nouns"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9de690ae94df42078176b18941a0fba5"
         },
         {
             "question": "Jane, my sister, wants to be an air hostess.",
@@ -47,7 +51,8 @@
                 "Jane is a proper noun and air hostess is a common noun",
                 "Jane is a common noun and air hostess is a proper noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "1d662087d2174f78ab89d590bbf150bc"
         },
         {
             "question": "I forgot my umbrella at home.",
@@ -56,7 +61,8 @@
                 "Umbrella and home are proper nouns",
                 "Umbrella and home are common nouns"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "49007ff9f2d448038b9a87b9733509a7"
         },
         {
             "question": "America is one of the most developed countries in the world.",
@@ -66,7 +72,8 @@
                 "America and countries are common nouns",
                 "America and countries are proper nouns"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "367e1e4b21514e368778f4abb81ada4b"
         },
         {
             "question": "Agra is on the banks of river Yamuna.",
@@ -76,7 +83,8 @@
                 "Agra and Yamuna are common nouns",
                 "River is a proper noun and Agra is a common noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "32170e1b90864224bb18e69e1248b16a"
         },
         {
             "question": "The coach was angry when the boys lost the championship.",
@@ -86,7 +94,8 @@
                 "Coach and boys are common nouns",
                 "Coach is a proper noun and championship is a common noun"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "42a6d7ad82784abe9079f644c936de00"
         },
         {
             "question": "Titanic is the name of the ship that sank on its maiden journey.",
@@ -95,7 +104,8 @@
                 "Titanic is a proper noun and ship is a common noun",
                 "Titanic is a common noun and ship is a proper noun"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "83cb69592b8d455f9322ed652499022e"
         }
     ]
 }

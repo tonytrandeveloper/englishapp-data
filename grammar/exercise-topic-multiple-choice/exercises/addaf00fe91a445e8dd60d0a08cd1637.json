@@ -10,7 +10,8 @@
                 "returned",
                 "has returned"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "4b5a4c67f3ac4d8b8398007cedcb339f"
         },
         {
             "question": "She ................................... a novel.",
@@ -20,7 +21,8 @@
                 "has written",
                 "have written"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "391ce5a68260433c8cc3068fe192a7f8"
         },
         {
             "question": "He ...................................... in ten films.",
@@ -30,7 +32,8 @@
                 "has acted",
                 "have acted"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "5bb5c77c0a9546febdf8175f521d2bc8"
         },
         {
             "question": "I ................................. not received your letter.",
@@ -40,7 +43,8 @@
                 "has",
                 "had"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b106972f4b8b462e82f7ad4c5ce65684"
         },
         {
             "question": "I have never ................................ of that place.",
@@ -50,7 +54,8 @@
                 "heard",
                 "hearded"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c4b660bfca2d40858482738471f97956"
         },
         {
             "question": "She ................................... lost her money.",
@@ -60,7 +65,8 @@
                 "have",
                 "had"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "6cc57fc3d46440739a682571b915d463"
         },
         {
             "question": "Look, what John ................................... me!",
@@ -70,7 +76,8 @@
                 "has given",
                 "had given"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9dfe7142894c4824820111b8adcf1865"
         },
         {
             "question": "Police .................................... 80 suspected drug traffickers in raids.",
@@ -80,7 +87,8 @@
                 "have arrested",
                 "had arrested"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "16ae2c1a21a34a2383c310911ca991d2"
         },
         {
             "question": "A 24-year old woman ....................................... killed in an accident.",
@@ -90,7 +98,8 @@
                 "has",
                 "has been"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0766b71c7792442e8a34868e4d498ccb"
         },
         {
             "question": "Honey, I ..................................... my keys.",
@@ -100,7 +109,8 @@
                 "have lost",
                 "have losed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "19b5424b392f4dedb88fc91f48c2b34f"
         },
         {
             "question": "I .................................. six phone calls since lunchtime.",
@@ -110,7 +120,8 @@
                 "had answered",
                 "has answered"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "b6c0a60735174be6b4733feb6e256d0e"
         }
     ]
 }

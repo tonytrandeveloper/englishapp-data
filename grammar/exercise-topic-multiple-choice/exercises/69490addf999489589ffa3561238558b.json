@@ -10,7 +10,8 @@
                 "was promptly obeyed",
                 "has promptly obeyed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c5314b20fc834512b4e9ccd2695f793c"
         },
         {
             "question": "That portrait ................................. by my grandmother.",
@@ -20,7 +21,8 @@
                 "has painted",
                 "was painted"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "8ccb2dfc3f054ac785aa23824bc822cf"
         },
         {
             "question": "They .................................... to the party.",
@@ -30,7 +32,8 @@
                 "have been invited",
                 "have been inviting"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7b2971bd77ef4fdb9a4cdc22b83a85b5"
         },
         {
             "question": "You ............................... when the time comes.",
@@ -40,7 +43,8 @@
                 "told",
                 "will told"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "72e572bdee594d5b865f35586ec4cf80"
         },
         {
             "question": "Everybody ............................ with me.",
@@ -50,7 +54,8 @@
                 "is agrees",
                 "is agreed"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "39bf39004e514dc9ae257693a5e32af2"
         },
         {
             "question": "I was very ................................ in the lesson.",
@@ -60,7 +65,8 @@
                 "interesting",
                 "interested"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "91bcf7578b134c0e8200d863479cefd6"
         },
         {
             "question": "The dog ............................... the man.",
@@ -70,7 +76,8 @@
                 "was bit",
                 "was bitten"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a6083cb17bd147c09a45902f1fb09f90"
         },
         {
             "question": "He ............................ a very remarkable discovery.",
@@ -80,7 +87,8 @@
                 "made",
                 "was made"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3642f05bf14648378adc953de7ce1b55"
         },
         {
             "question": "The accused ........................... to a tree.",
@@ -90,7 +98,8 @@
                 "bound",
                 "was bound"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "5ddd87c4064c4446b864997af6d2410a"
         },
         {
             "question": "She ................................ the first prize in the competition.",
@@ -100,7 +109,8 @@
                 "has won",
                 "was won"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "3f73ef9090bf446797555ae2db6d573d"
         },
         {
             "question": "The ocean .................................... dry.",
@@ -110,7 +120,8 @@
                 "cannot be pumped",
                 "cannot have pumped"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b37ca84e553f40c4ba14f30412b4ec68"
         },
         {
             "question": "I ..................................... to leave the room.",
@@ -120,7 +131,8 @@
                 "have told",
                 "was told"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "2a5450c8d42d4e778f856c8fee68dac5"
         }
     ]
 }

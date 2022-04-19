@@ -10,7 +10,8 @@
                 "has been written",
                 "is written"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "0b4765a5cc774a9190f9b3159c9f581a"
         },
         {
             "question": "I bought a diamond necklace. / A diamond necklace .......................... by me.",
@@ -20,7 +21,8 @@
                 "was bought",
                 "has been bought"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7af62be5299743b0af2a11a3a8920ad2"
         },
         {
             "question": "I know him. / He ............................ to me.",
@@ -30,7 +32,8 @@
                 "has known",
                 "is being known"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c58111604dcc49a7bdbbfa86acef30f6"
         },
         {
             "question": "They invited me to their party. / I .............................. to their party.",
@@ -40,7 +43,8 @@
                 "have been invited",
                 "was invited"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "fb7e13c487774f6a9b912832082f75e8"
         },
         {
             "question": "I closed the doors and windows. / The doors and windows ......................... by me.",
@@ -50,7 +54,8 @@
                 "were being closed",
                 "were closed"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "0a47d0b08a6f44f69ada771750097180"
         },
         {
             "question": "Our team expected to win the match. / The match ........................ to be won by our team.",
@@ -60,7 +65,8 @@
                 "was expected",
                 "is expected"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "34ca3bb57fd948979f39f3ceb822166b"
         },
         {
             "question": "Brutus accused Caesar of ambition. / Caesar .................... of ambition.",
@@ -70,7 +76,8 @@
                 "was accused",
                 "has been accused"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "a443058ddb8d48f7ad4bf6aac90467f3"
         },
         {
             "question": "He taught me to read Hindi. / I ................................. to read Hindi.",
@@ -80,7 +87,8 @@
                 "was taught",
                 "have been taught"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "b30f13895ba541b09fe45083958dfb6c"
         },
         {
             "question": "One expects better behavior from an educated person. / Better behavior ..................... from an educated person.",
@@ -90,7 +98,8 @@
                 "is being expected",
                 "is expected"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "7e19907bd6c84c90ba2ce2e32dfd47cd"
         },
         {
             "question": "They were watching the film The Titanic. / The film The Titanic ....................... by them.",
@@ -100,7 +109,8 @@
                 "has been watched",
                 "was being watched"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d78c235afe384bf793a15bc7987e924a"
         },
         {
             "question": "You must endure what you cannot cure. / What ...................... must be endured.",
@@ -110,7 +120,8 @@
                 "cannot be cured",
                 "cannot cured"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "694ec58087f44a389f97f74156fa2cf4"
         }
     ]
 }

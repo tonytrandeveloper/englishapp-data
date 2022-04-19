@@ -9,7 +9,8 @@
                 "putting on",
                 "wearing"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c92c5043422645d198f454ec468703c1"
         },
         {
             "question": "I have ................................... my car.",
@@ -18,7 +19,8 @@
                 "disposed of",
                 "disposed off"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "9b008892ffeb483eb4ee8df6c9db97f2"
         },
         {
             "question": "Please ................................... this painting.",
@@ -27,7 +29,8 @@
                 "see",
                 "look at"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "90c51d25a65c4193b8b06666419fd759"
         },
         {
             "question": "I have ................................... a new computer.",
@@ -36,7 +39,8 @@
                 "ordered",
                 "ordered for"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "078762e77e1c410c8d983cf69c1262b3"
         },
         {
             "question": "Why don’t you ................................... me?",
@@ -45,7 +49,8 @@
                 "hear",
                 "listen to"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "9f7be137a948465fa206533b35a4a48c"
         },
         {
             "question": "He came ....................................... a blue jacket.",
@@ -54,7 +59,8 @@
                 "wearing",
                 "putting on"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "e20e4a2f2861455cba7cab559e786add"
         },
         {
             "question": "He ...................................... to come.",
@@ -63,7 +69,8 @@
                 "denied",
                 "refused"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7bb0b385388242f4b58b5ec60d2867d4"
         },
         {
             "question": "He .................................... there for a day.",
@@ -72,7 +79,8 @@
                 "lived",
                 "stayed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "7c1566dd7e57411ab479ba3791bf5399"
         },
         {
             "question": "He .................................. no mistake.",
@@ -81,7 +89,8 @@
                 "did",
                 "committed"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "c0565dae178341fe995bf5e5aa566264"
         },
         {
             "question": "We ought to ............................... exercise.",
@@ -90,7 +99,8 @@
                 "make",
                 "take"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "e0236ae9a79347beb88e6e4fc151031f"
         }
     ]
 }

@@ -10,7 +10,8 @@
                 "gave",
                 "would give"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "ca9d802d8a1f4d2f856204ba4f488076"
         },
         {
             "question": "The man ........................................... that he must go as soon as possible.",
@@ -20,7 +21,8 @@
                 "asked",
                 "told"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "61bc3ffad8524a85b5b030036c76fdbf"
         },
         {
             "question": "She said that she ........................................... to see any of them and asked them to go away.",
@@ -30,7 +32,8 @@
                 "does not want",
                 "had not wanted"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "8b28a4838b264424ab56fb0ea6762990"
         },
         {
             "question": "The teacher says that if you work hard you .....................................",
@@ -39,7 +42,8 @@
                 "will pass",
                 "would pass"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "a9b339a93fc240418bdcd1daffe26a9d"
         },
         {
             "question": "He said that he ..........................................",
@@ -49,7 +53,8 @@
                 "has won",
                 "had won"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "f9e16f16701e4781bd7ba68efed91bed"
         },
         {
             "question": "He proposed that they ....................................... wait for her return.",
@@ -59,7 +64,8 @@
                 "will",
                 "should"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "63d6adfe5aff428f80d786968a0249ef"
         },
         {
             "question": "Alice exclaimed how clever .........................................",
@@ -68,7 +74,8 @@
                 "was she",
                 "she was"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "d367d85b9cf140f78b3dacd6357f87c7"
         },
         {
             "question": "The young man asked which way she ........................................",
@@ -78,7 +85,8 @@
                 "had gone",
                 "would go"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "6a89f73fe32847c2a0bed46dcd9ffe8d"
         },
         {
             "question": "He asked me where .................................... going.",
@@ -88,7 +96,8 @@
                 "was I",
                 "I am"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "86babe1b68c34913a18b13b4868a13f4"
         },
         {
             "question": "She requested them to wait there till she ...................................",
@@ -98,7 +107,8 @@
                 "returned",
                 "will return"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "98ff34f8c1934734913a08f62d96ca3b"
         }
     ]
 }

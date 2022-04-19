@@ -9,7 +9,8 @@
                 "slept",
                 "was sleeping"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "795d12dcf809429aa6efdea39af11d0e"
         },
         {
             "question": "I ......................... her many times but she didn't answer.",
@@ -18,7 +19,8 @@
                 "phoned",
                 "was phoning"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "dc6b6e4a26c8400c8763a42eab3bd093"
         },
         {
             "question": "'What ........................... then?' 'I was watching TV.'",
@@ -27,7 +29,8 @@
                 "did you do",
                 "were you doing"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "474b3cb9acac4b58bd9775122688a98b"
         },
         {
             "question": "He ......................... money from the rich and gave it to the poor.",
@@ -36,7 +39,8 @@
                 "stole",
                 "was stealing"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "e969f2ab2ba84ab487eaed9501888a30"
         },
         {
             "question": "'Did you meet James yesterday?' 'Yes, I .................... him.'",
@@ -45,7 +49,8 @@
                 "met",
                 "was meeting"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "c1b576b5bab24185a00d8f2cb341352b"
         },
         {
             "question": "The train ...................... at",
@@ -54,7 +59,8 @@
                 "arrived",
                 "was arriving"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "994f51d02a3243d390c25afe53650b2c"
         },
         {
             "question": "The children ............................. when their mother .................... home.",
@@ -64,7 +70,8 @@
                 "were sleeping, was getting",
                 "were sleeping, got"
             ],
-            "correct": 2
+            "correct": 2,
+            "id": "d44c0e241ae34d7f8dcd3331d774b61e"
         },
         {
             "question": "I cooked dinner while Mike ............................ the house.",
@@ -73,7 +80,8 @@
                 "was tidying",
                 "tidied"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "df41cffb1670450ba5cc697ab7ec1c46"
         },
         {
             "question": "I ....................... dinner when the lights went out.",
@@ -82,7 +90,8 @@
                 "had",
                 "was having"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "875aa0c6a6ac4fff8b7e736d052f08be"
         },
         {
             "question": "It ......................... me quite sometime to learn French.",
@@ -91,7 +100,8 @@
                 "took",
                 "was taking"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "4443e12e9d35429fb9ac377927876588"
         },
         {
             "question": "As I .............................. down the street, I saw a strange sight.",
@@ -100,7 +110,8 @@
                 "walked",
                 "was walking"
             ],
-            "correct": 1
+            "correct": 1,
+            "id": "57542cf326bd4c03908ecb499adb5376"
         },
         {
             "question": "I ...................... a car last month.",
@@ -109,7 +120,8 @@
                 "bought",
                 "was buying"
             ],
-            "correct": 0
+            "correct": 0,
+            "id": "f80c5db4e2614637b3a8bb11f1bfcd36"
         }
     ]
 }
